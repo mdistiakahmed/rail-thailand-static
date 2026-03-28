@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "111",
+    "departure_from_start": "07:50",
+    "arrival_at_current": "09:31",
+    "departure_from_current": "09:32",
+    "arrival_at_to_station": "14:40",
+    "arrival_at_end": "16:50",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Tha Rua",
+    "end_station_name": "Nong Tom",
+    "begin_station_code": 1039,
+    "end_station_code": 1127
+  },
+  {
+    "train_code": "109",
+    "departure_from_start": "14:15",
+    "arrival_at_current": "15:51",
+    "departure_from_current": "15:52",
+    "arrival_at_to_station": "21:10",
+    "arrival_at_end": "04:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Tha Rua",
+    "end_station_name": "Nong Tom",
+    "begin_station_code": 1039,
+    "end_station_code": 1127
+  }
+]

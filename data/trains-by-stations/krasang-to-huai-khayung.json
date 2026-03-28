@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "141",
+    "departure_from_start": "23:05",
+    "arrival_at_current": "06:55",
+    "departure_from_current": "06:56",
+    "arrival_at_to_station": "09:49",
+    "arrival_at_end": "10:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Krasang",
+    "end_station_name": "Huai Khayung",
+    "begin_station_code": 2243,
+    "end_station_code": 2285
+  },
+  {
+    "train_code": "135",
+    "departure_from_start": "07:10",
+    "arrival_at_current": "14:44",
+    "departure_from_current": "14:45",
+    "arrival_at_to_station": "17:38",
+    "arrival_at_end": "18:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Krasang",
+    "end_station_name": "Huai Khayung",
+    "begin_station_code": 2243,
+    "end_station_code": 2285
+  }
+]

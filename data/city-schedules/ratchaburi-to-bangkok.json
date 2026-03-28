@@ -1,0 +1,166 @@
+{
+  "from_city": "ratchaburi",
+  "to_city": "bangkok",
+  "schedules": [
+    {
+      "train_no": "44",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Ratchaburi",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "01:45",
+      "arrive_time": "03:45",
+      "duration": "2h"
+    },
+    {
+      "train_no": "168",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Ratchaburi",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "03:09",
+      "arrive_time": "05:10",
+      "duration": "2h 1m"
+    },
+    {
+      "train_no": "86",
+      "train_name": "",
+      "train_type": "Express",
+      "from_station": "Ratchaburi",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "04:05",
+      "arrive_time": "06:10",
+      "duration": "2h 5m"
+    },
+    {
+      "train_no": "84",
+      "train_name": "",
+      "train_type": "Express",
+      "from_station": "Ratchaburi",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "04:48",
+      "arrive_time": "07:05",
+      "duration": "2h 17m"
+    },
+    {
+      "train_no": "352",
+      "train_name": "",
+      "train_type": "Commuter",
+      "from_station": "Ratchaburi",
+      "to_station": "Bangkok (Thon Buri)",
+      "depart_time": "05:00",
+      "arrive_time": "07:10",
+      "duration": "2h 10m"
+    },
+    {
+      "train_no": "172",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Ratchaburi",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "05:32",
+      "arrive_time": "07:30",
+      "duration": "1h 58m"
+    },
+    {
+      "train_no": "32",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Ratchaburi",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "06:08",
+      "arrive_time": "08:10",
+      "duration": "2h 2m"
+    },
+    {
+      "train_no": "38",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Ratchaburi",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "06:59",
+      "arrive_time": "09:05",
+      "duration": "2h 6m"
+    },
+    {
+      "train_no": "46",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Ratchaburi",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "06:59",
+      "arrive_time": "09:05",
+      "duration": "2h 6m"
+    },
+    {
+      "train_no": "252",
+      "train_name": "",
+      "train_type": "Ordinary",
+      "from_station": "Ratchaburi",
+      "to_station": "Bangkok (Thon Buri)",
+      "depart_time": "08:14",
+      "arrive_time": "10:30",
+      "duration": "2h 16m"
+    },
+    {
+      "train_no": "170",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Ratchaburi",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "08:32",
+      "arrive_time": "10:50",
+      "duration": "2h 18m"
+    },
+    {
+      "train_no": "986",
+      "train_name": "",
+      "train_type": "Freight",
+      "from_station": "Ratchaburi",
+      "to_station": "Bangkok (Hua Lamphong)",
+      "depart_time": "10:13",
+      "arrive_time": "13:15",
+      "duration": "3h 2m"
+    },
+    {
+      "train_no": "254",
+      "train_name": "",
+      "train_type": "Ordinary",
+      "from_station": "Ratchaburi",
+      "to_station": "Bangkok (Thon Buri)",
+      "depart_time": "14:52",
+      "arrive_time": "17:25",
+      "duration": "2h 33m"
+    },
+    {
+      "train_no": "40",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Ratchaburi",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "16:09",
+      "arrive_time": "18:05",
+      "duration": "1h 56m"
+    },
+    {
+      "train_no": "262",
+      "train_name": "",
+      "train_type": "Ordinary",
+      "from_station": "Ratchaburi",
+      "to_station": "Bangkok (Hua Lamphong)",
+      "depart_time": "16:31",
+      "arrive_time": "19:20",
+      "duration": "2h 49m"
+    },
+    {
+      "train_no": "912",
+      "train_name": "",
+      "train_type": "Excursion",
+      "from_station": "Ratchaburi",
+      "to_station": "Bangkok (Hua Lamphong)",
+      "depart_time": "18:09",
+      "arrive_time": "20:15",
+      "duration": "2h 6m"
+    }
+  ]
+}

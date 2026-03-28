@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "167",
+    "departure_from_start": "20:30",
+    "arrival_at_current": "06:21",
+    "departure_from_current": "06:22",
+    "arrival_at_to_station": "10:34",
+    "arrival_at_end": "11:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Tha Chana",
+    "end_station_name": "Huai Yot",
+    "begin_station_code": 4215,
+    "end_station_code": 4281
+  }
+]

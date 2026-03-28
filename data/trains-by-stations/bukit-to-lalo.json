@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "464",
+    "departure_from_start": "12:40",
+    "arrival_at_current": "13:10",
+    "departure_from_current": "13:11",
+    "arrival_at_to_station": "13:54",
+    "arrival_at_end": "18:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Bukit",
+    "end_station_name": "Lalo",
+    "begin_station_code": 4424,
+    "end_station_code": 4414
+  }
+]

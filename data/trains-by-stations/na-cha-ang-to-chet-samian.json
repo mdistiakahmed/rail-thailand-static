@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "254",
+    "departure_from_start": "06:30",
+    "arrival_at_current": "07:56",
+    "departure_from_current": "07:57",
+    "arrival_at_to_station": "15:08",
+    "arrival_at_end": "17:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Na Cha-ang",
+    "end_station_name": "Chet Samian",
+    "begin_station_code": 4184,
+    "end_station_code": 4085
+  }
+]

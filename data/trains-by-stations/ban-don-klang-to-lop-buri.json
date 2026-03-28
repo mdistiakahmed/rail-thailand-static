@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "303",
+    "departure_from_start": "04:15",
+    "arrival_at_current": "06:04",
+    "departure_from_current": "06:05",
+    "arrival_at_to_station": "07:05",
+    "arrival_at_end": "07:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Ban Don Klang",
+    "end_station_name": "Lop Buri",
+    "begin_station_code": 1034,
+    "end_station_code": 1050
+  },
+  {
+    "train_code": "301",
+    "departure_from_start": "16:30",
+    "arrival_at_current": "18:38",
+    "departure_from_current": "18:39",
+    "arrival_at_to_station": "19:40",
+    "arrival_at_end": "19:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Ban Don Klang",
+    "end_station_name": "Lop Buri",
+    "begin_station_code": 1034,
+    "end_station_code": 1050
+  }
+]

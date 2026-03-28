@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "167",
+    "departure_from_start": "20:30",
+    "arrival_at_current": "03:30",
+    "departure_from_current": "03:31",
+    "arrival_at_to_station": "09:22",
+    "arrival_at_end": "11:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Map Ammarit",
+    "end_station_name": "Khlong Chang",
+    "begin_station_code": 4175,
+    "end_station_code": 4269
+  }
+]

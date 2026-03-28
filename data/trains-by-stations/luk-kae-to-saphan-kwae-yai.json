@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "257",
+    "departure_from_start": "07:45",
+    "arrival_at_current": "09:39",
+    "departure_from_current": "09:40",
+    "arrival_at_to_station": "10:34",
+    "arrival_at_end": "12:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Luk Kae",
+    "end_station_name": "Saphan Kwae Yai",
+    "begin_station_code": 4045,
+    "end_station_code": 4058
+  },
+  {
+    "train_code": "259",
+    "departure_from_start": "13:55",
+    "arrival_at_current": "15:39",
+    "departure_from_current": "15:40",
+    "arrival_at_to_station": "16:25",
+    "arrival_at_end": "18:15",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Luk Kae",
+    "end_station_name": "Saphan Kwae Yai",
+    "begin_station_code": 4045,
+    "end_station_code": 4058
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "302",
+    "departure_from_start": "04:30",
+    "arrival_at_current": "05:07",
+    "departure_from_current": "05:08",
+    "arrival_at_to_station": "06:22",
+    "arrival_at_end": "07:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Ban Plug Rad",
+    "end_station_name": "Chiang Rak",
+    "begin_station_code": 1038,
+    "end_station_code": 1022
+  },
+  {
+    "train_code": "318",
+    "departure_from_start": "06:00",
+    "arrival_at_current": "06:33",
+    "departure_from_current": "06:34",
+    "arrival_at_to_station": "07:41",
+    "arrival_at_end": "08:50",
+    "weekly_offday": "Saturday, Sunday",
+    "operating_days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "train_type": "Commuter",
+    "begin_station_name": "Ban Plug Rad",
+    "end_station_name": "Chiang Rak",
+    "begin_station_code": 1038,
+    "end_station_code": 1022
+  },
+  {
+    "train_code": "208",
+    "departure_from_start": "05:00",
+    "arrival_at_current": "07:43",
+    "departure_from_current": "07:44",
+    "arrival_at_to_station": "08:59",
+    "arrival_at_end": "10:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Plug Rad",
+    "end_station_name": "Chiang Rak",
+    "begin_station_code": 1038,
+    "end_station_code": 1022
+  },
+  {
+    "train_code": "210",
+    "departure_from_start": "15:55",
+    "arrival_at_current": "17:42",
+    "departure_from_current": "17:43",
+    "arrival_at_to_station": "19:02",
+    "arrival_at_end": "20:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Plug Rad",
+    "end_station_name": "Chiang Rak",
+    "begin_station_code": 1038,
+    "end_station_code": 1022
+  }
+]

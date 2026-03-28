@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "356",
+    "departure_from_start": "04:15",
+    "arrival_at_current": "04:47",
+    "departure_from_current": "04:48",
+    "arrival_at_to_station": "05:01",
+    "arrival_at_end": "08:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Don Thong",
+    "end_station_name": "Sri Samran",
+    "begin_station_code": 4036,
+    "end_station_code": 4033
+  }
+]

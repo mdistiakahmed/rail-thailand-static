@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "207",
+    "departure_from_start": "14:20",
+    "arrival_at_current": "14:29",
+    "departure_from_current": "14:30",
+    "arrival_at_to_station": "17:41",
+    "arrival_at_end": "19:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ramathibodi Hospital",
+    "end_station_name": "Nong Tao",
+    "begin_station_code": 1232,
+    "end_station_code": 1055
+  }
+]

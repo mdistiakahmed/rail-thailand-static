@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "985",
+    "departure_from_start": "11:00",
+    "arrival_at_current": "04:10",
+    "departure_from_current": "04:13",
+    "arrival_at_to_station": "10:16",
+    "arrival_at_end": "12:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Freight",
+    "begin_station_name": "Bang Kaeo",
+    "end_station_name": "Yala",
+    "begin_station_code": 4331,
+    "end_station_code": 4402
+  },
+  {
+    "train_code": "37",
+    "departure_from_start": "16:10",
+    "arrival_at_current": "05:45",
+    "departure_from_current": "05:46",
+    "arrival_at_to_station": "08:47",
+    "arrival_at_end": "10:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Special Exp.",
+    "begin_station_name": "Bang Kaeo",
+    "end_station_name": "Yala",
+    "begin_station_code": 4331,
+    "end_station_code": 4402
+  },
+  {
+    "train_code": "463",
+    "departure_from_start": "06:10",
+    "arrival_at_current": "06:40",
+    "departure_from_current": "06:41",
+    "arrival_at_to_station": "10:07",
+    "arrival_at_end": "12:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Bang Kaeo",
+    "end_station_name": "Yala",
+    "begin_station_code": 4331,
+    "end_station_code": 4402
+  },
+  {
+    "train_code": "169",
+    "departure_from_start": "17:30",
+    "arrival_at_current": "08:21",
+    "departure_from_current": "08:22",
+    "arrival_at_to_station": "11:05",
+    "arrival_at_end": "11:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Bang Kaeo",
+    "end_station_name": "Yala",
+    "begin_station_code": 4331,
+    "end_station_code": 4402
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "463",
+    "departure_from_start": "06:10",
+    "arrival_at_current": "06:24",
+    "departure_from_current": "06:25",
+    "arrival_at_to_station": "11:19",
+    "arrival_at_end": "12:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Ban Ton Don",
+    "end_station_name": "Tanyong Mat",
+    "begin_station_code": 4328,
+    "end_station_code": 4419
+  }
+]

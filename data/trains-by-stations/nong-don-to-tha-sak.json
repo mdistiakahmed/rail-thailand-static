@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "111",
+    "departure_from_start": "07:50",
+    "arrival_at_current": "09:46",
+    "departure_from_current": "09:47",
+    "arrival_at_to_station": "15:17",
+    "arrival_at_end": "16:50",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Nong Don",
+    "end_station_name": "Tha Sak",
+    "begin_station_code": 1045,
+    "end_station_code": 1144
+  }
+]

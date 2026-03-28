@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "255",
+    "departure_from_start": "07:20",
+    "arrival_at_current": "07:22",
+    "departure_from_current": "07:23",
+    "arrival_at_to_station": "12:37",
+    "arrival_at_end": "18:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Jaran Sanitwong",
+    "end_station_name": "Sam Roi Yot",
+    "begin_station_code": 4434,
+    "end_station_code": 4128
+  },
+  {
+    "train_code": "251",
+    "departure_from_start": "13:10",
+    "arrival_at_current": "13:12",
+    "departure_from_current": "13:13",
+    "arrival_at_to_station": "18:19",
+    "arrival_at_end": "19:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Jaran Sanitwong",
+    "end_station_name": "Sam Roi Yot",
+    "begin_station_code": 4434,
+    "end_station_code": 4128
+  }
+]

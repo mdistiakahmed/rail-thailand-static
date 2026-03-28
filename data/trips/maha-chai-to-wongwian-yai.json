@@ -1,0 +1,278 @@
+{
+  "forward": [
+    {
+      "trainNo": "4302",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "04:30",
+      "arrivalTime": "05:24",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4310",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "05:20",
+      "arrivalTime": "06:17",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4320",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "05:55",
+      "arrivalTime": "06:54",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4340",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "06:25",
+      "arrivalTime": "07:29",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4304",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "07:00",
+      "arrivalTime": "07:58",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4312",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "08:00",
+      "arrivalTime": "09:03",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4322",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "09:35",
+      "arrivalTime": "10:32",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4342",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "10:40",
+      "arrivalTime": "11:39",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4314",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "11:45",
+      "arrivalTime": "12:44",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4324",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "13:15",
+      "arrivalTime": "14:14",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4316",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "14:25",
+      "arrivalTime": "15:19",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4306",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "15:25",
+      "arrivalTime": "16:20",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4326",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "16:00",
+      "arrivalTime": "16:56",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4344",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "16:30",
+      "arrivalTime": "17:29",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4308",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "17:35",
+      "arrivalTime": "18:26",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4328",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "18:10",
+      "arrivalTime": "19:02",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4346",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "19:00",
+      "arrivalTime": "20:00",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ],
+  "backward": [
+    {
+      "trainNo": "4303",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "05:30",
+      "arrivalTime": "06:23",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4311",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "06:25",
+      "arrivalTime": "07:27",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4321",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "07:00",
+      "arrivalTime": "07:58",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4341",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "07:40",
+      "arrivalTime": "08:39",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4305",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "08:35",
+      "arrivalTime": "09:28",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4313",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "09:40",
+      "arrivalTime": "10:36",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4323",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "10:40",
+      "arrivalTime": "11:39",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4343",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "12:15",
+      "arrivalTime": "13:10",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4315",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "13:20",
+      "arrivalTime": "14:15",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4325",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "14:25",
+      "arrivalTime": "15:22",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4317",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "15:25",
+      "arrivalTime": "16:27",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4307",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "16:30",
+      "arrivalTime": "17:26",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4327",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "17:00",
+      "arrivalTime": "18:02",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4345",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "17:35",
+      "arrivalTime": "18:36",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4309",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "18:35",
+      "arrivalTime": "19:30",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4329",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "19:10",
+      "arrivalTime": "20:04",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4347",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "20:10",
+      "arrivalTime": "21:00",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ]
+}

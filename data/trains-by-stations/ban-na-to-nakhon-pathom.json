@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "168",
+    "departure_from_start": "14:15",
+    "arrival_at_current": "17:56",
+    "departure_from_current": "17:57",
+    "arrival_at_to_station": "03:59",
+    "arrival_at_end": "05:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Ban Na",
+    "end_station_name": "Nakhon Pathom",
+    "begin_station_code": 4247,
+    "end_station_code": 4016
+  }
+]

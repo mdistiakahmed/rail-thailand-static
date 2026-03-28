@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "252",
+    "departure_from_start": "04:40",
+    "arrival_at_current": "N/A",
+    "departure_from_current": "04:40",
+    "arrival_at_to_station": "07:51",
+    "arrival_at_end": "10:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Prachuap Khiri Khan",
+    "end_station_name": "Pak Tho",
+    "begin_station_code": 4142,
+    "end_station_code": 4093
+  },
+  {
+    "train_code": "170",
+    "departure_from_start": "16:30",
+    "arrival_at_current": "05:11",
+    "departure_from_current": "05:12",
+    "arrival_at_to_station": "08:11",
+    "arrival_at_end": "10:50",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Prachuap Khiri Khan",
+    "end_station_name": "Pak Tho",
+    "begin_station_code": 4142,
+    "end_station_code": 4093
+  },
+  {
+    "train_code": "254",
+    "departure_from_start": "06:30",
+    "arrival_at_current": "11:01",
+    "departure_from_current": "11:02",
+    "arrival_at_to_station": "14:29",
+    "arrival_at_end": "17:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Prachuap Khiri Khan",
+    "end_station_name": "Pak Tho",
+    "begin_station_code": 4142,
+    "end_station_code": 4093
+  }
+]

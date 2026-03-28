@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "208",
+    "departure_from_start": "05:00",
+    "arrival_at_current": "05:52",
+    "departure_from_current": "05:53",
+    "arrival_at_to_station": "08:39",
+    "arrival_at_end": "10:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Takhli",
+    "end_station_name": "Khlong Phutsa",
+    "begin_station_code": 1067,
+    "end_station_code": 1026
+  },
+  {
+    "train_code": "212",
+    "departure_from_start": "05:45",
+    "arrival_at_current": "08:00",
+    "departure_from_current": "08:01",
+    "arrival_at_to_station": "10:29",
+    "arrival_at_end": "11:55",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Takhli",
+    "end_station_name": "Khlong Phutsa",
+    "begin_station_code": 1067,
+    "end_station_code": 1026
+  },
+  {
+    "train_code": "202",
+    "departure_from_start": "06:05",
+    "arrival_at_current": "09:28",
+    "departure_from_current": "09:29",
+    "arrival_at_to_station": "12:15",
+    "arrival_at_end": "13:45",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Takhli",
+    "end_station_name": "Khlong Phutsa",
+    "begin_station_code": 1067,
+    "end_station_code": 1026
+  },
+  {
+    "train_code": "210",
+    "departure_from_start": "15:55",
+    "arrival_at_current": "N/A",
+    "departure_from_current": "15:55",
+    "arrival_at_to_station": "18:41",
+    "arrival_at_end": "20:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Takhli",
+    "end_station_name": "Khlong Phutsa",
+    "begin_station_code": 1067,
+    "end_station_code": 1026
+  }
+]

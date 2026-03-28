@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "43",
+    "departure_from_start": "07:30",
+    "arrival_at_current": "11:40",
+    "departure_from_current": "11:41",
+    "arrival_at_to_station": "12:01",
+    "arrival_at_end": "16:20",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Special Exp.",
+    "begin_station_name": "Prachuap Khiri Khan",
+    "end_station_name": "Huai Yang",
+    "begin_station_code": 4142,
+    "end_station_code": 4149
+  },
+  {
+    "train_code": "255",
+    "departure_from_start": "07:20",
+    "arrival_at_current": "13:27",
+    "departure_from_current": "13:28",
+    "arrival_at_to_station": "13:56",
+    "arrival_at_end": "18:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Prachuap Khiri Khan",
+    "end_station_name": "Huai Yang",
+    "begin_station_code": 4142,
+    "end_station_code": 4149
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "201",
+    "departure_from_start": "10:15",
+    "arrival_at_current": "13:29",
+    "departure_from_current": "13:30",
+    "arrival_at_to_station": "15:30",
+    "arrival_at_end": "17:55",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Tha Khae",
+    "end_station_name": "Pak Nam Pho",
+    "begin_station_code": 1051,
+    "end_station_code": 1083
+  }
+]

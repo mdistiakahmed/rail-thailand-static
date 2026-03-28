@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "463",
+    "departure_from_start": "06:10",
+    "arrival_at_current": "08:20",
+    "departure_from_current": "08:24",
+    "arrival_at_to_station": "11:37",
+    "arrival_at_end": "12:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Wat Khuan Mit",
+    "end_station_name": "Bukit",
+    "begin_station_code": 4381,
+    "end_station_code": 4424
+  }
+]

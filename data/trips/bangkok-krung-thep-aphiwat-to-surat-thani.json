@@ -1,0 +1,38 @@
+{
+  "forward": [
+    {
+      "trainNo": "43",
+      "trainTypeNameEn": "Special Exp.",
+      "departureTime": "07:30",
+      "arrivalTime": "16:20",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "39",
+      "trainTypeNameEn": "Special Exp.",
+      "departureTime": "22:50",
+      "arrivalTime": "07:50",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ],
+  "backward": [
+    {
+      "trainNo": "40",
+      "trainTypeNameEn": "Special Exp.",
+      "departureTime": "09:00",
+      "arrivalTime": "18:05",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "44",
+      "trainTypeNameEn": "Special Exp.",
+      "departureTime": "18:25",
+      "arrivalTime": "03:45",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ]
+}

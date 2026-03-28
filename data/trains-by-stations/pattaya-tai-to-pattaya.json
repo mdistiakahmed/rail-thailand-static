@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "284",
+    "departure_from_start": "13:05",
+    "arrival_at_current": "14:13",
+    "departure_from_current": "14:14",
+    "arrival_at_to_station": "14:20",
+    "arrival_at_end": "18:15",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Pattaya Tai",
+    "end_station_name": "Pattaya",
+    "begin_station_code": 3042,
+    "end_station_code": 3041
+  }
+]

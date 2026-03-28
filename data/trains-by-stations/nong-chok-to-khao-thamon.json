@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "252",
+    "departure_from_start": "04:40",
+    "arrival_at_current": "06:56",
+    "departure_from_current": "06:57",
+    "arrival_at_to_station": "07:07",
+    "arrival_at_end": "10:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Chok",
+    "end_station_name": "Khao Thamon",
+    "begin_station_code": 4107,
+    "end_station_code": 4104
+  },
+  {
+    "train_code": "254",
+    "departure_from_start": "06:30",
+    "arrival_at_current": "13:30",
+    "departure_from_current": "13:31",
+    "arrival_at_to_station": "13:42",
+    "arrival_at_end": "17:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Chok",
+    "end_station_name": "Khao Thamon",
+    "begin_station_code": 4107,
+    "end_station_code": 4104
+  },
+  {
+    "train_code": "262",
+    "departure_from_start": "14:45",
+    "arrival_at_current": "15:31",
+    "departure_from_current": "15:32",
+    "arrival_at_to_station": "15:42",
+    "arrival_at_end": "19:20",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Chok",
+    "end_station_name": "Khao Thamon",
+    "begin_station_code": 4107,
+    "end_station_code": 4104
+  }
+]

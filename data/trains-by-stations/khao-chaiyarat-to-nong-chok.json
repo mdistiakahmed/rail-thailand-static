@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "254",
+    "departure_from_start": "06:30",
+    "arrival_at_current": "08:57",
+    "departure_from_current": "08:58",
+    "arrival_at_to_station": "13:30",
+    "arrival_at_end": "17:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khao Chaiyarat",
+    "end_station_name": "Nong Chok",
+    "begin_station_code": 4172,
+    "end_station_code": 4107
+  }
+]

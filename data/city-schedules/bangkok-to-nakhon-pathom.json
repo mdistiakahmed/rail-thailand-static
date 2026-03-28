@@ -1,0 +1,246 @@
+{
+  "from_city": "bangkok",
+  "to_city": "nakhon pathom",
+  "schedules": [
+    {
+      "train_no": "1123",
+      "train_name": "",
+      "train_type": "S. Commuter",
+      "from_station": "Bangkok (Thon Buri)",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "06:15",
+      "arrive_time": "07:20",
+      "duration": "1h 5m"
+    },
+    {
+      "train_no": "909",
+      "train_name": "",
+      "train_type": "Excursion",
+      "from_station": "Bangkok (Hua Lamphong)",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "06:30",
+      "arrive_time": "07:45",
+      "duration": "1h 15m"
+    },
+    {
+      "train_no": "911",
+      "train_name": "",
+      "train_type": "Excursion",
+      "from_station": "Bangkok (Hua Lamphong)",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "06:30",
+      "arrive_time": "07:45",
+      "duration": "1h 15m"
+    },
+    {
+      "train_no": "255",
+      "train_name": "",
+      "train_type": "Ordinary",
+      "from_station": "Bangkok (Thon Buri)",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "07:20",
+      "arrive_time": "08:35",
+      "duration": "1h 15m"
+    },
+    {
+      "train_no": "43",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Bangkok (Krung Thep Aphiwat)",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "07:30",
+      "arrive_time": "08:22",
+      "duration": "0h 52m"
+    },
+    {
+      "train_no": "257",
+      "train_name": "",
+      "train_type": "Ordinary",
+      "from_station": "Bangkok (Thon Buri)",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "07:45",
+      "arrive_time": "08:55",
+      "duration": "1h 10m"
+    },
+    {
+      "train_no": "261",
+      "train_name": "",
+      "train_type": "Ordinary",
+      "from_station": "Bangkok (Hua Lamphong)",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "09:20",
+      "arrive_time": "10:55",
+      "duration": "1h 35m"
+    },
+    {
+      "train_no": "985",
+      "train_name": "",
+      "train_type": "Freight",
+      "from_station": "Bangkok (Hua Lamphong)",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "11:00",
+      "arrive_time": "12:41",
+      "duration": "1h 41m"
+    },
+    {
+      "train_no": "1115",
+      "train_name": "",
+      "train_type": "S. Commuter",
+      "from_station": "Bangkok (Thon Buri)",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "11:20",
+      "arrive_time": "12:30",
+      "duration": "1h 10m"
+    },
+    {
+      "train_no": "251",
+      "train_name": "",
+      "train_type": "Ordinary",
+      "from_station": "Bangkok (Thon Buri)",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "13:10",
+      "arrive_time": "14:17",
+      "duration": "1h 7m"
+    },
+    {
+      "train_no": "259",
+      "train_name": "",
+      "train_type": "Ordinary",
+      "from_station": "Bangkok (Thon Buri)",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "13:55",
+      "arrive_time": "15:02",
+      "duration": "1h 7m"
+    },
+    {
+      "train_no": "1117",
+      "train_name": "",
+      "train_type": "S. Commuter",
+      "from_station": "Bangkok (Thon Buri)",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "14:15",
+      "arrive_time": "15:20",
+      "duration": "1h 5m"
+    },
+    {
+      "train_no": "171",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Bangkok (Krung Thep Aphiwat)",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "15:10",
+      "arrive_time": "16:04",
+      "duration": "0h 54m"
+    },
+    {
+      "train_no": "37",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Bangkok (Krung Thep Aphiwat)",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "16:10",
+      "arrive_time": "17:10",
+      "duration": "1h"
+    },
+    {
+      "train_no": "45",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Bangkok (Krung Thep Aphiwat)",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "16:10",
+      "arrive_time": "17:10",
+      "duration": "1h"
+    },
+    {
+      "train_no": "355",
+      "train_name": "",
+      "train_type": "Commuter",
+      "from_station": "Bangkok (Hua Lamphong)",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "16:40",
+      "arrive_time": "18:14",
+      "duration": "1h 34m"
+    },
+    {
+      "train_no": "31",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Bangkok (Krung Thep Aphiwat)",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "16:50",
+      "arrive_time": "17:48",
+      "duration": "0h 58m"
+    },
+    {
+      "train_no": "1129",
+      "train_name": "",
+      "train_type": "S. Commuter",
+      "from_station": "Bangkok (Thon Buri)",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "17:00",
+      "arrive_time": "18:05",
+      "duration": "1h 5m"
+    },
+    {
+      "train_no": "169",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Bangkok (Krung Thep Aphiwat)",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "17:30",
+      "arrive_time": "18:29",
+      "duration": "0h 59m"
+    },
+    {
+      "train_no": "351",
+      "train_name": "",
+      "train_type": "Commuter",
+      "from_station": "Bangkok (Thon Buri)",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "18:15",
+      "arrive_time": "19:21",
+      "duration": "1h 6m"
+    },
+    {
+      "train_no": "83",
+      "train_name": "",
+      "train_type": "Express",
+      "from_station": "Bangkok (Krung Thep Aphiwat)",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "18:50",
+      "arrive_time": "19:48",
+      "duration": "0h 58m"
+    },
+    {
+      "train_no": "85",
+      "train_name": "",
+      "train_type": "Express",
+      "from_station": "Bangkok (Krung Thep Aphiwat)",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "19:50",
+      "arrive_time": "20:50",
+      "duration": "1h"
+    },
+    {
+      "train_no": "167",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Bangkok (Krung Thep Aphiwat)",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "20:30",
+      "arrive_time": "21:30",
+      "duration": "1h"
+    },
+    {
+      "train_no": "39",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Bangkok (Krung Thep Aphiwat)",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "22:50",
+      "arrive_time": "23:42",
+      "duration": "0h 52m"
+    }
+  ]
+}

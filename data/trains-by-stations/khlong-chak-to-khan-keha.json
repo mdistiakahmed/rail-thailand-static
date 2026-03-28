@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "4310",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "05:23",
+    "departure_from_current": "05:24",
+    "arrival_at_to_station": "05:57",
+    "arrival_at_end": "06:17",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Khlong Chak",
+    "end_station_name": "Khan Keha",
+    "begin_station_code": 5033,
+    "end_station_code": 5010
+  },
+  {
+    "train_code": "4320",
+    "departure_from_start": "05:55",
+    "arrival_at_current": "05:58",
+    "departure_from_current": "05:59",
+    "arrival_at_to_station": "06:29",
+    "arrival_at_end": "06:54",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Khlong Chak",
+    "end_station_name": "Khan Keha",
+    "begin_station_code": 5033,
+    "end_station_code": 5010
+  },
+  {
+    "train_code": "4340",
+    "departure_from_start": "06:25",
+    "arrival_at_current": "06:28",
+    "departure_from_current": "06:29",
+    "arrival_at_to_station": "07:01",
+    "arrival_at_end": "07:29",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Khlong Chak",
+    "end_station_name": "Khan Keha",
+    "begin_station_code": 5033,
+    "end_station_code": 5010
+  },
+  {
+    "train_code": "4304",
+    "departure_from_start": "07:00",
+    "arrival_at_current": "07:03",
+    "departure_from_current": "07:04",
+    "arrival_at_to_station": "07:33",
+    "arrival_at_end": "07:58",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Khlong Chak",
+    "end_station_name": "Khan Keha",
+    "begin_station_code": 5033,
+    "end_station_code": 5010
+  }
+]

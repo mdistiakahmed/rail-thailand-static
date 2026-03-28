@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "278",
+    "departure_from_start": "06:30",
+    "arrival_at_current": "06:45",
+    "departure_from_current": "06:46",
+    "arrival_at_to_station": "09:19",
+    "arrival_at_end": "10:15",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Sri Vichai",
+    "end_station_name": "Lat Krabang",
+    "begin_station_code": 3125,
+    "end_station_code": 3014
+  }
+]

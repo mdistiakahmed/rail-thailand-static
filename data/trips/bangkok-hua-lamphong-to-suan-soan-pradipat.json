@@ -1,0 +1,38 @@
+{
+  "forward": [
+    {
+      "trainNo": "911",
+      "trainTypeNameEn": "Excursion",
+      "departureTime": "06:30",
+      "arrivalTime": "11:05",
+      "operatingDays": "Saturday, Sunday",
+      "offDay": "Monday, Tuesday, Wednesday, Thursday, Friday"
+    },
+    {
+      "trainNo": "261",
+      "trainTypeNameEn": "Ordinary",
+      "departureTime": "09:20",
+      "arrivalTime": "14:00",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ],
+  "backward": [
+    {
+      "trainNo": "262",
+      "trainTypeNameEn": "Ordinary",
+      "departureTime": "14:45",
+      "arrivalTime": "19:20",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "912",
+      "trainTypeNameEn": "Excursion",
+      "departureTime": "16:30",
+      "arrivalTime": "20:15",
+      "operatingDays": "Saturday, Sunday",
+      "offDay": "Monday, Tuesday, Wednesday, Thursday, Friday"
+    }
+  ]
+}

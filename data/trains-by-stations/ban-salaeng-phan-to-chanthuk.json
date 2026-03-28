@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "234",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "06:24",
+    "departure_from_current": "06:25",
+    "arrival_at_to_station": "09:44",
+    "arrival_at_end": "14:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Salaeng Phan",
+    "end_station_name": "Chanthuk",
+    "begin_station_code": 2233,
+    "end_station_code": 2096
+  }
+]

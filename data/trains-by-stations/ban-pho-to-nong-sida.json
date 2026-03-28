@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "339",
+    "departure_from_start": "05:05",
+    "arrival_at_current": "06:36",
+    "departure_from_current": "06:37",
+    "arrival_at_to_station": "07:39",
+    "arrival_at_end": "08:05",
+    "weekly_offday": "Saturday, Sunday",
+    "operating_days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "train_type": "Commuter",
+    "begin_station_name": "Ban Pho",
+    "end_station_name": "Nong Sida",
+    "begin_station_code": 1029,
+    "end_station_code": 2004
+  },
+  {
+    "train_code": "341",
+    "departure_from_start": "17:00",
+    "arrival_at_current": "18:43",
+    "departure_from_current": "18:44",
+    "arrival_at_to_station": "19:35",
+    "arrival_at_end": "20:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Ban Pho",
+    "end_station_name": "Nong Sida",
+    "begin_station_code": 1029,
+    "end_station_code": 2004
+  }
+]

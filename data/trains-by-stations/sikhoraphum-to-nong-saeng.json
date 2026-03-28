@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "136",
+    "departure_from_start": "07:00",
+    "arrival_at_current": "09:07",
+    "departure_from_current": "09:08",
+    "arrival_at_to_station": "15:55",
+    "arrival_at_end": "18:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Sikhoraphum",
+    "end_station_name": "Nong Saeng",
+    "begin_station_code": 2256,
+    "end_station_code": 2002
+  }
+]

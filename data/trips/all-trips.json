@@ -1,0 +1,184 @@
+{
+  "routes": [
+    {
+      "route": "Bangkok (Krung Thep Aphiwat) - Chiang Mai",
+      "filename": "bangkok-krung-thep-aphiwat-to-chiang-mai.json"
+    },
+    {
+      "route": "Bangkok (Krung Thep Aphiwat) - Surat Thani",
+      "filename": "bangkok-krung-thep-aphiwat-to-surat-thani.json"
+    },
+    {
+      "route": "Bangkok (Hua Lamphong) - Chachoengsao Junction",
+      "filename": "bangkok-hua-lamphong-to-chachoengsao-junction.json"
+    },
+    {
+      "route": "Nakhon Si Thammarat - Yala",
+      "filename": "nakhon-si-thammarat-to-yala.json"
+    },
+    {
+      "route": "Phatthalung - Su-Ngai Kolok",
+      "filename": "phatthalung-to-su-ngai-kolok.json"
+    },
+    {
+      "route": "Kanchanaburi - Nam Tok",
+      "filename": "kanchanaburi-to-nam-tok.json"
+    },
+    {
+      "route": "Khiri Ratthanikhom - Surat Thani",
+      "filename": "khiri-ratthanikhom-to-surat-thani.json"
+    },
+    {
+      "route": "Bangkok (Krung Thep Aphiwat) - Ubon Ratchathani",
+      "filename": "bangkok-krung-thep-aphiwat-to-ubon-ratchathani.json"
+    },
+    {
+      "route": "Bangkok (Krung Thep Aphiwat) - Nong Khai",
+      "filename": "bangkok-krung-thep-aphiwat-to-nong-khai.json"
+    },
+    {
+      "route": "Bangkok (Krung Thep Aphiwat) - Hat Yai Junction",
+      "filename": "bangkok-krung-thep-aphiwat-to-hat-yai-junction.json"
+    },
+    {
+      "route": "Bangkok (Hua Lamphong) - Chuck Samet",
+      "filename": "bangkok-hua-lamphong-to-chuck-samet.json"
+    },
+    {
+      "route": "Bangkok (Hua Lamphong) - Nam Tok",
+      "filename": "bangkok-hua-lamphong-to-nam-tok.json"
+    },
+    {
+      "route": "Bangkok (Hua Lamphong) - Suan Soan Pradipat",
+      "filename": "bangkok-hua-lamphong-to-suan-soan-pradipat.json"
+    },
+    {
+      "route": "Bangkok (Krung Thep Aphiwat) - Den Chai",
+      "filename": "bangkok-krung-thep-aphiwat-to-den-chai.json"
+    },
+    {
+      "route": "Bangkok (Thon Buri) - Nakhon Pathom",
+      "filename": "bangkok-thon-buri-to-nakhon-pathom.json"
+    },
+    {
+      "route": "Maha Chai - Wongwian Yai",
+      "filename": "maha-chai-to-wongwian-yai.json"
+    },
+    {
+      "route": "Bangkok (Krung Thep Aphiwat) - Trang",
+      "filename": "bangkok-krung-thep-aphiwat-to-trang.json"
+    },
+    {
+      "route": "Ban Laem - Mae Klong",
+      "filename": "ban-laem-to-mae-klong.json"
+    },
+    {
+      "route": "Bangkok (Krung Thep Aphiwat) - Nakhon Si Thammarat",
+      "filename": "bangkok-krung-thep-aphiwat-to-nakhon-si-thammarat.json"
+    },
+    {
+      "route": "Hat Yai Junction - Padang Besar",
+      "filename": "hat-yai-junction-to-padang-besar.json"
+    },
+    {
+      "route": "Hat Yai Junction - Thung Song Junction",
+      "filename": "hat-yai-junction-to-thung-song-junction.json"
+    },
+    {
+      "route": "Bangkok (Krung Thep Aphiwat) - Padang Besar",
+      "filename": "bangkok-krung-thep-aphiwat-to-padang-besar.json"
+    },
+    {
+      "route": "Bangkok (Hua Lamphong) - Su-Ngai Kolok",
+      "filename": "bangkok-hua-lamphong-to-su-ngai-kolok.json"
+    },
+    {
+      "route": "Bangkok (Krung Thep Aphiwat) - Yala",
+      "filename": "bangkok-krung-thep-aphiwat-to-yala.json"
+    },
+    {
+      "route": "Bangkok (Krung Thep Aphiwat) - Vientiane (Khamsavath)",
+      "filename": "bangkok-krung-thep-aphiwat-to-vientiane-khamsavath.json"
+    },
+    {
+      "route": "Bangkok (Krung Thep Aphiwat) - Kantang",
+      "filename": "bangkok-krung-thep-aphiwat-to-kantang.json"
+    },
+    {
+      "route": "Bangkok (Krung Thep Aphiwat) - Su-Ngai Kolok",
+      "filename": "bangkok-krung-thep-aphiwat-to-su-ngai-kolok.json"
+    },
+    {
+      "route": "Bangkok (Hua Lamphong) - Phitsanulok",
+      "filename": "bangkok-hua-lamphong-to-phitsanulok.json"
+    },
+    {
+      "route": "Bangkok (Hua Lamphong) - Nakhon Sawan",
+      "filename": "bangkok-hua-lamphong-to-nakhon-sawan.json"
+    },
+    {
+      "route": "Bangkok (Hua Lamphong) - Ban Takhli",
+      "filename": "ban-takhli-to-bangkok-hua-lamphong.json"
+    },
+    {
+      "route": "Bangkok (Hua Lamphong) - Taphan Hin",
+      "filename": "bangkok-hua-lamphong-to-taphan-hin.json"
+    },
+    {
+      "route": "Bangkok (Hua Lamphong) - Surin",
+      "filename": "bangkok-hua-lamphong-to-surin.json"
+    },
+    {
+      "route": "Bangkok (Thon Buri) - Prachuap Khiri Khan",
+      "filename": "bangkok-thon-buri-to-prachuap-khiri-khan.json"
+    },
+    {
+      "route": "Bangkok (Thon Buri) - Lang Suan",
+      "filename": "bangkok-thon-buri-to-lang-suan.json"
+    },
+    {
+      "route": "Bangkok (Thon Buri) - Nam Tok",
+      "filename": "bangkok-thon-buri-to-nam-tok.json"
+    },
+    {
+      "route": "Bangkok (Thon Buri) - Kanchanaburi",
+      "filename": "bangkok-thon-buri-to-kanchanaburi.json"
+    },
+    {
+      "route": "Bangkok (Hua Lamphong) - Ban Klong Luek Border",
+      "filename": "ban-klong-luek-border-to-bangkok-hua-lamphong.json"
+    },
+    {
+      "route": "Bangkok (Hua Lamphong) - Kabin Buri",
+      "filename": "bangkok-hua-lamphong-to-kabin-buri.json"
+    },
+    {
+      "route": "Bangkok (Hua Lamphong) - Lop Buri",
+      "filename": "bangkok-hua-lamphong-to-lop-buri.json"
+    },
+    {
+      "route": "Bangkok (Hua Lamphong) - Ban Phachi Junction",
+      "filename": "ban-phachi-junction-to-bangkok-hua-lamphong.json"
+    },
+    {
+      "route": "Bangkok (Hua Lamphong) - Kaeng Khoi Junction",
+      "filename": "bangkok-hua-lamphong-to-kaeng-khoi-junction.json"
+    },
+    {
+      "route": "Bangkok (Thon Buri) - Ratchaburi",
+      "filename": "bangkok-thon-buri-to-ratchaburi.json"
+    },
+    {
+      "route": "Bangkok (Hua Lamphong) - Nong Pla Duk Junction",
+      "filename": "bangkok-hua-lamphong-to-nong-pla-duk-junction.json"
+    },
+    {
+      "route": "Bangkok (Hua Lamphong) - Suphan Buri",
+      "filename": "bangkok-hua-lamphong-to-suphan-buri.json"
+    },
+    {
+      "route": "Bangkok (Hua Lamphong) - Prachin Buri",
+      "filename": "bangkok-hua-lamphong-to-prachin-buri.json"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "83",
+    "departure_from_start": "18:50",
+    "arrival_at_current": "19:48",
+    "departure_from_current": "19:50",
+    "arrival_at_to_station": "08:30",
+    "arrival_at_end": "08:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Nakhon Pathom",
+    "end_station_name": "Trang",
+    "begin_station_code": 4016,
+    "end_station_code": 4289
+  },
+  {
+    "train_code": "167",
+    "departure_from_start": "20:30",
+    "arrival_at_current": "21:30",
+    "departure_from_current": "21:32",
+    "arrival_at_to_station": "11:00",
+    "arrival_at_end": "11:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Nakhon Pathom",
+    "end_station_name": "Trang",
+    "begin_station_code": 4016,
+    "end_station_code": 4289
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "234",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "06:59",
+    "departure_from_current": "07:00",
+    "arrival_at_to_station": "07:43",
+    "arrival_at_end": "14:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Huai Thalaeng",
+    "end_station_name": "Tha Chang",
+    "begin_station_code": 2224,
+    "end_station_code": 2213
+  },
+  {
+    "train_code": "136",
+    "departure_from_start": "07:00",
+    "arrival_at_current": "11:21",
+    "departure_from_current": "11:22",
+    "arrival_at_to_station": "11:57",
+    "arrival_at_end": "18:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Huai Thalaeng",
+    "end_station_name": "Tha Chang",
+    "begin_station_code": 2224,
+    "end_station_code": 2213
+  }
+]

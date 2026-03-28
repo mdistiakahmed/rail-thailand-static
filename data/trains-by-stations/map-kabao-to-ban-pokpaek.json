@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "234",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "11:07",
+    "departure_from_current": "11:08",
+    "arrival_at_to_station": "11:40",
+    "arrival_at_end": "14:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Map Kabao",
+    "end_station_name": "Ban Pokpaek",
+    "begin_station_code": 2082,
+    "end_station_code": 2005
+  }
+]

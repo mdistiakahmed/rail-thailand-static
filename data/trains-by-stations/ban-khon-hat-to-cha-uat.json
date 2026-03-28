@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "722",
+    "departure_from_start": "02:00",
+    "arrival_at_current": "04:12",
+    "departure_from_current": "04:16",
+    "arrival_at_to_station": "04:32",
+    "arrival_at_end": "05:46",
+    "weekly_offday": "Monday, Tuesday, Wednesday, Thursday, Saturday",
+    "operating_days": "Friday, Sunday",
+    "train_type": "Freight",
+    "begin_station_name": "Ban Khon Hat",
+    "end_station_name": "Cha-uat",
+    "begin_station_code": 4318,
+    "end_station_code": 4315
+  },
+  {
+    "train_code": "456",
+    "departure_from_start": "06:35",
+    "arrival_at_current": "11:27",
+    "departure_from_current": "11:28",
+    "arrival_at_to_station": "11:48",
+    "arrival_at_end": "13:20",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Ban Khon Hat",
+    "end_station_name": "Cha-uat",
+    "begin_station_code": 4318,
+    "end_station_code": 4315
+  },
+  {
+    "train_code": "170",
+    "departure_from_start": "16:30",
+    "arrival_at_current": "20:11",
+    "departure_from_current": "20:12",
+    "arrival_at_to_station": "20:26",
+    "arrival_at_end": "10:50",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Ban Khon Hat",
+    "end_station_name": "Cha-uat",
+    "begin_station_code": 4318,
+    "end_station_code": 4315
+  }
+]

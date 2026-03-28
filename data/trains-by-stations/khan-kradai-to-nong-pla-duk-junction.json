@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "252",
+    "departure_from_start": "04:40",
+    "arrival_at_current": "04:46",
+    "departure_from_current": "04:47",
+    "arrival_at_to_station": "09:00",
+    "arrival_at_end": "10:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khan Kradai",
+    "end_station_name": "Nong Pla Duk Junction",
+    "begin_station_code": 4140,
+    "end_station_code": 4020
+  },
+  {
+    "train_code": "254",
+    "departure_from_start": "06:30",
+    "arrival_at_current": "11:09",
+    "departure_from_current": "11:10",
+    "arrival_at_to_station": "15:41",
+    "arrival_at_end": "17:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khan Kradai",
+    "end_station_name": "Nong Pla Duk Junction",
+    "begin_station_code": 4140,
+    "end_station_code": 4020
+  }
+]

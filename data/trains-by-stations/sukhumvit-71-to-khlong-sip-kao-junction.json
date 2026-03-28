@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "277",
+    "departure_from_start": "15:25",
+    "arrival_at_current": "15:53",
+    "departure_from_current": "15:54",
+    "arrival_at_to_station": "17:04",
+    "arrival_at_end": "18:20",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Sukhumvit 71",
+    "end_station_name": "Khlong Sip Kao Junction",
+    "begin_station_code": 3106,
+    "end_station_code": 3057
+  },
+  {
+    "train_code": "371",
+    "departure_from_start": "17:40",
+    "arrival_at_current": "18:12",
+    "departure_from_current": "18:13",
+    "arrival_at_to_station": "19:49",
+    "arrival_at_end": "20:32",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Sukhumvit 71",
+    "end_station_name": "Khlong Sip Kao Junction",
+    "begin_station_code": 3106,
+    "end_station_code": 3057
+  }
+]

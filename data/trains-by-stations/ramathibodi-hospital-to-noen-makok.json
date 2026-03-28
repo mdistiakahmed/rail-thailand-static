@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "211",
+    "departure_from_start": "12:55",
+    "arrival_at_current": "13:03",
+    "departure_from_current": "13:04",
+    "arrival_at_to_station": "17:18",
+    "arrival_at_end": "19:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ramathibodi Hospital",
+    "end_station_name": "Noen Makok",
+    "begin_station_code": 1232,
+    "end_station_code": 1076
+  },
+  {
+    "train_code": "207",
+    "departure_from_start": "14:20",
+    "arrival_at_current": "14:29",
+    "departure_from_current": "14:30",
+    "arrival_at_to_station": "19:10",
+    "arrival_at_end": "19:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ramathibodi Hospital",
+    "end_station_name": "Noen Makok",
+    "begin_station_code": 1232,
+    "end_station_code": 1076
+  }
+]

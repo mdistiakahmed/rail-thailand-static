@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "318",
+    "departure_from_start": "06:00",
+    "arrival_at_current": "06:05",
+    "departure_from_current": "06:06",
+    "arrival_at_to_station": "07:37",
+    "arrival_at_end": "08:50",
+    "weekly_offday": "Saturday, Sunday",
+    "operating_days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "train_type": "Commuter",
+    "begin_station_name": "Ban Pa Wai",
+    "end_station_name": "Thammasat University",
+    "begin_station_code": 1048,
+    "end_station_code": 1230
+  },
+  {
+    "train_code": "208",
+    "departure_from_start": "05:00",
+    "arrival_at_current": "07:11",
+    "departure_from_current": "07:12",
+    "arrival_at_to_station": "08:54",
+    "arrival_at_end": "10:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Pa Wai",
+    "end_station_name": "Thammasat University",
+    "begin_station_code": 1048,
+    "end_station_code": 1230
+  },
+  {
+    "train_code": "202",
+    "departure_from_start": "06:05",
+    "arrival_at_current": "10:48",
+    "departure_from_current": "10:49",
+    "arrival_at_to_station": "12:29",
+    "arrival_at_end": "13:45",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Pa Wai",
+    "end_station_name": "Thammasat University",
+    "begin_station_code": 1048,
+    "end_station_code": 1230
+  },
+  {
+    "train_code": "210",
+    "departure_from_start": "15:55",
+    "arrival_at_current": "17:10",
+    "departure_from_current": "17:11",
+    "arrival_at_to_station": "18:57",
+    "arrival_at_end": "20:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Pa Wai",
+    "end_station_name": "Thammasat University",
+    "begin_station_code": 1048,
+    "end_station_code": 1230
+  }
+]

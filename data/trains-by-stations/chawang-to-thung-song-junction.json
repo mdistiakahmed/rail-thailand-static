@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "169",
+    "departure_from_start": "17:30",
+    "arrival_at_current": "05:23",
+    "departure_from_current": "05:24",
+    "arrival_at_to_station": "05:59",
+    "arrival_at_end": "11:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Chawang",
+    "end_station_name": "Thung Song Junction",
+    "begin_station_code": 4262,
+    "end_station_code": 4270
+  },
+  {
+    "train_code": "85",
+    "departure_from_start": "19:50",
+    "arrival_at_current": "07:54",
+    "departure_from_current": "07:55",
+    "arrival_at_to_station": "08:30",
+    "arrival_at_end": "09:55",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Chawang",
+    "end_station_name": "Thung Song Junction",
+    "begin_station_code": 4262,
+    "end_station_code": 4270
+  },
+  {
+    "train_code": "167",
+    "departure_from_start": "20:30",
+    "arrival_at_current": "08:55",
+    "departure_from_current": "08:56",
+    "arrival_at_to_station": "09:34",
+    "arrival_at_end": "11:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Chawang",
+    "end_station_name": "Thung Song Junction",
+    "begin_station_code": 4262,
+    "end_station_code": 4270
+  }
+]

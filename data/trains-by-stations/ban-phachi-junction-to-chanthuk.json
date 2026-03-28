@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "233",
+    "departure_from_start": "12:00",
+    "arrival_at_current": "13:56",
+    "departure_from_current": "13:57",
+    "arrival_at_to_station": "16:08",
+    "arrival_at_end": "20:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Phachi Junction",
+    "end_station_name": "Chanthuk",
+    "begin_station_code": 1036,
+    "end_station_code": 2096
+  }
+]

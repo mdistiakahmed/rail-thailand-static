@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "201",
+    "departure_from_start": "10:15",
+    "arrival_at_current": "15:12",
+    "departure_from_current": "15:13",
+    "arrival_at_to_station": "15:22",
+    "arrival_at_end": "17:55",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khao Thong",
+    "end_station_name": "Nakhon Sawan",
+    "begin_station_code": 1079,
+    "end_station_code": 1082
+  },
+  {
+    "train_code": "211",
+    "departure_from_start": "12:55",
+    "arrival_at_current": "17:29",
+    "departure_from_current": "17:30",
+    "arrival_at_to_station": "17:39",
+    "arrival_at_end": "19:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khao Thong",
+    "end_station_name": "Nakhon Sawan",
+    "begin_station_code": 1079,
+    "end_station_code": 1082
+  },
+  {
+    "train_code": "207",
+    "departure_from_start": "14:20",
+    "arrival_at_current": "19:20",
+    "departure_from_current": "19:21",
+    "arrival_at_to_station": "19:30",
+    "arrival_at_end": "19:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khao Thong",
+    "end_station_name": "Nakhon Sawan",
+    "begin_station_code": 1079,
+    "end_station_code": 1082
+  }
+]

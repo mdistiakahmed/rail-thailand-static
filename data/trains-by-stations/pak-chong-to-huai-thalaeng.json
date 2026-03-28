@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "141",
+    "departure_from_start": "23:05",
+    "arrival_at_current": "02:33",
+    "departure_from_current": "02:36",
+    "arrival_at_to_station": "05:31",
+    "arrival_at_end": "10:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Pak Chong",
+    "end_station_name": "Huai Thalaeng",
+    "begin_station_code": 2093,
+    "end_station_code": 2224
+  },
+  {
+    "train_code": "135",
+    "departure_from_start": "07:10",
+    "arrival_at_current": "10:43",
+    "departure_from_current": "10:47",
+    "arrival_at_to_station": "13:29",
+    "arrival_at_end": "18:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Pak Chong",
+    "end_station_name": "Huai Thalaeng",
+    "begin_station_code": 2093,
+    "end_station_code": 2224
+  },
+  {
+    "train_code": "71",
+    "departure_from_start": "10:35",
+    "arrival_at_current": "13:17",
+    "departure_from_current": "13:19",
+    "arrival_at_to_station": "15:31",
+    "arrival_at_end": "19:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Pak Chong",
+    "end_station_name": "Huai Thalaeng",
+    "begin_station_code": 2093,
+    "end_station_code": 2224
+  },
+  {
+    "train_code": "233",
+    "departure_from_start": "12:00",
+    "arrival_at_current": "15:49",
+    "departure_from_current": "15:51",
+    "arrival_at_to_station": "18:47",
+    "arrival_at_end": "20:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Pak Chong",
+    "end_station_name": "Huai Thalaeng",
+    "begin_station_code": 2093,
+    "end_station_code": 2224
+  }
+]

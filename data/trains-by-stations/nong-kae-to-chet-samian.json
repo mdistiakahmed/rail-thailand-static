@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "252",
+    "departure_from_start": "04:40",
+    "arrival_at_current": "06:08",
+    "departure_from_current": "06:09",
+    "arrival_at_to_station": "08:28",
+    "arrival_at_end": "10:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Kae",
+    "end_station_name": "Chet Samian",
+    "begin_station_code": 4119,
+    "end_station_code": 4085
+  },
+  {
+    "train_code": "254",
+    "departure_from_start": "06:30",
+    "arrival_at_current": "12:38",
+    "departure_from_current": "12:39",
+    "arrival_at_to_station": "15:08",
+    "arrival_at_end": "17:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Kae",
+    "end_station_name": "Chet Samian",
+    "begin_station_code": 4119,
+    "end_station_code": 4085
+  },
+  {
+    "train_code": "262",
+    "departure_from_start": "14:45",
+    "arrival_at_current": "14:49",
+    "departure_from_current": "14:50",
+    "arrival_at_to_station": "16:44",
+    "arrival_at_end": "19:20",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Kae",
+    "end_station_name": "Chet Samian",
+    "begin_station_code": 4119,
+    "end_station_code": 4085
+  }
+]

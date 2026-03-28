@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "275",
+    "departure_from_start": "05:55",
+    "arrival_at_current": "07:30",
+    "departure_from_current": "07:31",
+    "arrival_at_to_station": "09:37",
+    "arrival_at_end": "11:17",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Bang Toey",
+    "end_station_name": "Kabin Kao",
+    "begin_station_code": 3022,
+    "end_station_code": 3076
+  }
+]

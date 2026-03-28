@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "255",
+    "departure_from_start": "07:20",
+    "arrival_at_current": "08:40",
+    "departure_from_current": "08:41",
+    "arrival_at_to_station": "09:07",
+    "arrival_at_end": "18:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Sanam Chandra Palace",
+    "end_station_name": "Ban Pong",
+    "begin_station_code": 4017,
+    "end_station_code": 4079
+  },
+  {
+    "train_code": "261",
+    "departure_from_start": "09:20",
+    "arrival_at_current": "11:00",
+    "departure_from_current": "11:01",
+    "arrival_at_to_station": "11:23",
+    "arrival_at_end": "14:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Sanam Chandra Palace",
+    "end_station_name": "Ban Pong",
+    "begin_station_code": 4017,
+    "end_station_code": 4079
+  },
+  {
+    "train_code": "351",
+    "departure_from_start": "18:15",
+    "arrival_at_current": "19:25",
+    "departure_from_current": "19:26",
+    "arrival_at_to_station": "19:48",
+    "arrival_at_end": "20:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Sanam Chandra Palace",
+    "end_station_name": "Ban Pong",
+    "begin_station_code": 4017,
+    "end_station_code": 4079
+  }
+]

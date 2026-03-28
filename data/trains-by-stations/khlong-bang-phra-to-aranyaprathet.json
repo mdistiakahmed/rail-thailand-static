@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "275",
+    "departure_from_start": "05:55",
+    "arrival_at_current": "07:27",
+    "departure_from_current": "07:28",
+    "arrival_at_to_station": "11:10",
+    "arrival_at_end": "11:17",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khlong Bang Phra",
+    "end_station_name": "Aranyaprathet",
+    "begin_station_code": 3021,
+    "end_station_code": 3100
+  },
+  {
+    "train_code": "279",
+    "departure_from_start": "13:05",
+    "arrival_at_current": "14:07",
+    "departure_from_current": "14:08",
+    "arrival_at_to_station": "17:20",
+    "arrival_at_end": "17:27",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khlong Bang Phra",
+    "end_station_name": "Aranyaprathet",
+    "begin_station_code": 3021,
+    "end_station_code": 3100
+  }
+]

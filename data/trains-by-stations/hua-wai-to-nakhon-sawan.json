@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "201",
+    "departure_from_start": "10:15",
+    "arrival_at_current": "14:40",
+    "departure_from_current": "14:41",
+    "arrival_at_to_station": "15:22",
+    "arrival_at_end": "17:55",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Hua Wai",
+    "end_station_name": "Nakhon Sawan",
+    "begin_station_code": 1070,
+    "end_station_code": 1082
+  },
+  {
+    "train_code": "211",
+    "departure_from_start": "12:55",
+    "arrival_at_current": "16:56",
+    "departure_from_current": "16:57",
+    "arrival_at_to_station": "17:39",
+    "arrival_at_end": "19:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Hua Wai",
+    "end_station_name": "Nakhon Sawan",
+    "begin_station_code": 1070,
+    "end_station_code": 1082
+  },
+  {
+    "train_code": "207",
+    "departure_from_start": "14:20",
+    "arrival_at_current": "18:48",
+    "departure_from_current": "18:49",
+    "arrival_at_to_station": "19:30",
+    "arrival_at_end": "19:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Hua Wai",
+    "end_station_name": "Nakhon Sawan",
+    "begin_station_code": 1070,
+    "end_station_code": 1082
+  }
+]

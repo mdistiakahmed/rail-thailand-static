@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "170",
+    "departure_from_start": "16:30",
+    "arrival_at_current": "20:04",
+    "departure_from_current": "20:05",
+    "arrival_at_to_station": "08:51",
+    "arrival_at_end": "10:50",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Laem Tanot",
+    "end_station_name": "Photharam",
+    "begin_station_code": 4319,
+    "end_station_code": 4083
+  }
+]

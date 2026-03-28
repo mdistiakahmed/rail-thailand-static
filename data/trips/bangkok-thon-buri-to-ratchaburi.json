@@ -1,0 +1,22 @@
+{
+  "forward": [
+    {
+      "trainNo": "351",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "18:15",
+      "arrivalTime": "20:25",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ],
+  "backward": [
+    {
+      "trainNo": "352",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "05:00",
+      "arrivalTime": "07:10",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ]
+}

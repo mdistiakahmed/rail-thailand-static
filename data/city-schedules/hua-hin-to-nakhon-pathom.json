@@ -1,0 +1,156 @@
+{
+  "from_city": "hua hin",
+  "to_city": "nakhon pathom",
+  "schedules": [
+    {
+      "train_no": "44",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Hua Hin",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "00:14",
+      "arrive_time": "02:32",
+      "duration": "2h 18m"
+    },
+    {
+      "train_no": "168",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Hua Hin",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "01:26",
+      "arrive_time": "03:59",
+      "duration": "2h 33m"
+    },
+    {
+      "train_no": "86",
+      "train_name": "",
+      "train_type": "Express",
+      "from_station": "Hua Hin",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "02:20",
+      "arrive_time": "04:55",
+      "duration": "2h 35m"
+    },
+    {
+      "train_no": "84",
+      "train_name": "",
+      "train_type": "Express",
+      "from_station": "Hua Hin",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "03:07",
+      "arrive_time": "05:44",
+      "duration": "2h 37m"
+    },
+    {
+      "train_no": "172",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Hua Hin",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "03:51",
+      "arrive_time": "06:21",
+      "duration": "2h 30m"
+    },
+    {
+      "train_no": "32",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Hua Hin",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "04:27",
+      "arrive_time": "06:56",
+      "duration": "2h 29m"
+    },
+    {
+      "train_no": "38",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Hua Hin",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "05:17",
+      "arrive_time": "07:50",
+      "duration": "2h 33m"
+    },
+    {
+      "train_no": "46",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Hua Hin",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "05:17",
+      "arrive_time": "07:50",
+      "duration": "2h 33m"
+    },
+    {
+      "train_no": "252",
+      "train_name": "",
+      "train_type": "Ordinary",
+      "from_station": "Hua Hin",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "06:14",
+      "arrive_time": "09:23",
+      "duration": "3h 9m"
+    },
+    {
+      "train_no": "170",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Hua Hin",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "06:40",
+      "arrive_time": "09:33",
+      "duration": "2h 53m"
+    },
+    {
+      "train_no": "986",
+      "train_name": "",
+      "train_type": "Freight",
+      "from_station": "Hua Hin",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "08:31",
+      "arrive_time": "11:24",
+      "duration": "2h 53m"
+    },
+    {
+      "train_no": "254",
+      "train_name": "",
+      "train_type": "Ordinary",
+      "from_station": "Hua Hin",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "12:47",
+      "arrive_time": "16:02",
+      "duration": "3h 15m"
+    },
+    {
+      "train_no": "40",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Hua Hin",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "14:36",
+      "arrive_time": "16:57",
+      "duration": "2h 21m"
+    },
+    {
+      "train_no": "262",
+      "train_name": "",
+      "train_type": "Ordinary",
+      "from_station": "Hua Hin",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "14:56",
+      "arrive_time": "17:37",
+      "duration": "2h 41m"
+    },
+    {
+      "train_no": "912",
+      "train_name": "",
+      "train_type": "Excursion",
+      "from_station": "Hua Hin",
+      "to_station": "Nakhon Pathom",
+      "depart_time": "16:38",
+      "arrive_time": "18:54",
+      "duration": "2h 16m"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "260",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "05:52",
+    "departure_from_current": "05:53",
+    "arrival_at_to_station": "08:51",
+    "arrival_at_end": "09:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Lumsum",
+    "end_station_name": "Khlong Maha Sawat",
+    "begin_station_code": 4071,
+    "end_station_code": 4011
+  },
+  {
+    "train_code": "258",
+    "departure_from_start": "13:00",
+    "arrival_at_current": "13:32",
+    "departure_from_current": "13:33",
+    "arrival_at_to_station": "16:51",
+    "arrival_at_end": "17:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Lumsum",
+    "end_station_name": "Khlong Maha Sawat",
+    "begin_station_code": 4071,
+    "end_station_code": 4011
+  }
+]

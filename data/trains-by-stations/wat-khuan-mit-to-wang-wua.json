@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "456",
+    "departure_from_start": "06:35",
+    "arrival_at_current": "08:22",
+    "departure_from_current": "08:23",
+    "arrival_at_to_station": "13:05",
+    "arrival_at_end": "13:20",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Wat Khuan Mit",
+    "end_station_name": "Wang Wua",
+    "begin_station_code": 4381,
+    "end_station_code": 4306
+  }
+]

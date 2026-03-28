@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "463",
+    "departure_from_start": "06:10",
+    "arrival_at_current": "06:53",
+    "departure_from_current": "06:54",
+    "arrival_at_to_station": "07:48",
+    "arrival_at_end": "12:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Khuan Khiam",
+    "end_station_name": "Hat Yai Junction",
+    "begin_station_code": 4334,
+    "end_station_code": 4347
+  },
+  {
+    "train_code": "721",
+    "departure_from_start": "16:18",
+    "arrival_at_current": "19:31",
+    "departure_from_current": "19:36",
+    "arrival_at_to_station": "20:30",
+    "arrival_at_end": "20:30",
+    "weekly_offday": "Monday, Tuesday, Wednesday, Thursday, Saturday",
+    "operating_days": "Friday, Sunday",
+    "train_type": "Freight",
+    "begin_station_name": "Khuan Khiam",
+    "end_station_name": "Hat Yai Junction",
+    "begin_station_code": 4334,
+    "end_station_code": 4347
+  }
+]

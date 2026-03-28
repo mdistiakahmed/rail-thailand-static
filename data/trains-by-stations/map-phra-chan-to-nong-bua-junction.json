@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "339",
+    "departure_from_start": "05:05",
+    "arrival_at_current": "06:54",
+    "departure_from_current": "06:55",
+    "arrival_at_to_station": "07:58",
+    "arrival_at_end": "08:05",
+    "weekly_offday": "Saturday, Sunday",
+    "operating_days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "train_type": "Commuter",
+    "begin_station_name": "Map Phra Chan",
+    "end_station_name": "Nong Bua Junction",
+    "begin_station_code": 1033,
+    "end_station_code": 2009
+  },
+  {
+    "train_code": "341",
+    "departure_from_start": "17:00",
+    "arrival_at_current": "19:02",
+    "departure_from_current": "19:03",
+    "arrival_at_to_station": "19:54",
+    "arrival_at_end": "20:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Map Phra Chan",
+    "end_station_name": "Nong Bua Junction",
+    "begin_station_code": 1033,
+    "end_station_code": 2009
+  }
+]

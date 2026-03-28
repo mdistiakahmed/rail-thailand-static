@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "43",
+    "departure_from_start": "07:30",
+    "arrival_at_current": "12:01",
+    "departure_from_current": "12:02",
+    "arrival_at_to_station": "14:29",
+    "arrival_at_end": "16:20",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Special Exp.",
+    "begin_station_name": "Huai Yang",
+    "end_station_name": "Sawi",
+    "begin_station_code": 4149,
+    "end_station_code": 4194
+  },
+  {
+    "train_code": "255",
+    "departure_from_start": "07:20",
+    "arrival_at_current": "13:56",
+    "departure_from_current": "13:57",
+    "arrival_at_to_station": "17:31",
+    "arrival_at_end": "18:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Huai Yang",
+    "end_station_name": "Sawi",
+    "begin_station_code": 4149,
+    "end_station_code": 4194
+  }
+]

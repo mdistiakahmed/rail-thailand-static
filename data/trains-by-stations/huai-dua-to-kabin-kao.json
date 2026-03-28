@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "280",
+    "departure_from_start": "06:58",
+    "arrival_at_current": "07:14",
+    "departure_from_current": "07:15",
+    "arrival_at_to_station": "08:33",
+    "arrival_at_end": "12:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Huai Dua",
+    "end_station_name": "Kabin Kao",
+    "begin_station_code": 3097,
+    "end_station_code": 3076
+  },
+  {
+    "train_code": "276",
+    "departure_from_start": "14:50",
+    "arrival_at_current": "15:08",
+    "departure_from_current": "15:09",
+    "arrival_at_to_station": "16:43",
+    "arrival_at_end": "20:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Huai Dua",
+    "end_station_name": "Kabin Kao",
+    "begin_station_code": 3097,
+    "end_station_code": 3076
+  }
+]

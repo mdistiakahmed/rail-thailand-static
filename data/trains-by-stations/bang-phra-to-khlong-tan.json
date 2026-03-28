@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "284",
+    "departure_from_start": "13:05",
+    "arrival_at_current": "15:05",
+    "departure_from_current": "15:06",
+    "arrival_at_to_station": "17:50",
+    "arrival_at_end": "18:15",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Bang Phra",
+    "end_station_name": "Khlong Tan",
+    "begin_station_code": 3034,
+    "end_station_code": 3009
+  }
+]

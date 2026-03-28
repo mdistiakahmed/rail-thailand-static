@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "111",
+    "departure_from_start": "07:50",
+    "arrival_at_current": "10:07",
+    "departure_from_current": "10:09",
+    "arrival_at_to_station": "16:00",
+    "arrival_at_end": "16:50",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Lop Buri 2 (Tha Wung)",
+    "end_station_name": "Ban Dan",
+    "begin_station_code": 1049,
+    "end_station_code": 1154
+  }
+]

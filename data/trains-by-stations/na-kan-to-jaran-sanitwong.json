@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "260",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "06:40",
+    "departure_from_current": "06:41",
+    "arrival_at_to_station": "09:31",
+    "arrival_at_end": "09:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Na Kan",
+    "end_station_name": "Jaran Sanitwong",
+    "begin_station_code": 4062,
+    "end_station_code": 4434
+  }
+]

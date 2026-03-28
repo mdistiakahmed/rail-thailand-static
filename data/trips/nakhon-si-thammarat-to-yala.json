@@ -1,0 +1,13 @@
+{
+  "forward": [],
+  "backward": [
+    {
+      "trainNo": "456",
+      "trainTypeNameEn": "Local",
+      "departureTime": "06:35",
+      "arrivalTime": "13:20",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "234",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "09:30",
+    "departure_from_current": "09:31",
+    "arrival_at_to_station": "11:57",
+    "arrival_at_end": "14:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khlong Phai",
+    "end_station_name": "Nong Kuai",
+    "begin_station_code": 2100,
+    "end_station_code": 2001
+  }
+]

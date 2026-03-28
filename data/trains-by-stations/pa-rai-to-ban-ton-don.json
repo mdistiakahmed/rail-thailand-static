@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "456",
+    "departure_from_start": "06:35",
+    "arrival_at_current": "06:57",
+    "departure_from_current": "06:58",
+    "arrival_at_to_station": "10:32",
+    "arrival_at_end": "13:20",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Pa Rai",
+    "end_station_name": "Ban Ton Don",
+    "begin_station_code": 4398,
+    "end_station_code": 4328
+  },
+  {
+    "train_code": "464",
+    "departure_from_start": "12:40",
+    "arrival_at_current": "15:04",
+    "departure_from_current": "15:05",
+    "arrival_at_to_station": "18:24",
+    "arrival_at_end": "18:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Pa Rai",
+    "end_station_name": "Ban Ton Don",
+    "begin_station_code": 4398,
+    "end_station_code": 4328
+  }
+]

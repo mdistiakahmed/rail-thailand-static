@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "254",
+    "departure_from_start": "06:30",
+    "arrival_at_current": "08:08",
+    "departure_from_current": "08:09",
+    "arrival_at_to_station": "11:34",
+    "arrival_at_end": "17:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Saphli",
+    "end_station_name": "Kui Buri",
+    "begin_station_code": 4182,
+    "end_station_code": 4133
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "168",
+    "departure_from_start": "14:15",
+    "arrival_at_current": "17:43",
+    "departure_from_current": "17:44",
+    "arrival_at_to_station": "19:26",
+    "arrival_at_end": "05:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Na San",
+    "end_station_name": "Tha Chana",
+    "begin_station_code": 4250,
+    "end_station_code": 4215
+  },
+  {
+    "train_code": "172",
+    "departure_from_start": "12:10",
+    "arrival_at_current": "20:18",
+    "departure_from_current": "20:19",
+    "arrival_at_to_station": "21:46",
+    "arrival_at_end": "07:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Na San",
+    "end_station_name": "Tha Chana",
+    "begin_station_code": 4250,
+    "end_station_code": 4215
+  },
+  {
+    "train_code": "986",
+    "departure_from_start": "13:25",
+    "arrival_at_current": "23:41",
+    "departure_from_current": "23:44",
+    "arrival_at_to_station": "01:54",
+    "arrival_at_end": "13:15",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Freight",
+    "begin_station_name": "Na San",
+    "end_station_name": "Tha Chana",
+    "begin_station_code": 4250,
+    "end_station_code": 4215
+  }
+]

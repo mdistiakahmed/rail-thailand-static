@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "464",
+    "departure_from_start": "12:40",
+    "arrival_at_current": "12:58",
+    "departure_from_current": "12:59",
+    "arrival_at_to_station": "18:40",
+    "arrival_at_end": "18:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "To Deng",
+    "end_station_name": "Phatthalung",
+    "begin_station_code": 4427,
+    "end_station_code": 4325
+  }
+]

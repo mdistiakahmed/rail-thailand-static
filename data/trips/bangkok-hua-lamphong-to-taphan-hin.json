@@ -1,0 +1,22 @@
+{
+  "forward": [
+    {
+      "trainNo": "211",
+      "trainTypeNameEn": "Ordinary",
+      "departureTime": "12:55",
+      "arrivalTime": "19:00",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ],
+  "backward": [
+    {
+      "trainNo": "212",
+      "trainTypeNameEn": "Ordinary",
+      "departureTime": "05:45",
+      "arrivalTime": "11:55",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ]
+}

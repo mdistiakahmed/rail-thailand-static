@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "985",
+    "departure_from_start": "11:00",
+    "arrival_at_current": "17:38",
+    "departure_from_current": "17:41",
+    "arrival_at_to_station": "11:35",
+    "arrival_at_end": "12:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Freight",
+    "begin_station_name": "Ban Krut",
+    "end_station_name": "Tanyong Mat",
+    "begin_station_code": 4158,
+    "end_station_code": 4419
+  },
+  {
+    "train_code": "171",
+    "departure_from_start": "15:10",
+    "arrival_at_current": "20:49",
+    "departure_from_current": "20:50",
+    "arrival_at_to_station": "09:24",
+    "arrival_at_end": "10:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Ban Krut",
+    "end_station_name": "Tanyong Mat",
+    "begin_station_code": 4158,
+    "end_station_code": 4419
+  }
+]

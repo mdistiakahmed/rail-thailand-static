@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "255",
+    "departure_from_start": "07:20",
+    "arrival_at_current": "12:23",
+    "departure_from_current": "12:24",
+    "arrival_at_to_station": "13:46",
+    "arrival_at_end": "18:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Huai Khwang",
+    "end_station_name": "Wang Duan",
+    "begin_station_code": 4125,
+    "end_station_code": 4146
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "463",
+    "departure_from_start": "06:10",
+    "arrival_at_current": "06:28",
+    "departure_from_current": "06:29",
+    "arrival_at_to_station": "07:09",
+    "arrival_at_end": "12:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Ban Huai Tan",
+    "end_station_name": "Wat Khuan Phayer",
+    "begin_station_code": 4329,
+    "end_station_code": 4337
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "233",
+    "departure_from_start": "12:00",
+    "arrival_at_current": "12:09",
+    "departure_from_current": "12:10",
+    "arrival_at_to_station": "15:59",
+    "arrival_at_end": "20:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ramathibodi Hospital",
+    "end_station_name": "Sap Muang",
+    "begin_station_code": 1232,
+    "end_station_code": 2095
+  }
+]

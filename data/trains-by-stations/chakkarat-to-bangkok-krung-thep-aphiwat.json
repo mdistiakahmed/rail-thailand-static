@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "72",
+    "departure_from_start": "05:40",
+    "arrival_at_current": "09:31",
+    "departure_from_current": "09:32",
+    "arrival_at_to_station": "14:10",
+    "arrival_at_end": "14:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Chakkarat",
+    "end_station_name": "Bangkok (Krung Thep Aphiwat)",
+    "begin_station_code": 2217,
+    "end_station_code": 1000
+  },
+  {
+    "train_code": "136",
+    "departure_from_start": "07:00",
+    "arrival_at_current": "11:44",
+    "departure_from_current": "11:45",
+    "arrival_at_to_station": "18:00",
+    "arrival_at_end": "18:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Chakkarat",
+    "end_station_name": "Bangkok (Krung Thep Aphiwat)",
+    "begin_station_code": 2217,
+    "end_station_code": 1000
+  },
+  {
+    "train_code": "142",
+    "departure_from_start": "17:35",
+    "arrival_at_current": "22:33",
+    "departure_from_current": "22:34",
+    "arrival_at_to_station": "04:10",
+    "arrival_at_end": "04:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Chakkarat",
+    "end_station_name": "Bangkok (Krung Thep Aphiwat)",
+    "begin_station_code": 2217,
+    "end_station_code": 1000
+  }
+]

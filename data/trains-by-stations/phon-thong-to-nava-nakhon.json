@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "210",
+    "departure_from_start": "15:55",
+    "arrival_at_current": "15:58",
+    "departure_from_current": "15:59",
+    "arrival_at_to_station": "18:52",
+    "arrival_at_end": "20:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Phon Thong",
+    "end_station_name": "Nava Nakhon",
+    "begin_station_code": 1066,
+    "end_station_code": 1023
+  }
+]

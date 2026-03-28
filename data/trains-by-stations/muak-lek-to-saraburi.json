@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "142",
+    "departure_from_start": "17:35",
+    "arrival_at_current": "01:37",
+    "departure_from_current": "01:48",
+    "arrival_at_to_station": "02:29",
+    "arrival_at_end": "04:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Muak Lek",
+    "end_station_name": "Saraburi",
+    "begin_station_code": 2086,
+    "end_station_code": 2007
+  },
+  {
+    "train_code": "234",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "10:45",
+    "departure_from_current": "10:46",
+    "arrival_at_to_station": "11:33",
+    "arrival_at_end": "14:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Muak Lek",
+    "end_station_name": "Saraburi",
+    "begin_station_code": 2086,
+    "end_station_code": 2007
+  },
+  {
+    "train_code": "136",
+    "departure_from_start": "07:00",
+    "arrival_at_current": "14:29",
+    "departure_from_current": "14:40",
+    "arrival_at_to_station": "15:34",
+    "arrival_at_end": "18:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Muak Lek",
+    "end_station_name": "Saraburi",
+    "begin_station_code": 2086,
+    "end_station_code": 2007
+  }
+]

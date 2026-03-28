@@ -1,0 +1,38 @@
+{
+  "forward": [
+    {
+      "trainNo": "171",
+      "trainTypeNameEn": "Rapid",
+      "departureTime": "15:10",
+      "arrivalTime": "10:10",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "37",
+      "trainTypeNameEn": "Special Exp.",
+      "departureTime": "16:10",
+      "arrivalTime": "10:35",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ],
+  "backward": [
+    {
+      "trainNo": "172",
+      "trainTypeNameEn": "Rapid",
+      "departureTime": "12:10",
+      "arrivalTime": "07:30",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "38",
+      "trainTypeNameEn": "Special Exp.",
+      "departureTime": "14:15",
+      "arrivalTime": "09:05",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ]
+}

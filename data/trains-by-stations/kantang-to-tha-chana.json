@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "168",
+    "departure_from_start": "14:15",
+    "arrival_at_current": "N/A",
+    "departure_from_current": "14:15",
+    "arrival_at_to_station": "19:26",
+    "arrival_at_end": "05:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Kantang",
+    "end_station_name": "Tha Chana",
+    "begin_station_code": 4294,
+    "end_station_code": 4215
+  }
+]

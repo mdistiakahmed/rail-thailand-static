@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "112",
+    "departure_from_start": "08:00",
+    "arrival_at_current": "10:17",
+    "departure_from_current": "10:18",
+    "arrival_at_to_station": "12:54",
+    "arrival_at_end": "17:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Phrom Phiram",
+    "end_station_name": "Pak Nam Pho",
+    "begin_station_code": 1125,
+    "end_station_code": 1083
+  },
+  {
+    "train_code": "102",
+    "departure_from_start": "06:25",
+    "arrival_at_current": "13:15",
+    "departure_from_current": "13:16",
+    "arrival_at_to_station": "15:45",
+    "arrival_at_end": "20:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Phrom Phiram",
+    "end_station_name": "Pak Nam Pho",
+    "begin_station_code": 1125,
+    "end_station_code": 1083
+  },
+  {
+    "train_code": "108",
+    "departure_from_start": "19:10",
+    "arrival_at_current": "21:39",
+    "departure_from_current": "21:40",
+    "arrival_at_to_station": "00:27",
+    "arrival_at_end": "04:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Phrom Phiram",
+    "end_station_name": "Pak Nam Pho",
+    "begin_station_code": 1125,
+    "end_station_code": 1083
+  }
+]

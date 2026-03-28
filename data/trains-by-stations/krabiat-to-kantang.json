@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "167",
+    "departure_from_start": "20:30",
+    "arrival_at_current": "08:40",
+    "departure_from_current": "08:41",
+    "arrival_at_to_station": "11:25",
+    "arrival_at_end": "11:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Krabiat",
+    "end_station_name": "Kantang",
+    "begin_station_code": 4259,
+    "end_station_code": 4294
+  }
+]

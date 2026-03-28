@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "356",
+    "departure_from_start": "04:15",
+    "arrival_at_current": "06:37",
+    "departure_from_current": "06:38",
+    "arrival_at_to_station": "07:30",
+    "arrival_at_end": "08:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Ton Samrong",
+    "end_station_name": "Bang Bamru",
+    "begin_station_code": 4015,
+    "end_station_code": 4005
+  },
+  {
+    "train_code": "262",
+    "departure_from_start": "14:45",
+    "arrival_at_current": "17:43",
+    "departure_from_current": "17:44",
+    "arrival_at_to_station": "18:37",
+    "arrival_at_end": "19:20",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ton Samrong",
+    "end_station_name": "Bang Bamru",
+    "begin_station_code": 4015,
+    "end_station_code": 4005
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "169",
+    "departure_from_start": "17:30",
+    "arrival_at_current": "21:50",
+    "departure_from_current": "21:51",
+    "arrival_at_to_station": "07:27",
+    "arrival_at_end": "11:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Pran Buri",
+    "end_station_name": "Laem Tanot",
+    "begin_station_code": 4124,
+    "end_station_code": 4319
+  }
+]

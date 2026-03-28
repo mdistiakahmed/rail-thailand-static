@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "169",
+    "departure_from_start": "17:30",
+    "arrival_at_current": "23:54",
+    "departure_from_current": "23:55",
+    "arrival_at_to_station": "08:14",
+    "arrival_at_end": "11:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Bang Saphan Yai",
+    "end_station_name": "Khao Chaison",
+    "begin_station_code": 4163,
+    "end_station_code": 4330
+  }
+]

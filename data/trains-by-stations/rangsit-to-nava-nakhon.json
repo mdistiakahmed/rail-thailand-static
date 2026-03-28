@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "339",
+    "departure_from_start": "05:05",
+    "arrival_at_current": "06:02",
+    "departure_from_current": "06:03",
+    "arrival_at_to_station": "06:16",
+    "arrival_at_end": "08:05",
+    "weekly_offday": "Saturday, Sunday",
+    "operating_days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "train_type": "Commuter",
+    "begin_station_name": "Rangsit",
+    "end_station_name": "Nava Nakhon",
+    "begin_station_code": 1021,
+    "end_station_code": 1023
+  },
+  {
+    "train_code": "301",
+    "departure_from_start": "16:30",
+    "arrival_at_current": "17:30",
+    "departure_from_current": "17:31",
+    "arrival_at_to_station": "17:50",
+    "arrival_at_end": "19:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Rangsit",
+    "end_station_name": "Nava Nakhon",
+    "begin_station_code": 1021,
+    "end_station_code": 1023
+  },
+  {
+    "train_code": "341",
+    "departure_from_start": "17:00",
+    "arrival_at_current": "18:02",
+    "departure_from_current": "18:03",
+    "arrival_at_to_station": "18:19",
+    "arrival_at_end": "20:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Rangsit",
+    "end_station_name": "Nava Nakhon",
+    "begin_station_code": 1021,
+    "end_station_code": 1023
+  },
+  {
+    "train_code": "313",
+    "departure_from_start": "18:20",
+    "arrival_at_current": "19:19",
+    "departure_from_current": "19:20",
+    "arrival_at_to_station": "19:36",
+    "arrival_at_end": "20:30",
+    "weekly_offday": "Saturday, Sunday",
+    "operating_days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "train_type": "Commuter",
+    "begin_station_name": "Rangsit",
+    "end_station_name": "Nava Nakhon",
+    "begin_station_code": 1021,
+    "end_station_code": 1023
+  }
+]

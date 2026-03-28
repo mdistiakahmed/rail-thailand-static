@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "169",
+    "departure_from_start": "17:30",
+    "arrival_at_current": "07:38",
+    "departure_from_current": "07:39",
+    "arrival_at_to_station": "08:14",
+    "arrival_at_end": "11:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Pak Khlong",
+    "end_station_name": "Khao Chaison",
+    "begin_station_code": 4321,
+    "end_station_code": 4330
+  }
+]

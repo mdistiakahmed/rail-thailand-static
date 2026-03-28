@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "167",
+    "departure_from_start": "20:30",
+    "arrival_at_current": "08:48",
+    "departure_from_current": "08:49",
+    "arrival_at_to_station": "10:11",
+    "arrival_at_end": "11:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Thanpho",
+    "end_station_name": "Kapang",
+    "begin_station_code": 4261,
+    "end_station_code": 4275
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "from_city": "ayutthaya",
+  "to_city": "chiang mai",
+  "schedules": [
+    {
+      "train_no": "7",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Ayutthaya",
+      "to_station": "Chiang Mai",
+      "depart_time": "08:23",
+      "arrive_time": "17:50",
+      "duration": "9h 27m"
+    },
+    {
+      "train_no": "109",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Ayutthaya",
+      "to_station": "Chiang Mai",
+      "depart_time": "15:20",
+      "arrive_time": "04:00",
+      "duration": "12h 40m"
+    },
+    {
+      "train_no": "9",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Ayutthaya",
+      "to_station": "Chiang Mai",
+      "depart_time": "19:45",
+      "arrive_time": "07:15",
+      "duration": "11h 30m"
+    },
+    {
+      "train_no": "13",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Ayutthaya",
+      "to_station": "Chiang Mai",
+      "depart_time": "21:09",
+      "arrive_time": "08:45",
+      "duration": "11h 36m"
+    },
+    {
+      "train_no": "51",
+      "train_name": "",
+      "train_type": "Express",
+      "from_station": "Ayutthaya",
+      "to_station": "Chiang Mai",
+      "depart_time": "23:38",
+      "arrive_time": "11:40",
+      "duration": "12h 2m"
+    }
+  ]
+}

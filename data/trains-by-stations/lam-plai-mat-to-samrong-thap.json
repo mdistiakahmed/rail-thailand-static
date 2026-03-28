@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "139",
+    "departure_from_start": "19:25",
+    "arrival_at_current": "01:47",
+    "departure_from_current": "01:49",
+    "arrival_at_to_station": "04:17",
+    "arrival_at_end": "06:15",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Lam Plai Mat",
+    "end_station_name": "Samrong Thap",
+    "begin_station_code": 2229,
+    "end_station_code": 2261
+  },
+  {
+    "train_code": "141",
+    "departure_from_start": "23:05",
+    "arrival_at_current": "05:54",
+    "departure_from_current": "05:55",
+    "arrival_at_to_station": "08:24",
+    "arrival_at_end": "10:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Lam Plai Mat",
+    "end_station_name": "Samrong Thap",
+    "begin_station_code": 2229,
+    "end_station_code": 2261
+  },
+  {
+    "train_code": "135",
+    "departure_from_start": "07:10",
+    "arrival_at_current": "13:47",
+    "departure_from_current": "13:48",
+    "arrival_at_to_station": "15:59",
+    "arrival_at_end": "18:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Lam Plai Mat",
+    "end_station_name": "Samrong Thap",
+    "begin_station_code": 2229,
+    "end_station_code": 2261
+  },
+  {
+    "train_code": "71",
+    "departure_from_start": "10:35",
+    "arrival_at_current": "15:48",
+    "departure_from_current": "15:49",
+    "arrival_at_to_station": "17:56",
+    "arrival_at_end": "19:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Lam Plai Mat",
+    "end_station_name": "Samrong Thap",
+    "begin_station_code": 2229,
+    "end_station_code": 2261
+  }
+]

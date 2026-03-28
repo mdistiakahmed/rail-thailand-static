@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "283",
+    "departure_from_start": "06:55",
+    "arrival_at_current": "07:21",
+    "departure_from_current": "07:22",
+    "arrival_at_to_station": "11:45",
+    "arrival_at_end": "11:45",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Asoke",
+    "end_station_name": "Chuck Samet",
+    "begin_station_code": 3105,
+    "end_station_code": 3049
+  }
+]

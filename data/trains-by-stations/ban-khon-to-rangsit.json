@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "108",
+    "departure_from_start": "19:10",
+    "arrival_at_current": "21:10",
+    "departure_from_current": "21:11",
+    "arrival_at_to_station": "04:01",
+    "arrival_at_end": "04:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Ban Khon",
+    "end_station_name": "Rangsit",
+    "begin_station_code": 1131,
+    "end_station_code": 1021
+  }
+]

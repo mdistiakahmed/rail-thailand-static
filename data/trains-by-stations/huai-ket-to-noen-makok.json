@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "202",
+    "departure_from_start": "06:05",
+    "arrival_at_current": "07:08",
+    "departure_from_current": "07:09",
+    "arrival_at_to_station": "08:54",
+    "arrival_at_end": "13:45",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Huai Ket",
+    "end_station_name": "Noen Makok",
+    "begin_station_code": 1101,
+    "end_station_code": 1076
+  }
+]

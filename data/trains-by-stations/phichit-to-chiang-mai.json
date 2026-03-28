@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "13",
+    "departure_from_start": "20:05",
+    "arrival_at_current": "01:17",
+    "departure_from_current": "01:18",
+    "arrival_at_to_station": "08:45",
+    "arrival_at_end": "08:45",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Special Exp.",
+    "begin_station_name": "Phichit",
+    "end_station_name": "Chiang Mai",
+    "begin_station_code": 1107,
+    "end_station_code": 1222
+  },
+  {
+    "train_code": "51",
+    "departure_from_start": "22:30",
+    "arrival_at_current": "03:53",
+    "departure_from_current": "03:54",
+    "arrival_at_to_station": "11:40",
+    "arrival_at_end": "11:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Phichit",
+    "end_station_name": "Chiang Mai",
+    "begin_station_code": 1107,
+    "end_station_code": 1222
+  },
+  {
+    "train_code": "7",
+    "departure_from_start": "07:30",
+    "arrival_at_current": "11:22",
+    "departure_from_current": "11:23",
+    "arrival_at_to_station": "17:50",
+    "arrival_at_end": "17:50",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Special Exp.",
+    "begin_station_name": "Phichit",
+    "end_station_name": "Chiang Mai",
+    "begin_station_code": 1107,
+    "end_station_code": 1222
+  },
+  {
+    "train_code": "109",
+    "departure_from_start": "14:15",
+    "arrival_at_current": "19:55",
+    "departure_from_current": "19:56",
+    "arrival_at_to_station": "04:00",
+    "arrival_at_end": "04:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Phichit",
+    "end_station_name": "Chiang Mai",
+    "begin_station_code": 1107,
+    "end_station_code": 1222
+  }
+]

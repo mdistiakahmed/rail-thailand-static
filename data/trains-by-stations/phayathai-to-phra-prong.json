@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "275",
+    "departure_from_start": "05:55",
+    "arrival_at_current": "06:09",
+    "departure_from_current": "06:10",
+    "arrival_at_to_station": "09:55",
+    "arrival_at_end": "11:17",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Phayathai",
+    "end_station_name": "Phra Prong",
+    "begin_station_code": 3103,
+    "end_station_code": 3081
+  },
+  {
+    "train_code": "279",
+    "departure_from_start": "13:05",
+    "arrival_at_current": "13:12",
+    "departure_from_current": "13:13",
+    "arrival_at_to_station": "16:10",
+    "arrival_at_end": "17:27",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Phayathai",
+    "end_station_name": "Phra Prong",
+    "begin_station_code": 3103,
+    "end_station_code": 3081
+  }
+]

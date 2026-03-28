@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "997",
+    "departure_from_start": "06:45",
+    "arrival_at_current": "08:36",
+    "departure_from_current": "08:37",
+    "arrival_at_to_station": "09:50",
+    "arrival_at_end": "10:10",
+    "weekly_offday": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "operating_days": "Saturday, Sunday",
+    "train_type": "Special",
+    "begin_station_name": "Chon Buri",
+    "end_station_name": "Ban Plu Ta Luang",
+    "begin_station_code": 3032,
+    "end_station_code": 3047
+  },
+  {
+    "train_code": "283",
+    "departure_from_start": "06:55",
+    "arrival_at_current": "09:48",
+    "departure_from_current": "09:49",
+    "arrival_at_to_station": "11:20",
+    "arrival_at_end": "11:45",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Chon Buri",
+    "end_station_name": "Ban Plu Ta Luang",
+    "begin_station_code": 3032,
+    "end_station_code": 3047
+  }
+]

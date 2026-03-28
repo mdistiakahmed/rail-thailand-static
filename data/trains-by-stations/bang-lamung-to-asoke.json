@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "284",
+    "departure_from_start": "13:05",
+    "arrival_at_current": "14:31",
+    "departure_from_current": "14:32",
+    "arrival_at_to_station": "17:55",
+    "arrival_at_end": "18:15",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Bang Lamung",
+    "end_station_name": "Asoke",
+    "begin_station_code": 3039,
+    "end_station_code": 3105
+  }
+]

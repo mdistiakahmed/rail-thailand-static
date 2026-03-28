@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "275",
+    "departure_from_start": "05:55",
+    "arrival_at_current": "07:51",
+    "departure_from_current": "07:52",
+    "arrival_at_to_station": "08:54",
+    "arrival_at_end": "11:17",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Phrong Akat",
+    "end_station_name": "Khok Makok",
+    "begin_station_code": 3053,
+    "end_station_code": 3068
+  },
+  {
+    "train_code": "281",
+    "departure_from_start": "08:00",
+    "arrival_at_current": "09:46",
+    "departure_from_current": "09:47",
+    "arrival_at_to_station": "10:57",
+    "arrival_at_end": "11:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Phrong Akat",
+    "end_station_name": "Khok Makok",
+    "begin_station_code": 3053,
+    "end_station_code": 3068
+  },
+  {
+    "train_code": "279",
+    "departure_from_start": "13:05",
+    "arrival_at_current": "14:30",
+    "departure_from_current": "14:31",
+    "arrival_at_to_station": "15:20",
+    "arrival_at_end": "17:27",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Phrong Akat",
+    "end_station_name": "Khok Makok",
+    "begin_station_code": 3053,
+    "end_station_code": 3068
+  },
+  {
+    "train_code": "277",
+    "departure_from_start": "15:25",
+    "arrival_at_current": "16:54",
+    "departure_from_current": "16:55",
+    "arrival_at_to_station": "17:49",
+    "arrival_at_end": "18:20",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Phrong Akat",
+    "end_station_name": "Khok Makok",
+    "begin_station_code": 3053,
+    "end_station_code": 3068
+  }
+]

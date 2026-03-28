@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "372",
+    "departure_from_start": "05:00",
+    "arrival_at_current": "05:25",
+    "departure_from_current": "05:26",
+    "arrival_at_to_station": "08:06",
+    "arrival_at_end": "08:15",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Ban Sang",
+    "end_station_name": "Yommaraj",
+    "begin_station_code": 3061,
+    "end_station_code": 1002
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "112",
+    "departure_from_start": "08:00",
+    "arrival_at_current": "15:19",
+    "departure_from_current": "15:20",
+    "arrival_at_to_station": "17:10",
+    "arrival_at_end": "17:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Ban Mo",
+    "end_station_name": "Bangkok (Krung Thep Aphiwat)",
+    "begin_station_code": 1041,
+    "end_station_code": 1000
+  },
+  {
+    "train_code": "102",
+    "departure_from_start": "06:25",
+    "arrival_at_current": "18:16",
+    "departure_from_current": "18:17",
+    "arrival_at_to_station": "20:05",
+    "arrival_at_end": "20:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Ban Mo",
+    "end_station_name": "Bangkok (Krung Thep Aphiwat)",
+    "begin_station_code": 1041,
+    "end_station_code": 1000
+  }
+]

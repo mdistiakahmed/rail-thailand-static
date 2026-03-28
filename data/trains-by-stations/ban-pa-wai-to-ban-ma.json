@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "302",
+    "departure_from_start": "04:30",
+    "arrival_at_current": "04:35",
+    "departure_from_current": "04:36",
+    "arrival_at_to_station": "05:40",
+    "arrival_at_end": "07:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Ban Pa Wai",
+    "end_station_name": "Ban Ma",
+    "begin_station_code": 1048,
+    "end_station_code": 1032
+  },
+  {
+    "train_code": "202",
+    "departure_from_start": "06:05",
+    "arrival_at_current": "10:48",
+    "departure_from_current": "10:49",
+    "arrival_at_to_station": "11:49",
+    "arrival_at_end": "13:45",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Pa Wai",
+    "end_station_name": "Ban Ma",
+    "begin_station_code": 1048,
+    "end_station_code": 1032
+  },
+  {
+    "train_code": "210",
+    "departure_from_start": "15:55",
+    "arrival_at_current": "17:10",
+    "departure_from_current": "17:11",
+    "arrival_at_to_station": "18:15",
+    "arrival_at_end": "20:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Pa Wai",
+    "end_station_name": "Ban Ma",
+    "begin_station_code": 1048,
+    "end_station_code": 1032
+  }
+]

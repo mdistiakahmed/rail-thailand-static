@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "75",
+    "departure_from_start": "08:45",
+    "arrival_at_current": "10:57",
+    "departure_from_current": "10:58",
+    "arrival_at_to_station": "14:04",
+    "arrival_at_end": "17:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Kaeng Sue Ten",
+    "end_station_name": "Bua Yai Junction",
+    "begin_station_code": 2020,
+    "end_station_code": 2136
+  }
+]

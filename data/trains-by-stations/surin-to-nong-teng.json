@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "234",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "04:53",
+    "departure_from_current": "05:20",
+    "arrival_at_to_station": "05:34",
+    "arrival_at_end": "14:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Surin",
+    "end_station_name": "Nong Teng",
+    "begin_station_code": 2248,
+    "end_station_code": 2244
+  },
+  {
+    "train_code": "142",
+    "departure_from_start": "17:35",
+    "arrival_at_current": "20:20",
+    "departure_from_current": "20:22",
+    "arrival_at_to_station": "20:38",
+    "arrival_at_end": "04:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Surin",
+    "end_station_name": "Nong Teng",
+    "begin_station_code": 2248,
+    "end_station_code": 2244
+  }
+]

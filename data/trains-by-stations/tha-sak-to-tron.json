@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "111",
+    "departure_from_start": "07:50",
+    "arrival_at_current": "15:17",
+    "departure_from_current": "15:18",
+    "arrival_at_to_station": "15:26",
+    "arrival_at_end": "16:50",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Tha Sak",
+    "end_station_name": "Tron",
+    "begin_station_code": 1144,
+    "end_station_code": 1146
+  },
+  {
+    "train_code": "109",
+    "departure_from_start": "14:15",
+    "arrival_at_current": "21:50",
+    "departure_from_current": "21:56",
+    "arrival_at_to_station": "22:04",
+    "arrival_at_end": "04:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Tha Sak",
+    "end_station_name": "Tron",
+    "begin_station_code": 1144,
+    "end_station_code": 1146
+  }
+]

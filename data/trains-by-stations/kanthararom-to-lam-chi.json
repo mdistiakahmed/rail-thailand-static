@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "72",
+    "departure_from_start": "05:40",
+    "arrival_at_current": "06:04",
+    "departure_from_current": "06:08",
+    "arrival_at_to_station": "07:57",
+    "arrival_at_end": "14:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Kanthararom",
+    "end_station_name": "Lam Chi",
+    "begin_station_code": 2281,
+    "end_station_code": 2246
+  },
+  {
+    "train_code": "136",
+    "departure_from_start": "07:00",
+    "arrival_at_current": "07:37",
+    "departure_from_current": "07:38",
+    "arrival_at_to_station": "09:47",
+    "arrival_at_end": "18:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Kanthararom",
+    "end_station_name": "Lam Chi",
+    "begin_station_code": 2281,
+    "end_station_code": 2246
+  },
+  {
+    "train_code": "142",
+    "departure_from_start": "17:35",
+    "arrival_at_current": "18:13",
+    "departure_from_current": "18:14",
+    "arrival_at_to_station": "20:30",
+    "arrival_at_end": "04:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Kanthararom",
+    "end_station_name": "Lam Chi",
+    "begin_station_code": 2281,
+    "end_station_code": 2246
+  },
+  {
+    "train_code": "140",
+    "departure_from_start": "20:30",
+    "arrival_at_current": "20:57",
+    "departure_from_current": "20:58",
+    "arrival_at_to_station": "23:06",
+    "arrival_at_end": "06:50",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Kanthararom",
+    "end_station_name": "Lam Chi",
+    "begin_station_code": 2281,
+    "end_station_code": 2246
+  }
+]

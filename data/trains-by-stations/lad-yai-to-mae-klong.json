@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "4381",
+    "departure_from_start": "07:30",
+    "arrival_at_current": "08:19",
+    "departure_from_current": "08:20",
+    "arrival_at_to_station": "08:30",
+    "arrival_at_end": "08:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Lad Yai",
+    "end_station_name": "Mae Klong",
+    "begin_station_code": 5030,
+    "end_station_code": 5032
+  },
+  {
+    "train_code": "4383",
+    "departure_from_start": "10:10",
+    "arrival_at_current": "10:59",
+    "departure_from_current": "11:00",
+    "arrival_at_to_station": "11:10",
+    "arrival_at_end": "11:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Lad Yai",
+    "end_station_name": "Mae Klong",
+    "begin_station_code": 5030,
+    "end_station_code": 5032
+  },
+  {
+    "train_code": "4385",
+    "departure_from_start": "13:30",
+    "arrival_at_current": "14:19",
+    "departure_from_current": "14:20",
+    "arrival_at_to_station": "14:30",
+    "arrival_at_end": "14:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Lad Yai",
+    "end_station_name": "Mae Klong",
+    "begin_station_code": 5030,
+    "end_station_code": 5032
+  },
+  {
+    "train_code": "4387",
+    "departure_from_start": "16:40",
+    "arrival_at_current": "17:29",
+    "departure_from_current": "17:30",
+    "arrival_at_to_station": "17:40",
+    "arrival_at_end": "17:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Lad Yai",
+    "end_station_name": "Mae Klong",
+    "begin_station_code": 5030,
+    "end_station_code": 5032
+  }
+]

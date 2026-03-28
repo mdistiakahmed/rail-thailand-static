@@ -1,0 +1,14 @@
+{
+  "name": "thai-rail-scraper",
+  "version": "1.0.0",
+  "description": "Scraper for Thai railway schedule information",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.15.0"
+  }
+}

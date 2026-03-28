@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "275",
+    "departure_from_start": "05:55",
+    "arrival_at_current": "07:23",
+    "departure_from_current": "07:24",
+    "arrival_at_to_station": "11:00",
+    "arrival_at_end": "11:17",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khlong Kwaeng Klan",
+    "end_station_name": "Huai Dua",
+    "begin_station_code": 3020,
+    "end_station_code": 3097
+  }
+]

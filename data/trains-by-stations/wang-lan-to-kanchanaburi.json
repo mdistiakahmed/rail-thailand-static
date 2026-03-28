@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "260",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "06:45",
+    "departure_from_current": "06:46",
+    "arrival_at_to_station": "07:03",
+    "arrival_at_end": "09:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Wang Lan",
+    "end_station_name": "Kanchanaburi",
+    "begin_station_code": 4061,
+    "end_station_code": 4057
+  },
+  {
+    "train_code": "486",
+    "departure_from_start": "15:30",
+    "arrival_at_current": "17:05",
+    "departure_from_current": "17:06",
+    "arrival_at_to_station": "17:26",
+    "arrival_at_end": "17:26",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Wang Lan",
+    "end_station_name": "Kanchanaburi",
+    "begin_station_code": 4061,
+    "end_station_code": 4057
+  }
+]

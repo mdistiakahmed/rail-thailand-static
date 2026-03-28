@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "372",
+    "departure_from_start": "05:00",
+    "arrival_at_current": "05:07",
+    "departure_from_current": "05:08",
+    "arrival_at_to_station": "08:01",
+    "arrival_at_end": "08:15",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Ban Pak Phli",
+    "end_station_name": "Urupong",
+    "begin_station_code": 3064,
+    "end_station_code": 3102
+  }
+]

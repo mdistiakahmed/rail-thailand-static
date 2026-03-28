@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "283",
+    "departure_from_start": "06:55",
+    "arrival_at_current": "07:56",
+    "departure_from_current": "07:57",
+    "arrival_at_to_station": "10:39",
+    "arrival_at_end": "11:45",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Thap Chang",
+    "end_station_name": "Pattaya Tai",
+    "begin_station_code": 3012,
+    "end_station_code": 3042
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "201",
+    "departure_from_start": "10:15",
+    "arrival_at_current": "14:54",
+    "departure_from_current": "14:55",
+    "arrival_at_to_station": "15:53",
+    "arrival_at_end": "17:55",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Hua Ngiu",
+    "end_station_name": "Khlong Pla Kot",
+    "begin_station_code": 1074,
+    "end_station_code": 1086
+  },
+  {
+    "train_code": "211",
+    "departure_from_start": "12:55",
+    "arrival_at_current": "17:10",
+    "departure_from_current": "17:11",
+    "arrival_at_to_station": "18:10",
+    "arrival_at_end": "19:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Hua Ngiu",
+    "end_station_name": "Khlong Pla Kot",
+    "begin_station_code": 1074,
+    "end_station_code": 1086
+  }
+]

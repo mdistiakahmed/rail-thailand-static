@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "252",
+    "departure_from_start": "04:40",
+    "arrival_at_current": "05:58",
+    "departure_from_current": "05:59",
+    "arrival_at_to_station": "07:34",
+    "arrival_at_end": "10:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khao Tao",
+    "end_station_name": "Khao Yoi",
+    "begin_station_code": 4121,
+    "end_station_code": 4097
+  },
+  {
+    "train_code": "254",
+    "departure_from_start": "06:30",
+    "arrival_at_current": "12:26",
+    "departure_from_current": "12:27",
+    "arrival_at_to_station": "14:13",
+    "arrival_at_end": "17:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khao Tao",
+    "end_station_name": "Khao Yoi",
+    "begin_station_code": 4121,
+    "end_station_code": 4097
+  }
+]

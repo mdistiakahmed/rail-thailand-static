@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "456",
+    "departure_from_start": "06:35",
+    "arrival_at_current": "09:27",
+    "departure_from_current": "09:31",
+    "arrival_at_to_station": "10:42",
+    "arrival_at_end": "13:20",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Khuan Niang",
+    "end_station_name": "Na Pru",
+    "begin_station_code": 4340,
+    "end_station_code": 4326
+  },
+  {
+    "train_code": "464",
+    "departure_from_start": "12:40",
+    "arrival_at_current": "17:27",
+    "departure_from_current": "17:28",
+    "arrival_at_to_station": "18:35",
+    "arrival_at_end": "18:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Khuan Niang",
+    "end_station_name": "Na Pru",
+    "begin_station_code": 4340,
+    "end_station_code": 4326
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "464",
+    "departure_from_start": "12:40",
+    "arrival_at_current": "13:40",
+    "departure_from_current": "13:41",
+    "arrival_at_to_station": "14:58",
+    "arrival_at_end": "18:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Kadae",
+    "end_station_name": "Khlong Sai",
+    "begin_station_code": 4417,
+    "end_station_code": 4399
+  }
+]

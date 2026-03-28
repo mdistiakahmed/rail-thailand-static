@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "261",
+    "departure_from_start": "09:20",
+    "arrival_at_current": "11:29",
+    "departure_from_current": "11:30",
+    "arrival_at_to_station": "13:50",
+    "arrival_at_end": "14:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nakhon Chum",
+    "end_station_name": "Hua Hin",
+    "begin_station_code": 4081,
+    "end_station_code": 4118
+  },
+  {
+    "train_code": "251",
+    "departure_from_start": "13:10",
+    "arrival_at_current": "14:48",
+    "departure_from_current": "14:49",
+    "arrival_at_to_station": "17:31",
+    "arrival_at_end": "19:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nakhon Chum",
+    "end_station_name": "Hua Hin",
+    "begin_station_code": 4081,
+    "end_station_code": 4118
+  }
+]

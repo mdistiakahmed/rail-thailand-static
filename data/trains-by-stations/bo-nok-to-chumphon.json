@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "255",
+    "departure_from_start": "07:20",
+    "arrival_at_current": "13:02",
+    "departure_from_current": "13:03",
+    "arrival_at_to_station": "16:40",
+    "arrival_at_end": "18:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Bo Nok",
+    "end_station_name": "Chumphon",
+    "begin_station_code": 4135,
+    "end_station_code": 4186
+  }
+]

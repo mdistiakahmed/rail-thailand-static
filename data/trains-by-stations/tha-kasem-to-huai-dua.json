@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "275",
+    "departure_from_start": "05:55",
+    "arrival_at_current": "10:30",
+    "departure_from_current": "10:31",
+    "arrival_at_to_station": "11:00",
+    "arrival_at_end": "11:17",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Tha Kasem",
+    "end_station_name": "Huai Dua",
+    "begin_station_code": 3090,
+    "end_station_code": 3097
+  },
+  {
+    "train_code": "279",
+    "departure_from_start": "13:05",
+    "arrival_at_current": "16:41",
+    "departure_from_current": "16:42",
+    "arrival_at_to_station": "17:11",
+    "arrival_at_end": "17:27",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Tha Kasem",
+    "end_station_name": "Huai Dua",
+    "begin_station_code": 3090,
+    "end_station_code": 3097
+  }
+]

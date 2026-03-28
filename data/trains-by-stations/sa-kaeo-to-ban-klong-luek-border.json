@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "275",
+    "departure_from_start": "05:55",
+    "arrival_at_current": "10:17",
+    "departure_from_current": "10:18",
+    "arrival_at_to_station": "11:17",
+    "arrival_at_end": "11:17",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Sa Kaeo",
+    "end_station_name": "Ban Klong Luek Border",
+    "begin_station_code": 3087,
+    "end_station_code": 3130
+  },
+  {
+    "train_code": "279",
+    "departure_from_start": "13:05",
+    "arrival_at_current": "16:30",
+    "departure_from_current": "16:31",
+    "arrival_at_to_station": "17:27",
+    "arrival_at_end": "17:27",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Sa Kaeo",
+    "end_station_name": "Ban Klong Luek Border",
+    "begin_station_code": 3087,
+    "end_station_code": 3130
+  }
+]

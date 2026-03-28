@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "234",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "05:42",
+    "departure_from_current": "05:43",
+    "arrival_at_to_station": "07:26",
+    "arrival_at_end": "14:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Krasang",
+    "end_station_name": "Chakkarat",
+    "begin_station_code": 2243,
+    "end_station_code": 2217
+  },
+  {
+    "train_code": "72",
+    "departure_from_start": "05:40",
+    "arrival_at_current": "08:10",
+    "departure_from_current": "08:11",
+    "arrival_at_to_station": "09:31",
+    "arrival_at_end": "14:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Krasang",
+    "end_station_name": "Chakkarat",
+    "begin_station_code": 2243,
+    "end_station_code": 2217
+  },
+  {
+    "train_code": "136",
+    "departure_from_start": "07:00",
+    "arrival_at_current": "10:00",
+    "departure_from_current": "10:01",
+    "arrival_at_to_station": "11:44",
+    "arrival_at_end": "18:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Krasang",
+    "end_station_name": "Chakkarat",
+    "begin_station_code": 2243,
+    "end_station_code": 2217
+  },
+  {
+    "train_code": "142",
+    "departure_from_start": "17:35",
+    "arrival_at_current": "20:47",
+    "departure_from_current": "20:48",
+    "arrival_at_to_station": "22:33",
+    "arrival_at_end": "04:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Krasang",
+    "end_station_name": "Chakkarat",
+    "begin_station_code": 2243,
+    "end_station_code": 2217
+  }
+]

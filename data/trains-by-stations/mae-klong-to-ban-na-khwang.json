@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "4380",
+    "departure_from_start": "06:20",
+    "arrival_at_current": "N/A",
+    "departure_from_current": "06:20",
+    "arrival_at_to_station": "06:46",
+    "arrival_at_end": "07:19",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Mae Klong",
+    "end_station_name": "Ban Na Khwang",
+    "begin_station_code": 5032,
+    "end_station_code": 5027
+  },
+  {
+    "train_code": "4382",
+    "departure_from_start": "09:00",
+    "arrival_at_current": "N/A",
+    "departure_from_current": "09:00",
+    "arrival_at_to_station": "09:26",
+    "arrival_at_end": "10:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Mae Klong",
+    "end_station_name": "Ban Na Khwang",
+    "begin_station_code": 5032,
+    "end_station_code": 5027
+  },
+  {
+    "train_code": "4384",
+    "departure_from_start": "11:30",
+    "arrival_at_current": "N/A",
+    "departure_from_current": "11:30",
+    "arrival_at_to_station": "11:56",
+    "arrival_at_end": "12:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Mae Klong",
+    "end_station_name": "Ban Na Khwang",
+    "begin_station_code": 5032,
+    "end_station_code": 5027
+  },
+  {
+    "train_code": "4386",
+    "departure_from_start": "15:30",
+    "arrival_at_current": "N/A",
+    "departure_from_current": "15:30",
+    "arrival_at_to_station": "15:56",
+    "arrival_at_end": "16:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Mae Klong",
+    "end_station_name": "Ban Na Khwang",
+    "begin_station_code": 5032,
+    "end_station_code": 5027
+  }
+]

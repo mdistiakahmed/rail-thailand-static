@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "485",
+    "departure_from_start": "06:02",
+    "arrival_at_current": "06:12",
+    "departure_from_current": "06:13",
+    "arrival_at_to_station": "07:07",
+    "arrival_at_end": "08:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Khao Pun",
+    "end_station_name": "Tha Kilen",
+    "begin_station_code": 4059,
+    "end_station_code": 4069
+  }
+]

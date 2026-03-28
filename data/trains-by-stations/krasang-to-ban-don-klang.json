@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "234",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "05:42",
+    "departure_from_current": "05:43",
+    "arrival_at_to_station": "12:17",
+    "arrival_at_end": "14:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Krasang",
+    "end_station_name": "Ban Don Klang",
+    "begin_station_code": 2243,
+    "end_station_code": 1034
+  }
+]

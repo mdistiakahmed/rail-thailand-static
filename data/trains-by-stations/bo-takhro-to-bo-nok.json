@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "251",
+    "departure_from_start": "13:10",
+    "arrival_at_current": "15:38",
+    "departure_from_current": "15:39",
+    "arrival_at_to_station": "18:44",
+    "arrival_at_end": "19:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Bo Takhro",
+    "end_station_name": "Bo Nok",
+    "begin_station_code": 4091,
+    "end_station_code": 4135
+  }
+]

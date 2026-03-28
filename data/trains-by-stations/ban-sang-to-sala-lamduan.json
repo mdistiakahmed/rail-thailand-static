@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "275",
+    "departure_from_start": "05:55",
+    "arrival_at_current": "08:25",
+    "departure_from_current": "08:26",
+    "arrival_at_to_station": "10:08",
+    "arrival_at_end": "11:17",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Sang",
+    "end_station_name": "Sala Lamduan",
+    "begin_station_code": 3061,
+    "end_station_code": 3085
+  },
+  {
+    "train_code": "279",
+    "departure_from_start": "13:05",
+    "arrival_at_current": "14:56",
+    "departure_from_current": "14:57",
+    "arrival_at_to_station": "16:22",
+    "arrival_at_end": "17:27",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Sang",
+    "end_station_name": "Sala Lamduan",
+    "begin_station_code": 3061,
+    "end_station_code": 3085
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "85",
+    "departure_from_start": "19:50",
+    "arrival_at_current": "01:07",
+    "departure_from_current": "01:08",
+    "arrival_at_to_station": "08:15",
+    "arrival_at_end": "09:55",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Prachuap Khiri Khan",
+    "end_station_name": "Na Bon",
+    "begin_station_code": 4142,
+    "end_station_code": 4268
+  },
+  {
+    "train_code": "167",
+    "departure_from_start": "20:30",
+    "arrival_at_current": "01:44",
+    "departure_from_current": "01:45",
+    "arrival_at_to_station": "09:16",
+    "arrival_at_end": "11:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Prachuap Khiri Khan",
+    "end_station_name": "Na Bon",
+    "begin_station_code": 4142,
+    "end_station_code": 4268
+  },
+  {
+    "train_code": "985",
+    "departure_from_start": "11:00",
+    "arrival_at_current": "16:45",
+    "departure_from_current": "16:48",
+    "arrival_at_to_station": "01:22",
+    "arrival_at_end": "12:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Freight",
+    "begin_station_name": "Prachuap Khiri Khan",
+    "end_station_name": "Na Bon",
+    "begin_station_code": 4142,
+    "end_station_code": 4268
+  },
+  {
+    "train_code": "169",
+    "departure_from_start": "17:30",
+    "arrival_at_current": "22:47",
+    "departure_from_current": "22:48",
+    "arrival_at_to_station": "05:44",
+    "arrival_at_end": "11:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Prachuap Khiri Khan",
+    "end_station_name": "Na Bon",
+    "begin_station_code": 4142,
+    "end_station_code": 4268
+  }
+]

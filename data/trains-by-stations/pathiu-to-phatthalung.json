@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "169",
+    "departure_from_start": "17:30",
+    "arrival_at_current": "00:50",
+    "departure_from_current": "00:51",
+    "arrival_at_to_station": "07:53",
+    "arrival_at_end": "11:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Pathiu",
+    "end_station_name": "Phatthalung",
+    "begin_station_code": 4179,
+    "end_station_code": 4325
+  },
+  {
+    "train_code": "985",
+    "departure_from_start": "11:00",
+    "arrival_at_current": "18:55",
+    "departure_from_current": "18:58",
+    "arrival_at_to_station": "03:36",
+    "arrival_at_end": "12:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Freight",
+    "begin_station_name": "Pathiu",
+    "end_station_name": "Phatthalung",
+    "begin_station_code": 4179,
+    "end_station_code": 4325
+  },
+  {
+    "train_code": "171",
+    "departure_from_start": "15:10",
+    "arrival_at_current": "21:52",
+    "departure_from_current": "21:53",
+    "arrival_at_to_station": "04:39",
+    "arrival_at_end": "10:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Pathiu",
+    "end_station_name": "Phatthalung",
+    "begin_station_code": 4179,
+    "end_station_code": 4325
+  }
+]

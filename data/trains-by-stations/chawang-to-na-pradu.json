@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "169",
+    "departure_from_start": "17:30",
+    "arrival_at_current": "05:23",
+    "departure_from_current": "05:24",
+    "arrival_at_to_station": "10:44",
+    "arrival_at_end": "11:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Chawang",
+    "end_station_name": "Na Pradu",
+    "begin_station_code": 4262,
+    "end_station_code": 4397
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "234",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "05:53",
+    "departure_from_current": "05:54",
+    "arrival_at_to_station": "07:43",
+    "arrival_at_end": "14:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Huai Rat",
+    "end_station_name": "Tha Chang",
+    "begin_station_code": 2239,
+    "end_station_code": 2213
+  },
+  {
+    "train_code": "136",
+    "departure_from_start": "07:00",
+    "arrival_at_current": "10:11",
+    "departure_from_current": "10:12",
+    "arrival_at_to_station": "11:57",
+    "arrival_at_end": "18:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Huai Rat",
+    "end_station_name": "Tha Chang",
+    "begin_station_code": 2239,
+    "end_station_code": 2213
+  }
+]

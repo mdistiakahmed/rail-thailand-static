@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "301",
+    "departure_from_start": "16:30",
+    "arrival_at_current": "17:50",
+    "departure_from_current": "17:51",
+    "arrival_at_to_station": "19:02",
+    "arrival_at_end": "19:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Nava Nakhon",
+    "end_station_name": "Ban Plug Rad",
+    "begin_station_code": 1023,
+    "end_station_code": 1038
+  }
+]

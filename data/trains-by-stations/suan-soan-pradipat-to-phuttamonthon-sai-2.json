@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "252",
+    "departure_from_start": "04:40",
+    "arrival_at_current": "06:03",
+    "departure_from_current": "06:04",
+    "arrival_at_to_station": "10:09",
+    "arrival_at_end": "10:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Suan Soan Pradipat",
+    "end_station_name": "Phuttamonthon Sai 2",
+    "begin_station_code": 4120,
+    "end_station_code": 4442
+  },
+  {
+    "train_code": "254",
+    "departure_from_start": "06:30",
+    "arrival_at_current": "12:32",
+    "departure_from_current": "12:33",
+    "arrival_at_to_station": "16:58",
+    "arrival_at_end": "17:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Suan Soan Pradipat",
+    "end_station_name": "Phuttamonthon Sai 2",
+    "begin_station_code": 4120,
+    "end_station_code": 4442
+  }
+]

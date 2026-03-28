@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "997",
+    "departure_from_start": "06:45",
+    "arrival_at_current": "07:27",
+    "departure_from_current": "07:28",
+    "arrival_at_to_station": "08:36",
+    "arrival_at_end": "10:10",
+    "weekly_offday": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "operating_days": "Saturday, Sunday",
+    "train_type": "Special",
+    "begin_station_name": "Lat Krabang",
+    "end_station_name": "Chon Buri",
+    "begin_station_code": 3014,
+    "end_station_code": 3032
+  },
+  {
+    "train_code": "283",
+    "departure_from_start": "06:55",
+    "arrival_at_current": "08:05",
+    "departure_from_current": "08:06",
+    "arrival_at_to_station": "09:48",
+    "arrival_at_end": "11:45",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Lat Krabang",
+    "end_station_name": "Chon Buri",
+    "begin_station_code": 3014,
+    "end_station_code": 3032
+  }
+]

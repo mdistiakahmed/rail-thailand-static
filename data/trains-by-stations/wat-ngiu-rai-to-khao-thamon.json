@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "255",
+    "departure_from_start": "07:20",
+    "arrival_at_current": "08:09",
+    "departure_from_current": "08:10",
+    "arrival_at_to_station": "10:50",
+    "arrival_at_end": "18:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Wat Ngiu Rai",
+    "end_station_name": "Khao Thamon",
+    "begin_station_code": 4012,
+    "end_station_code": 4104
+  },
+  {
+    "train_code": "261",
+    "departure_from_start": "09:20",
+    "arrival_at_current": "10:35",
+    "departure_from_current": "10:36",
+    "arrival_at_to_station": "12:56",
+    "arrival_at_end": "14:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Wat Ngiu Rai",
+    "end_station_name": "Khao Thamon",
+    "begin_station_code": 4012,
+    "end_station_code": 4104
+  },
+  {
+    "train_code": "251",
+    "departure_from_start": "13:10",
+    "arrival_at_current": "13:55",
+    "departure_from_current": "13:56",
+    "arrival_at_to_station": "16:36",
+    "arrival_at_end": "19:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Wat Ngiu Rai",
+    "end_station_name": "Khao Thamon",
+    "begin_station_code": 4012,
+    "end_station_code": 4104
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "283",
+    "departure_from_start": "06:55",
+    "arrival_at_current": "08:50",
+    "departure_from_current": "08:51",
+    "arrival_at_to_station": "10:12",
+    "arrival_at_end": "11:45",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Bang Toey",
+    "end_station_name": "Si Racha Junction",
+    "begin_station_code": 3022,
+    "end_station_code": 3036
+  }
+]

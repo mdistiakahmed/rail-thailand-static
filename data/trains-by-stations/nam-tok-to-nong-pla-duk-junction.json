@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "260",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "N/A",
+    "departure_from_current": "05:20",
+    "arrival_at_to_station": "08:02",
+    "arrival_at_end": "09:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nam Tok",
+    "end_station_name": "Nong Pla Duk Junction",
+    "begin_station_code": 4077,
+    "end_station_code": 4020
+  },
+  {
+    "train_code": "258",
+    "departure_from_start": "13:00",
+    "arrival_at_current": "N/A",
+    "departure_from_current": "13:00",
+    "arrival_at_to_station": "15:50",
+    "arrival_at_end": "17:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nam Tok",
+    "end_station_name": "Nong Pla Duk Junction",
+    "begin_station_code": 4077,
+    "end_station_code": 4020
+  },
+  {
+    "train_code": "910",
+    "departure_from_start": "14:25",
+    "arrival_at_current": "N/A",
+    "departure_from_current": "14:25",
+    "arrival_at_to_station": "17:45",
+    "arrival_at_end": "19:30",
+    "weekly_offday": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "operating_days": "Saturday, Sunday",
+    "train_type": "Excursion",
+    "begin_station_name": "Nam Tok",
+    "end_station_name": "Nong Pla Duk Junction",
+    "begin_station_code": 4077,
+    "end_station_code": 4020
+  }
+]

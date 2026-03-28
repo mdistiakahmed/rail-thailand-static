@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "277",
+    "departure_from_start": "15:25",
+    "arrival_at_current": "15:37",
+    "departure_from_current": "15:38",
+    "arrival_at_to_station": "18:04",
+    "arrival_at_end": "18:20",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Urupong",
+    "end_station_name": "Ban Dong Bang",
+    "begin_station_code": 3102,
+    "end_station_code": 3072
+  }
+]

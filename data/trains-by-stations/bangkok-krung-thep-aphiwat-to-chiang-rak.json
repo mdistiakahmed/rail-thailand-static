@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "135",
+    "departure_from_start": "07:10",
+    "arrival_at_current": "06:47",
+    "departure_from_current": "07:10",
+    "arrival_at_to_station": "07:49",
+    "arrival_at_end": "18:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Bangkok (Krung Thep Aphiwat)",
+    "end_station_name": "Chiang Rak",
+    "begin_station_code": 1000,
+    "end_station_code": 1022
+  },
+  {
+    "train_code": "111",
+    "departure_from_start": "07:50",
+    "arrival_at_current": "07:27",
+    "departure_from_current": "07:50",
+    "arrival_at_to_station": "08:24",
+    "arrival_at_end": "16:50",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Bangkok (Krung Thep Aphiwat)",
+    "end_station_name": "Chiang Rak",
+    "begin_station_code": 1000,
+    "end_station_code": 1022
+  }
+]

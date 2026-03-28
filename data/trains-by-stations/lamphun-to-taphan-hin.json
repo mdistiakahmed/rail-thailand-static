@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "102",
+    "departure_from_start": "06:25",
+    "arrival_at_current": "06:47",
+    "departure_from_current": "06:51",
+    "arrival_at_to_station": "14:44",
+    "arrival_at_end": "20:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Lamphun",
+    "end_station_name": "Taphan Hin",
+    "begin_station_code": 1216,
+    "end_station_code": 1099
+  },
+  {
+    "train_code": "8",
+    "departure_from_start": "07:30",
+    "arrival_at_current": "07:48",
+    "departure_from_current": "07:49",
+    "arrival_at_to_station": "14:07",
+    "arrival_at_end": "17:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Special Exp.",
+    "begin_station_name": "Lamphun",
+    "end_station_name": "Taphan Hin",
+    "begin_station_code": 1216,
+    "end_station_code": 1099
+  },
+  {
+    "train_code": "52",
+    "departure_from_start": "15:30",
+    "arrival_at_current": "15:54",
+    "departure_from_current": "15:55",
+    "arrival_at_to_station": "00:06",
+    "arrival_at_end": "05:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Lamphun",
+    "end_station_name": "Taphan Hin",
+    "begin_station_code": 1216,
+    "end_station_code": 1099
+  }
+]

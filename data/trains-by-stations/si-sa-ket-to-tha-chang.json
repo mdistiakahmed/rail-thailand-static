@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "136",
+    "departure_from_start": "07:00",
+    "arrival_at_current": "08:00",
+    "departure_from_current": "08:04",
+    "arrival_at_to_station": "11:57",
+    "arrival_at_end": "18:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Si Sa Ket",
+    "end_station_name": "Tha Chang",
+    "begin_station_code": 2273,
+    "end_station_code": 2213
+  }
+]

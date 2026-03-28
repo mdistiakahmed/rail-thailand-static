@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "167",
+    "departure_from_start": "20:30",
+    "arrival_at_current": "04:20",
+    "departure_from_current": "04:35",
+    "arrival_at_to_station": "10:00",
+    "arrival_at_end": "11:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Chumphon",
+    "end_station_name": "Thi Wang",
+    "begin_station_code": 4186,
+    "end_station_code": 4272
+  }
+]

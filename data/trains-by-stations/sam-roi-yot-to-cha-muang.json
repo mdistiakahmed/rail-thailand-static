@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "255",
+    "departure_from_start": "07:20",
+    "arrival_at_current": "12:37",
+    "departure_from_current": "12:38",
+    "arrival_at_to_station": "15:04",
+    "arrival_at_end": "18:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Sam Roi Yot",
+    "end_station_name": "Cha Muang",
+    "begin_station_code": 4128,
+    "end_station_code": 4165
+  }
+]

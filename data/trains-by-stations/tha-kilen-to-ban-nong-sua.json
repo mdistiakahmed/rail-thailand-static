@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "260",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "06:04",
+    "departure_from_current": "06:05",
+    "arrival_at_to_station": "07:25",
+    "arrival_at_end": "09:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Tha Kilen",
+    "end_station_name": "Ban Nong Sua",
+    "begin_station_code": 4069,
+    "end_station_code": 4050
+  }
+]

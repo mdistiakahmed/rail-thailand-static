@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "208",
+    "departure_from_start": "05:00",
+    "arrival_at_current": "05:08",
+    "departure_from_current": "05:09",
+    "arrival_at_to_station": "10:10",
+    "arrival_at_end": "10:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khao Thong",
+    "end_station_name": "Bangkok (Hua Lamphong)",
+    "begin_station_code": 1079,
+    "end_station_code": 1001
+  },
+  {
+    "train_code": "212",
+    "departure_from_start": "05:45",
+    "arrival_at_current": "07:16",
+    "departure_from_current": "07:17",
+    "arrival_at_to_station": "11:55",
+    "arrival_at_end": "11:55",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khao Thong",
+    "end_station_name": "Bangkok (Hua Lamphong)",
+    "begin_station_code": 1079,
+    "end_station_code": 1001
+  },
+  {
+    "train_code": "202",
+    "departure_from_start": "06:05",
+    "arrival_at_current": "08:44",
+    "departure_from_current": "08:45",
+    "arrival_at_to_station": "13:45",
+    "arrival_at_end": "13:45",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khao Thong",
+    "end_station_name": "Bangkok (Hua Lamphong)",
+    "begin_station_code": 1079,
+    "end_station_code": 1001
+  }
+]

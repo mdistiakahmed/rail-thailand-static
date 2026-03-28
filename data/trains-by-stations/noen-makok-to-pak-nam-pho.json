@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "201",
+    "departure_from_start": "10:15",
+    "arrival_at_current": "15:02",
+    "departure_from_current": "15:03",
+    "arrival_at_to_station": "15:30",
+    "arrival_at_end": "17:55",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Noen Makok",
+    "end_station_name": "Pak Nam Pho",
+    "begin_station_code": 1076,
+    "end_station_code": 1083
+  },
+  {
+    "train_code": "211",
+    "departure_from_start": "12:55",
+    "arrival_at_current": "17:18",
+    "departure_from_current": "17:19",
+    "arrival_at_to_station": "17:46",
+    "arrival_at_end": "19:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Noen Makok",
+    "end_station_name": "Pak Nam Pho",
+    "begin_station_code": 1076,
+    "end_station_code": 1083
+  }
+]

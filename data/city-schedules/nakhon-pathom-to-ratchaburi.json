@@ -1,0 +1,166 @@
+{
+  "from_city": "nakhon pathom",
+  "to_city": "ratchaburi",
+  "schedules": [
+    {
+      "train_no": "43",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Nakhon Pathom",
+      "to_station": "Ratchaburi",
+      "depart_time": "08:23",
+      "arrive_time": "09:07",
+      "duration": "0h 44m"
+    },
+    {
+      "train_no": "911",
+      "train_name": "",
+      "train_type": "Excursion",
+      "from_station": "Nakhon Pathom",
+      "to_station": "Ratchaburi",
+      "depart_time": "08:30",
+      "arrive_time": "09:21",
+      "duration": "0h 51m"
+    },
+    {
+      "train_no": "255",
+      "train_name": "",
+      "train_type": "Ordinary",
+      "from_station": "Nakhon Pathom",
+      "to_station": "Ratchaburi",
+      "depart_time": "08:37",
+      "arrive_time": "09:49",
+      "duration": "1h 12m"
+    },
+    {
+      "train_no": "261",
+      "train_name": "",
+      "train_type": "Ordinary",
+      "from_station": "Nakhon Pathom",
+      "to_station": "Ratchaburi",
+      "depart_time": "10:57",
+      "arrive_time": "12:01",
+      "duration": "1h 4m"
+    },
+    {
+      "train_no": "985",
+      "train_name": "",
+      "train_type": "Freight",
+      "from_station": "Nakhon Pathom",
+      "to_station": "Ratchaburi",
+      "depart_time": "12:44",
+      "arrive_time": "13:38",
+      "duration": "0h 54m"
+    },
+    {
+      "train_no": "251",
+      "train_name": "",
+      "train_type": "Ordinary",
+      "from_station": "Nakhon Pathom",
+      "to_station": "Ratchaburi",
+      "depart_time": "14:18",
+      "arrive_time": "15:25",
+      "duration": "1h 7m"
+    },
+    {
+      "train_no": "171",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Nakhon Pathom",
+      "to_station": "Ratchaburi",
+      "depart_time": "16:06",
+      "arrive_time": "16:57",
+      "duration": "0h 51m"
+    },
+    {
+      "train_no": "37",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Nakhon Pathom",
+      "to_station": "Ratchaburi",
+      "depart_time": "17:12",
+      "arrive_time": "18:00",
+      "duration": "0h 48m"
+    },
+    {
+      "train_no": "45",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Nakhon Pathom",
+      "to_station": "Ratchaburi",
+      "depart_time": "17:12",
+      "arrive_time": "18:00",
+      "duration": "0h 48m"
+    },
+    {
+      "train_no": "31",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Nakhon Pathom",
+      "to_station": "Ratchaburi",
+      "depart_time": "17:50",
+      "arrive_time": "18:37",
+      "duration": "0h 47m"
+    },
+    {
+      "train_no": "169",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Nakhon Pathom",
+      "to_station": "Ratchaburi",
+      "depart_time": "18:31",
+      "arrive_time": "19:23",
+      "duration": "0h 52m"
+    },
+    {
+      "train_no": "351",
+      "train_name": "",
+      "train_type": "Commuter",
+      "from_station": "Nakhon Pathom",
+      "to_station": "Ratchaburi",
+      "depart_time": "19:23",
+      "arrive_time": "20:25",
+      "duration": "1h 2m"
+    },
+    {
+      "train_no": "83",
+      "train_name": "",
+      "train_type": "Express",
+      "from_station": "Nakhon Pathom",
+      "to_station": "Ratchaburi",
+      "depart_time": "19:50",
+      "arrive_time": "20:38",
+      "duration": "0h 48m"
+    },
+    {
+      "train_no": "85",
+      "train_name": "",
+      "train_type": "Express",
+      "from_station": "Nakhon Pathom",
+      "to_station": "Ratchaburi",
+      "depart_time": "20:52",
+      "arrive_time": "21:47",
+      "duration": "0h 55m"
+    },
+    {
+      "train_no": "167",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Nakhon Pathom",
+      "to_station": "Ratchaburi",
+      "depart_time": "21:32",
+      "arrive_time": "22:24",
+      "duration": "0h 52m"
+    },
+    {
+      "train_no": "39",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Nakhon Pathom",
+      "to_station": "Ratchaburi",
+      "depart_time": "23:43",
+      "arrive_time": "00:27",
+      "duration": "0h 44m"
+    }
+  ]
+}

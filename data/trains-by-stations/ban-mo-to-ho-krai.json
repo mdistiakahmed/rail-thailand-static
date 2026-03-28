@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "201",
+    "departure_from_start": "10:15",
+    "arrival_at_current": "12:55",
+    "departure_from_current": "12:56",
+    "arrival_at_to_station": "16:25",
+    "arrival_at_end": "17:55",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Mo",
+    "end_station_name": "Ho Krai",
+    "begin_station_code": 1041,
+    "end_station_code": 1095
+  },
+  {
+    "train_code": "211",
+    "departure_from_start": "12:55",
+    "arrival_at_current": "15:15",
+    "departure_from_current": "15:16",
+    "arrival_at_to_station": "18:43",
+    "arrival_at_end": "19:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Mo",
+    "end_station_name": "Ho Krai",
+    "begin_station_code": 1041,
+    "end_station_code": 1095
+  }
+]

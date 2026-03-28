@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "45",
+    "departure_from_start": "16:10",
+    "arrival_at_current": "01:49",
+    "departure_from_current": "01:52",
+    "arrival_at_to_station": "07:42",
+    "arrival_at_end": "08:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Special Exp.",
+    "begin_station_name": "Surat Thani",
+    "end_station_name": "Khlong Ngae",
+    "begin_station_code": 4239,
+    "end_station_code": 4368
+  }
+]

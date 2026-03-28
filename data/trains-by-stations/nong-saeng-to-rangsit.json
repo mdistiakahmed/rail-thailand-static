@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "342",
+    "departure_from_start": "05:30",
+    "arrival_at_current": "06:00",
+    "departure_from_current": "06:01",
+    "arrival_at_to_station": "07:27",
+    "arrival_at_end": "08:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Nong Saeng",
+    "end_station_name": "Rangsit",
+    "begin_station_code": 2002,
+    "end_station_code": 1021
+  },
+  {
+    "train_code": "340",
+    "departure_from_start": "08:45",
+    "arrival_at_current": "09:14",
+    "departure_from_current": "09:15",
+    "arrival_at_to_station": "10:13",
+    "arrival_at_end": "11:10",
+    "weekly_offday": "Saturday, Sunday",
+    "operating_days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "train_type": "Commuter",
+    "begin_station_name": "Nong Saeng",
+    "end_station_name": "Rangsit",
+    "begin_station_code": 2002,
+    "end_station_code": 1021
+  },
+  {
+    "train_code": "234",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "11:53",
+    "departure_from_current": "11:54",
+    "arrival_at_to_station": "13:20",
+    "arrival_at_end": "14:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Saeng",
+    "end_station_name": "Rangsit",
+    "begin_station_code": 2002,
+    "end_station_code": 1021
+  },
+  {
+    "train_code": "136",
+    "departure_from_start": "07:00",
+    "arrival_at_current": "15:55",
+    "departure_from_current": "15:56",
+    "arrival_at_to_station": "17:30",
+    "arrival_at_end": "18:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Nong Saeng",
+    "end_station_name": "Rangsit",
+    "begin_station_code": 2002,
+    "end_station_code": 1021
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "107",
+    "departure_from_start": "20:45",
+    "arrival_at_current": "01:40",
+    "departure_from_current": "01:41",
+    "arrival_at_to_station": "03:51",
+    "arrival_at_end": "05:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Taphan Hin",
+    "end_station_name": "Tha Sak",
+    "begin_station_code": 1099,
+    "end_station_code": 1144
+  },
+  {
+    "train_code": "111",
+    "departure_from_start": "07:50",
+    "arrival_at_current": "12:59",
+    "departure_from_current": "13:00",
+    "arrival_at_to_station": "15:17",
+    "arrival_at_end": "16:50",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Taphan Hin",
+    "end_station_name": "Tha Sak",
+    "begin_station_code": 1099,
+    "end_station_code": 1144
+  },
+  {
+    "train_code": "109",
+    "departure_from_start": "14:15",
+    "arrival_at_current": "19:29",
+    "departure_from_current": "19:30",
+    "arrival_at_to_station": "21:50",
+    "arrival_at_end": "04:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Taphan Hin",
+    "end_station_name": "Tha Sak",
+    "begin_station_code": 1099,
+    "end_station_code": 1144
+  }
+]

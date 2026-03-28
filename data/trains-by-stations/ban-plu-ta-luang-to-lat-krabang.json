@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "284",
+    "departure_from_start": "13:05",
+    "arrival_at_current": "13:25",
+    "departure_from_current": "13:35",
+    "arrival_at_to_station": "17:14",
+    "arrival_at_end": "18:15",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Plu Ta Luang",
+    "end_station_name": "Lat Krabang",
+    "begin_station_code": 3047,
+    "end_station_code": 3014
+  },
+  {
+    "train_code": "998",
+    "departure_from_start": "15:30",
+    "arrival_at_current": "15:49",
+    "departure_from_current": "15:50",
+    "arrival_at_to_station": "18:11",
+    "arrival_at_end": "18:55",
+    "weekly_offday": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "operating_days": "Saturday, Sunday",
+    "train_type": "Special",
+    "begin_station_name": "Ban Plu Ta Luang",
+    "end_station_name": "Lat Krabang",
+    "begin_station_code": 3047,
+    "end_station_code": 3014
+  }
+]

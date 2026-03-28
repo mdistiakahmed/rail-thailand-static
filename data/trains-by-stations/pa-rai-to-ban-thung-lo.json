@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "456",
+    "departure_from_start": "06:35",
+    "arrival_at_current": "06:57",
+    "departure_from_current": "06:58",
+    "arrival_at_to_station": "12:41",
+    "arrival_at_end": "13:20",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Pa Rai",
+    "end_station_name": "Ban Thung Lo",
+    "begin_station_code": 4398,
+    "end_station_code": 4302
+  }
+]

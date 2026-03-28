@@ -1,0 +1,22 @@
+{
+  "forward": [
+    {
+      "trainNo": "909",
+      "trainTypeNameEn": "Excursion",
+      "departureTime": "06:30",
+      "arrivalTime": "11:30",
+      "operatingDays": "Saturday, Sunday",
+      "offDay": "Monday, Tuesday, Wednesday, Thursday, Friday"
+    }
+  ],
+  "backward": [
+    {
+      "trainNo": "910",
+      "trainTypeNameEn": "Excursion",
+      "departureTime": "14:25",
+      "arrivalTime": "19:30",
+      "operatingDays": "Saturday, Sunday",
+      "offDay": "Monday, Tuesday, Wednesday, Thursday, Friday"
+    }
+  ]
+}

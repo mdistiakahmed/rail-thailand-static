@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "107",
+    "departure_from_start": "20:45",
+    "arrival_at_current": "00:22",
+    "departure_from_current": "00:24",
+    "arrival_at_to_station": "03:51",
+    "arrival_at_end": "05:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Nakhon Sawan",
+    "end_station_name": "Tha Sak",
+    "begin_station_code": 1082,
+    "end_station_code": 1144
+  },
+  {
+    "train_code": "111",
+    "departure_from_start": "07:50",
+    "arrival_at_current": "11:49",
+    "departure_from_current": "11:52",
+    "arrival_at_to_station": "15:17",
+    "arrival_at_end": "16:50",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Nakhon Sawan",
+    "end_station_name": "Tha Sak",
+    "begin_station_code": 1082,
+    "end_station_code": 1144
+  },
+  {
+    "train_code": "109",
+    "departure_from_start": "14:15",
+    "arrival_at_current": "18:19",
+    "departure_from_current": "18:22",
+    "arrival_at_to_station": "21:50",
+    "arrival_at_end": "04:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Nakhon Sawan",
+    "end_station_name": "Tha Sak",
+    "begin_station_code": 1082,
+    "end_station_code": 1144
+  }
+]

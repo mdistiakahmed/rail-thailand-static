@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "168",
+    "departure_from_start": "14:15",
+    "arrival_at_current": "15:35",
+    "departure_from_current": "15:36",
+    "arrival_at_to_station": "15:48",
+    "arrival_at_end": "05:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Kapang",
+    "end_station_name": "Thi Wang",
+    "begin_station_code": 4275,
+    "end_station_code": 4272
+  }
+]

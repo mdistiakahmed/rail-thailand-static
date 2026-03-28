@@ -1,0 +1,26 @@
+{
+  "from_city": "pattaya",
+  "to_city": "bangkok",
+  "schedules": [
+    {
+      "train_no": "284",
+      "train_name": "",
+      "train_type": "Ordinary",
+      "from_station": "Chuck Samet",
+      "to_station": "Bangkok (Hua Lamphong)",
+      "depart_time": "13:05",
+      "arrive_time": "18:15",
+      "duration": "5h 10m"
+    },
+    {
+      "train_no": "998",
+      "train_name": "",
+      "train_type": "Special",
+      "from_station": "Chuck Samet",
+      "to_station": "Bangkok (Hua Lamphong)",
+      "depart_time": "15:30",
+      "arrive_time": "18:55",
+      "duration": "3h 25m"
+    }
+  ]
+}

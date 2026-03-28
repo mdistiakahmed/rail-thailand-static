@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "170",
+    "departure_from_start": "16:30",
+    "arrival_at_current": "01:14",
+    "departure_from_current": "01:15",
+    "arrival_at_to_station": "04:36",
+    "arrival_at_end": "10:50",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Lang Suan",
+    "end_station_name": "Thap Sakae",
+    "begin_station_code": 4203,
+    "end_station_code": 4153
+  },
+  {
+    "train_code": "254",
+    "departure_from_start": "06:30",
+    "arrival_at_current": "N/A",
+    "departure_from_current": "06:30",
+    "arrival_at_to_station": "10:17",
+    "arrival_at_end": "17:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Lang Suan",
+    "end_station_name": "Thap Sakae",
+    "begin_station_code": 4203,
+    "end_station_code": 4153
+  },
+  {
+    "train_code": "168",
+    "departure_from_start": "14:15",
+    "arrival_at_current": "20:07",
+    "departure_from_current": "20:08",
+    "arrival_at_to_station": "23:22",
+    "arrival_at_end": "05:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Lang Suan",
+    "end_station_name": "Thap Sakae",
+    "begin_station_code": 4203,
+    "end_station_code": 4153
+  }
+]

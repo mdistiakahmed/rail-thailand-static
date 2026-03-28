@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "275",
+    "departure_from_start": "05:55",
+    "arrival_at_current": "06:59",
+    "departure_from_current": "07:00",
+    "arrival_at_to_station": "09:37",
+    "arrival_at_end": "11:17",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Pra Chom Klao",
+    "end_station_name": "Kabin Kao",
+    "begin_station_code": 3107,
+    "end_station_code": 3076
+  },
+  {
+    "train_code": "279",
+    "departure_from_start": "13:05",
+    "arrival_at_current": "13:45",
+    "departure_from_current": "13:46",
+    "arrival_at_to_station": "15:54",
+    "arrival_at_end": "17:27",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Pra Chom Klao",
+    "end_station_name": "Kabin Kao",
+    "begin_station_code": 3107,
+    "end_station_code": 3076
+  }
+]

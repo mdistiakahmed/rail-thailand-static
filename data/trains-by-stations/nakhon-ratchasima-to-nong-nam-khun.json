@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "234",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "08:12",
+    "departure_from_current": "08:22",
+    "arrival_at_to_station": "09:08",
+    "arrival_at_end": "14:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nakhon Ratchasima",
+    "end_station_name": "Nong Nam Khun",
+    "begin_station_code": 2114,
+    "end_station_code": 2103
+  }
+]

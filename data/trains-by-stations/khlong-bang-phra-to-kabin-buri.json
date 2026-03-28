@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "275",
+    "departure_from_start": "05:55",
+    "arrival_at_current": "07:27",
+    "departure_from_current": "07:28",
+    "arrival_at_to_station": "09:32",
+    "arrival_at_end": "11:17",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khlong Bang Phra",
+    "end_station_name": "Kabin Buri",
+    "begin_station_code": 3021,
+    "end_station_code": 3075
+  },
+  {
+    "train_code": "281",
+    "departure_from_start": "08:00",
+    "arrival_at_current": "09:22",
+    "departure_from_current": "09:23",
+    "arrival_at_to_station": "11:35",
+    "arrival_at_end": "11:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khlong Bang Phra",
+    "end_station_name": "Kabin Buri",
+    "begin_station_code": 3021,
+    "end_station_code": 3075
+  },
+  {
+    "train_code": "279",
+    "departure_from_start": "13:05",
+    "arrival_at_current": "14:07",
+    "departure_from_current": "14:08",
+    "arrival_at_to_station": "15:46",
+    "arrival_at_end": "17:27",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khlong Bang Phra",
+    "end_station_name": "Kabin Buri",
+    "begin_station_code": 3021,
+    "end_station_code": 3075
+  },
+  {
+    "train_code": "277",
+    "departure_from_start": "15:25",
+    "arrival_at_current": "16:36",
+    "departure_from_current": "16:37",
+    "arrival_at_to_station": "18:20",
+    "arrival_at_end": "18:20",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khlong Bang Phra",
+    "end_station_name": "Kabin Buri",
+    "begin_station_code": 3021,
+    "end_station_code": 3075
+  }
+]

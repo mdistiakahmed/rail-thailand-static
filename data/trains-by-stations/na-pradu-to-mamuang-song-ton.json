@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "456",
+    "departure_from_start": "06:35",
+    "arrival_at_current": "07:07",
+    "departure_from_current": "07:08",
+    "arrival_at_to_station": "13:12",
+    "arrival_at_end": "13:20",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Na Pradu",
+    "end_station_name": "Mamuang Song Ton",
+    "begin_station_code": 4397,
+    "end_station_code": 4307
+  }
+]

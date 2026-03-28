@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "72",
+    "departure_from_start": "05:40",
+    "arrival_at_current": "06:43",
+    "departure_from_current": "06:44",
+    "arrival_at_to_station": "09:10",
+    "arrival_at_end": "14:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Uthumphon Phisai",
+    "end_station_name": "Huai Thalaeng",
+    "begin_station_code": 2267,
+    "end_station_code": 2224
+  },
+  {
+    "train_code": "136",
+    "departure_from_start": "07:00",
+    "arrival_at_current": "08:24",
+    "departure_from_current": "08:28",
+    "arrival_at_to_station": "11:21",
+    "arrival_at_end": "18:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Uthumphon Phisai",
+    "end_station_name": "Huai Thalaeng",
+    "begin_station_code": 2267,
+    "end_station_code": 2224
+  },
+  {
+    "train_code": "142",
+    "departure_from_start": "17:35",
+    "arrival_at_current": "19:01",
+    "departure_from_current": "19:02",
+    "arrival_at_to_station": "22:04",
+    "arrival_at_end": "04:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Uthumphon Phisai",
+    "end_station_name": "Huai Thalaeng",
+    "begin_station_code": 2267,
+    "end_station_code": 2224
+  },
+  {
+    "train_code": "140",
+    "departure_from_start": "20:30",
+    "arrival_at_current": "21:42",
+    "departure_from_current": "21:43",
+    "arrival_at_to_station": "00:28",
+    "arrival_at_end": "06:50",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Uthumphon Phisai",
+    "end_station_name": "Huai Thalaeng",
+    "begin_station_code": 2267,
+    "end_station_code": 2224
+  }
+]

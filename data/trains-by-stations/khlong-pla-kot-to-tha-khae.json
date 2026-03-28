@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "212",
+    "departure_from_start": "05:45",
+    "arrival_at_current": "06:32",
+    "departure_from_current": "06:33",
+    "arrival_at_to_station": "08:59",
+    "arrival_at_end": "11:55",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khlong Pla Kot",
+    "end_station_name": "Tha Khae",
+    "begin_station_code": 1086,
+    "end_station_code": 1051
+  },
+  {
+    "train_code": "202",
+    "departure_from_start": "06:05",
+    "arrival_at_current": "08:05",
+    "departure_from_current": "08:06",
+    "arrival_at_to_station": "10:34",
+    "arrival_at_end": "13:45",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khlong Pla Kot",
+    "end_station_name": "Tha Khae",
+    "begin_station_code": 1086,
+    "end_station_code": 1051
+  }
+]

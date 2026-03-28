@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "261",
+    "departure_from_start": "09:20",
+    "arrival_at_current": "N/A",
+    "departure_from_current": "09:20",
+    "arrival_at_to_station": "13:14",
+    "arrival_at_end": "14:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Bangkok (Hua Lamphong)",
+    "end_station_name": "Nong Sala",
+    "begin_station_code": 1001,
+    "end_station_code": 4108
+  }
+]

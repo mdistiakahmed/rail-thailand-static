@@ -1,0 +1,54 @@
+{
+  "forward": [
+    {
+      "trainNo": "303",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "04:15",
+      "arrivalTime": "07:05",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "301",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "16:30",
+      "arrivalTime": "19:40",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "317",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "17:30",
+      "arrivalTime": "20:20",
+      "operatingDays": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "Saturday, Sunday"
+    }
+  ],
+  "backward": [
+    {
+      "trainNo": "302",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "04:30",
+      "arrivalTime": "07:35",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "318",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "06:00",
+      "arrivalTime": "08:50",
+      "operatingDays": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "Saturday, Sunday"
+    },
+    {
+      "trainNo": "304",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "08:00",
+      "arrivalTime": "10:30",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ]
+}

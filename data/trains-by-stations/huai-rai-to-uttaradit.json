@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "112",
+    "departure_from_start": "08:00",
+    "arrival_at_current": "08:14",
+    "departure_from_current": "08:15",
+    "arrival_at_to_station": "09:02",
+    "arrival_at_end": "17:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Huai Rai",
+    "end_station_name": "Uttaradit",
+    "begin_station_code": 1160,
+    "end_station_code": 1150
+  }
+]

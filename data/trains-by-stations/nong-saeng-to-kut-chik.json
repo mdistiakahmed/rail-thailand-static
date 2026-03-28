@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "233",
+    "departure_from_start": "12:00",
+    "arrival_at_current": "14:07",
+    "departure_from_current": "14:08",
+    "arrival_at_to_station": "17:02",
+    "arrival_at_end": "20:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Saeng",
+    "end_station_name": "Kut Chik",
+    "begin_station_code": 2002,
+    "end_station_code": 2109
+  }
+]

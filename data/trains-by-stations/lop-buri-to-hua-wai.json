@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "201",
+    "departure_from_start": "10:15",
+    "arrival_at_current": "13:22",
+    "departure_from_current": "13:24",
+    "arrival_at_to_station": "14:40",
+    "arrival_at_end": "17:55",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Lop Buri",
+    "end_station_name": "Hua Wai",
+    "begin_station_code": 1050,
+    "end_station_code": 1070
+  },
+  {
+    "train_code": "211",
+    "departure_from_start": "12:55",
+    "arrival_at_current": "15:38",
+    "departure_from_current": "15:40",
+    "arrival_at_to_station": "16:56",
+    "arrival_at_end": "19:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Lop Buri",
+    "end_station_name": "Hua Wai",
+    "begin_station_code": 1050,
+    "end_station_code": 1070
+  },
+  {
+    "train_code": "207",
+    "departure_from_start": "14:20",
+    "arrival_at_current": "17:21",
+    "departure_from_current": "17:23",
+    "arrival_at_to_station": "18:48",
+    "arrival_at_end": "19:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Lop Buri",
+    "end_station_name": "Hua Wai",
+    "begin_station_code": 1050,
+    "end_station_code": 1070
+  }
+]

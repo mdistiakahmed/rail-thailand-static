@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "261",
+    "departure_from_start": "09:20",
+    "arrival_at_current": "10:25",
+    "departure_from_current": "10:26",
+    "arrival_at_to_station": "12:36",
+    "arrival_at_end": "14:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Wat Suwan",
+    "end_station_name": "Nong Pla Lai",
+    "begin_station_code": 4010,
+    "end_station_code": 4098
+  },
+  {
+    "train_code": "251",
+    "departure_from_start": "13:10",
+    "arrival_at_current": "13:45",
+    "departure_from_current": "13:46",
+    "arrival_at_to_station": "16:12",
+    "arrival_at_end": "19:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Wat Suwan",
+    "end_station_name": "Nong Pla Lai",
+    "begin_station_code": 4010,
+    "end_station_code": 4098
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "258",
+    "departure_from_start": "13:00",
+    "arrival_at_current": "13:44",
+    "departure_from_current": "13:45",
+    "arrival_at_to_station": "16:19",
+    "arrival_at_end": "17:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Tha Kilen",
+    "end_station_name": "Sanam Chandra Palace",
+    "begin_station_code": 4069,
+    "end_station_code": 4017
+  }
+]

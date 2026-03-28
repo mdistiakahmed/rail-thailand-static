@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "356",
+    "departure_from_start": "04:15",
+    "arrival_at_current": "06:42",
+    "departure_from_current": "06:43",
+    "arrival_at_to_station": "08:05",
+    "arrival_at_end": "08:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Tha Chalaep",
+    "end_station_name": "Bangkok (Hua Lamphong)",
+    "begin_station_code": 4014,
+    "end_station_code": 1001
+  }
+]

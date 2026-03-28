@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "252",
+    "departure_from_start": "04:40",
+    "arrival_at_current": "07:28",
+    "departure_from_current": "07:29",
+    "arrival_at_to_station": "10:18",
+    "arrival_at_end": "10:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Pla Lai",
+    "end_station_name": "Taling Chan Junction",
+    "begin_station_code": 4098,
+    "end_station_code": 4004
+  },
+  {
+    "train_code": "254",
+    "departure_from_start": "06:30",
+    "arrival_at_current": "14:06",
+    "departure_from_current": "14:07",
+    "arrival_at_to_station": "17:07",
+    "arrival_at_end": "17:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Pla Lai",
+    "end_station_name": "Taling Chan Junction",
+    "begin_station_code": 4098,
+    "end_station_code": 4004
+  },
+  {
+    "train_code": "262",
+    "departure_from_start": "14:45",
+    "arrival_at_current": "16:00",
+    "departure_from_current": "16:01",
+    "arrival_at_to_station": "18:31",
+    "arrival_at_end": "19:20",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Pla Lai",
+    "end_station_name": "Taling Chan Junction",
+    "begin_station_code": 4098,
+    "end_station_code": 4004
+  }
+]

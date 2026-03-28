@@ -1,0 +1,166 @@
+{
+  "forward": [
+    {
+      "trainNo": "31",
+      "trainTypeNameEn": "SPECIAL EXPRESS CNR",
+      "departureTime": "16:50",
+      "arrivalTime": "02:20",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "37",
+      "trainTypeNameEn": "SPECIAL EXPRESS",
+      "departureTime": "16:10",
+      "arrivalTime": "01:49",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "39",
+      "trainTypeNameEn": "SPECIAL EXPRESS DRC.",
+      "departureTime": "22:50",
+      "arrivalTime": "07:50",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "43",
+      "trainTypeNameEn": "SPECIAL EXPRESS DRC.",
+      "departureTime": "07:30",
+      "arrivalTime": "16:20",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "45",
+      "trainTypeNameEn": "SPECIAL EXPRESS",
+      "departureTime": "16:10",
+      "arrivalTime": "01:49",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "83",
+      "trainTypeNameEn": "EXPRESS",
+      "departureTime": "18:50",
+      "arrivalTime": "04:58",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "85",
+      "trainTypeNameEn": "EXPRESS",
+      "departureTime": "19:50",
+      "arrivalTime": "06:23",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "167",
+      "trainTypeNameEn": "RAPID",
+      "departureTime": "20:30",
+      "arrivalTime": "07:16",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "169",
+      "trainTypeNameEn": "RAPID",
+      "departureTime": "17:30",
+      "arrivalTime": "04:06",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "171",
+      "trainTypeNameEn": "RAPID",
+      "departureTime": "15:10",
+      "arrivalTime": "01:11",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ],
+  "backward": [
+    {
+      "trainNo": "32",
+      "trainTypeNameEn": "SPECIAL EXPRESS CNR",
+      "departureTime": "22:24",
+      "arrivalTime": "08:10",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "38",
+      "trainTypeNameEn": "SPECIAL EXPRESS",
+      "departureTime": "22:50",
+      "arrivalTime": "09:05",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "40",
+      "trainTypeNameEn": "SPECIAL EXPRESS DRC.",
+      "departureTime": "09:00",
+      "arrivalTime": "18:05",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "44",
+      "trainTypeNameEn": "SPECIAL EXPRESS DRC.",
+      "departureTime": "18:25",
+      "arrivalTime": "03:45",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "46",
+      "trainTypeNameEn": "SPECIAL EXPRESS",
+      "departureTime": "22:50",
+      "arrivalTime": "09:05",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "84",
+      "trainTypeNameEn": "EXPRESS",
+      "departureTime": "20:23",
+      "arrivalTime": "07:05",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "86",
+      "trainTypeNameEn": "EXPRESS",
+      "departureTime": "19:31",
+      "arrivalTime": "06:10",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "168",
+      "trainTypeNameEn": "RAPID",
+      "departureTime": "18:32",
+      "arrivalTime": "05:10",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "170",
+      "trainTypeNameEn": "RAPID",
+      "departureTime": "23:28",
+      "arrivalTime": "10:50",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "172",
+      "trainTypeNameEn": "RAPID",
+      "departureTime": "20:55",
+      "arrivalTime": "07:30",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ]
+}

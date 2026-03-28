@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "255",
+    "departure_from_start": "07:20",
+    "arrival_at_current": "08:51",
+    "departure_from_current": "08:52",
+    "arrival_at_to_station": "09:07",
+    "arrival_at_end": "18:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khlong Bang Tan",
+    "end_station_name": "Ban Pong",
+    "begin_station_code": 4019,
+    "end_station_code": 4079
+  },
+  {
+    "train_code": "261",
+    "departure_from_start": "09:20",
+    "arrival_at_current": "11:11",
+    "departure_from_current": "11:12",
+    "arrival_at_to_station": "11:23",
+    "arrival_at_end": "14:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khlong Bang Tan",
+    "end_station_name": "Ban Pong",
+    "begin_station_code": 4019,
+    "end_station_code": 4079
+  },
+  {
+    "train_code": "251",
+    "departure_from_start": "13:10",
+    "arrival_at_current": "14:30",
+    "departure_from_current": "14:31",
+    "arrival_at_to_station": "14:42",
+    "arrival_at_end": "19:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khlong Bang Tan",
+    "end_station_name": "Ban Pong",
+    "begin_station_code": 4019,
+    "end_station_code": 4079
+  },
+  {
+    "train_code": "351",
+    "departure_from_start": "18:15",
+    "arrival_at_current": "19:36",
+    "departure_from_current": "19:37",
+    "arrival_at_to_station": "19:48",
+    "arrival_at_end": "20:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Khlong Bang Tan",
+    "end_station_name": "Ban Pong",
+    "begin_station_code": 4019,
+    "end_station_code": 4079
+  }
+]

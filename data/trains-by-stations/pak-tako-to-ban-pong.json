@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "254",
+    "departure_from_start": "06:30",
+    "arrival_at_current": "06:48",
+    "departure_from_current": "06:49",
+    "arrival_at_to_station": "15:34",
+    "arrival_at_end": "17:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Pak Tako",
+    "end_station_name": "Ban Pong",
+    "begin_station_code": 4199,
+    "end_station_code": 4079
+  },
+  {
+    "train_code": "168",
+    "departure_from_start": "14:15",
+    "arrival_at_current": "20:23",
+    "departure_from_current": "20:24",
+    "arrival_at_to_station": "03:38",
+    "arrival_at_end": "05:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Pak Tako",
+    "end_station_name": "Ban Pong",
+    "begin_station_code": 4199,
+    "end_station_code": 4079
+  }
+]

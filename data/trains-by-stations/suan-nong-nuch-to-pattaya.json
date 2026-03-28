@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "284",
+    "departure_from_start": "13:05",
+    "arrival_at_current": "13:51",
+    "departure_from_current": "13:52",
+    "arrival_at_to_station": "14:20",
+    "arrival_at_end": "18:15",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Suan Nong Nuch",
+    "end_station_name": "Pattaya",
+    "begin_station_code": 3044,
+    "end_station_code": 3041
+  },
+  {
+    "train_code": "998",
+    "departure_from_start": "15:30",
+    "arrival_at_current": "15:59",
+    "departure_from_current": "16:00",
+    "arrival_at_to_station": "16:25",
+    "arrival_at_end": "18:55",
+    "weekly_offday": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "operating_days": "Saturday, Sunday",
+    "train_type": "Special",
+    "begin_station_name": "Suan Nong Nuch",
+    "end_station_name": "Pattaya",
+    "begin_station_code": 3044,
+    "end_station_code": 3041
+  }
+]

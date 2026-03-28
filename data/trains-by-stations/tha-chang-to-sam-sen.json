@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "234",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "07:43",
+    "departure_from_current": "07:44",
+    "arrival_at_to_station": "14:11",
+    "arrival_at_end": "14:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Tha Chang",
+    "end_station_name": "Sam Sen",
+    "begin_station_code": 2213,
+    "end_station_code": 1004
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "168",
+    "departure_from_start": "14:15",
+    "arrival_at_current": "15:10",
+    "departure_from_current": "15:11",
+    "arrival_at_to_station": "19:08",
+    "arrival_at_end": "05:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Huai Yot",
+    "end_station_name": "Chaiya",
+    "begin_station_code": 4281,
+    "end_station_code": 4221
+  },
+  {
+    "train_code": "84",
+    "departure_from_start": "17:00",
+    "arrival_at_current": "17:26",
+    "departure_from_current": "17:27",
+    "arrival_at_to_station": "20:57",
+    "arrival_at_end": "07:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Huai Yot",
+    "end_station_name": "Chaiya",
+    "begin_station_code": 4281,
+    "end_station_code": 4221
+  }
+]

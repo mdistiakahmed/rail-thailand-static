@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "107",
+    "departure_from_start": "20:45",
+    "arrival_at_current": "03:36",
+    "departure_from_current": "03:37",
+    "arrival_at_to_station": "04:13",
+    "arrival_at_end": "05:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Phichai",
+    "end_station_name": "Uttaradit",
+    "begin_station_code": 1134,
+    "end_station_code": 1150
+  },
+  {
+    "train_code": "51",
+    "departure_from_start": "22:30",
+    "arrival_at_current": "05:20",
+    "departure_from_current": "05:21",
+    "arrival_at_to_station": "05:51",
+    "arrival_at_end": "11:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Phichai",
+    "end_station_name": "Uttaradit",
+    "begin_station_code": 1134,
+    "end_station_code": 1150
+  },
+  {
+    "train_code": "111",
+    "departure_from_start": "07:50",
+    "arrival_at_current": "15:01",
+    "departure_from_current": "15:02",
+    "arrival_at_to_station": "15:40",
+    "arrival_at_end": "16:50",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Phichai",
+    "end_station_name": "Uttaradit",
+    "begin_station_code": 1134,
+    "end_station_code": 1150
+  },
+  {
+    "train_code": "109",
+    "departure_from_start": "14:15",
+    "arrival_at_current": "21:32",
+    "departure_from_current": "21:33",
+    "arrival_at_to_station": "22:20",
+    "arrival_at_end": "04:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Phichai",
+    "end_station_name": "Uttaradit",
+    "begin_station_code": 1134,
+    "end_station_code": 1150
+  }
+]

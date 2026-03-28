@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "252",
+    "departure_from_start": "04:40",
+    "arrival_at_current": "07:46",
+    "departure_from_current": "07:47",
+    "arrival_at_to_station": "10:13",
+    "arrival_at_end": "10:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Huai Rong",
+    "end_station_name": "Banchimphli",
+    "begin_station_code": 4094,
+    "end_station_code": 4007
+  }
+]

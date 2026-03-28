@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "463",
+    "departure_from_start": "06:10",
+    "arrival_at_current": "09:46",
+    "departure_from_current": "09:47",
+    "arrival_at_to_station": "10:23",
+    "arrival_at_end": "12:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Pa Rai",
+    "end_station_name": "Ban Patae",
+    "begin_station_code": 4398,
+    "end_station_code": 4406
+  }
+]

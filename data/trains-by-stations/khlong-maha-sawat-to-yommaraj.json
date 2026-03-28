@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "356",
+    "departure_from_start": "04:15",
+    "arrival_at_current": "06:57",
+    "departure_from_current": "06:58",
+    "arrival_at_to_station": "07:59",
+    "arrival_at_end": "08:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Khlong Maha Sawat",
+    "end_station_name": "Yommaraj",
+    "begin_station_code": 4011,
+    "end_station_code": 1002
+  }
+]

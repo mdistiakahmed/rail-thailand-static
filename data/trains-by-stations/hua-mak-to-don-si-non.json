@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "283",
+    "departure_from_start": "06:55",
+    "arrival_at_current": "07:48",
+    "departure_from_current": "07:49",
+    "arrival_at_to_station": "09:15",
+    "arrival_at_end": "11:45",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Hua Mak",
+    "end_station_name": "Don Si Non",
+    "begin_station_code": 3010,
+    "end_station_code": 3026
+  }
+]

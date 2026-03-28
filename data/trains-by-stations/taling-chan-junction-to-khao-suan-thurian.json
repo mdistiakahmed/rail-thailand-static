@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "255",
+    "departure_from_start": "07:20",
+    "arrival_at_current": "07:32",
+    "departure_from_current": "07:33",
+    "arrival_at_to_station": "17:39",
+    "arrival_at_end": "18:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Taling Chan Junction",
+    "end_station_name": "Khao Suan Thurian",
+    "begin_station_code": 4004,
+    "end_station_code": 4196
+  }
+]

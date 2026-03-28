@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "260",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "07:25",
+    "departure_from_current": "07:26",
+    "arrival_at_to_station": "09:02",
+    "arrival_at_end": "09:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Nong Sua",
+    "end_station_name": "Sala Ya",
+    "begin_station_code": 4050,
+    "end_station_code": 4009
+  }
+]

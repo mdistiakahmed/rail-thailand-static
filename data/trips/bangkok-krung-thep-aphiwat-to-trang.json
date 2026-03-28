@@ -1,0 +1,22 @@
+{
+  "forward": [
+    {
+      "trainNo": "83",
+      "trainTypeNameEn": "Express",
+      "departureTime": "18:50",
+      "arrivalTime": "08:30",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ],
+  "backward": [
+    {
+      "trainNo": "84",
+      "trainTypeNameEn": "Express",
+      "departureTime": "17:00",
+      "arrivalTime": "07:05",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ]
+}

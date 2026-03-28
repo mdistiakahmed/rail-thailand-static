@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "25",
+    "departure_from_start": "20:25",
+    "arrival_at_current": "05:39",
+    "departure_from_current": "05:44",
+    "arrival_at_to_station": "06:25",
+    "arrival_at_end": "06:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Special Exp.",
+    "begin_station_name": "Udon Thani",
+    "end_station_name": "Nong Khai",
+    "begin_station_code": 2195,
+    "end_station_code": 2209
+  },
+  {
+    "train_code": "133",
+    "departure_from_start": "21:25",
+    "arrival_at_current": "07:02",
+    "departure_from_current": "07:09",
+    "arrival_at_to_station": "07:55",
+    "arrival_at_end": "09:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Udon Thani",
+    "end_station_name": "Nong Khai",
+    "begin_station_code": 2195,
+    "end_station_code": 2209
+  },
+  {
+    "train_code": "75",
+    "departure_from_start": "08:45",
+    "arrival_at_current": "16:55",
+    "departure_from_current": "16:58",
+    "arrival_at_to_station": "17:30",
+    "arrival_at_end": "17:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Udon Thani",
+    "end_station_name": "Nong Khai",
+    "begin_station_code": 2195,
+    "end_station_code": 2209
+  }
+]

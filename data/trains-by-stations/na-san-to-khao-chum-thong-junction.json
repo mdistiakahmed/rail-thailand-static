@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "85",
+    "departure_from_start": "19:50",
+    "arrival_at_current": "07:07",
+    "departure_from_current": "07:08",
+    "arrival_at_to_station": "09:14",
+    "arrival_at_end": "09:55",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Na San",
+    "end_station_name": "Khao Chum Thong Junction",
+    "begin_station_code": 4250,
+    "end_station_code": 4300
+  }
+]

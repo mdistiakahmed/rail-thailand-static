@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "139",
+    "departure_from_start": "19:25",
+    "arrival_at_current": "03:03",
+    "departure_from_current": "03:04",
+    "arrival_at_to_station": "06:15",
+    "arrival_at_end": "06:15",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Lam Chi",
+    "end_station_name": "Ubon Ratchathani",
+    "begin_station_code": 2246,
+    "end_station_code": 2290
+  },
+  {
+    "train_code": "141",
+    "departure_from_start": "23:05",
+    "arrival_at_current": "07:11",
+    "departure_from_current": "07:12",
+    "arrival_at_to_station": "10:10",
+    "arrival_at_end": "10:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Lam Chi",
+    "end_station_name": "Ubon Ratchathani",
+    "begin_station_code": 2246,
+    "end_station_code": 2290
+  },
+  {
+    "train_code": "135",
+    "departure_from_start": "07:10",
+    "arrival_at_current": "14:58",
+    "departure_from_current": "14:59",
+    "arrival_at_to_station": "18:00",
+    "arrival_at_end": "18:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Lam Chi",
+    "end_station_name": "Ubon Ratchathani",
+    "begin_station_code": 2246,
+    "end_station_code": 2290
+  }
+]

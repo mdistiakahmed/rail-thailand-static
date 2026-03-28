@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "112",
+    "departure_from_start": "08:00",
+    "arrival_at_current": "10:17",
+    "departure_from_current": "10:18",
+    "arrival_at_to_station": "12:41",
+    "arrival_at_end": "17:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Phrom Phiram",
+    "end_station_name": "Thap Krit",
+    "begin_station_code": 1125,
+    "end_station_code": 1084
+  }
+]

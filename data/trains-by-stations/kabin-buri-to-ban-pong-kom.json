@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "275",
+    "departure_from_start": "05:55",
+    "arrival_at_current": "09:32",
+    "departure_from_current": "09:33",
+    "arrival_at_to_station": "10:54",
+    "arrival_at_end": "11:17",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Kabin Buri",
+    "end_station_name": "Ban Pong Kom",
+    "begin_station_code": 3075,
+    "end_station_code": 3096
+  },
+  {
+    "train_code": "279",
+    "departure_from_start": "13:05",
+    "arrival_at_current": "15:46",
+    "departure_from_current": "15:50",
+    "arrival_at_to_station": "17:05",
+    "arrival_at_end": "17:27",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Kabin Buri",
+    "end_station_name": "Ban Pong Kom",
+    "begin_station_code": 3075,
+    "end_station_code": 3096
+  }
+]

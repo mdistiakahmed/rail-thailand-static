@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "75",
+    "departure_from_start": "08:45",
+    "arrival_at_current": "10:28",
+    "departure_from_current": "10:30",
+    "arrival_at_to_station": "10:57",
+    "arrival_at_end": "17:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Kaeng Khoi Junction",
+    "end_station_name": "Kaeng Sue Ten",
+    "begin_station_code": 2011,
+    "end_station_code": 2020
+  }
+]

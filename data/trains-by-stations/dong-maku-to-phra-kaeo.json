@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "208",
+    "departure_from_start": "05:00",
+    "arrival_at_current": "05:46",
+    "departure_from_current": "05:47",
+    "arrival_at_to_station": "08:02",
+    "arrival_at_end": "10:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Dong Maku",
+    "end_station_name": "Phra Kaeo",
+    "begin_station_code": 1069,
+    "end_station_code": 1035
+  },
+  {
+    "train_code": "202",
+    "departure_from_start": "06:05",
+    "arrival_at_current": "09:22",
+    "departure_from_current": "09:23",
+    "arrival_at_to_station": "11:37",
+    "arrival_at_end": "13:45",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Dong Maku",
+    "end_station_name": "Phra Kaeo",
+    "begin_station_code": 1069,
+    "end_station_code": 1035
+  }
+]

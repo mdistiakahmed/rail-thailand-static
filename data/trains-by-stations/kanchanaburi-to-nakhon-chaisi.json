@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "260",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "07:03",
+    "departure_from_current": "07:05",
+    "arrival_at_to_station": "08:40",
+    "arrival_at_end": "09:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Kanchanaburi",
+    "end_station_name": "Nakhon Chaisi",
+    "begin_station_code": 4057,
+    "end_station_code": 4013
+  },
+  {
+    "train_code": "258",
+    "departure_from_start": "13:00",
+    "arrival_at_current": "14:40",
+    "departure_from_current": "14:43",
+    "arrival_at_to_station": "16:40",
+    "arrival_at_end": "17:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Kanchanaburi",
+    "end_station_name": "Nakhon Chaisi",
+    "begin_station_code": 4057,
+    "end_station_code": 4013
+  }
+]

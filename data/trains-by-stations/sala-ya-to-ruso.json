@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "985",
+    "departure_from_start": "11:00",
+    "arrival_at_current": "12:11",
+    "departure_from_current": "12:14",
+    "arrival_at_to_station": "11:00",
+    "arrival_at_end": "12:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Freight",
+    "begin_station_name": "Sala Ya",
+    "end_station_name": "Ruso",
+    "begin_station_code": 4009,
+    "end_station_code": 4411
+  },
+  {
+    "train_code": "171",
+    "departure_from_start": "15:10",
+    "arrival_at_current": "15:41",
+    "departure_from_current": "15:42",
+    "arrival_at_to_station": "08:56",
+    "arrival_at_end": "10:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Sala Ya",
+    "end_station_name": "Ruso",
+    "begin_station_code": 4009,
+    "end_station_code": 4411
+  },
+  {
+    "train_code": "37",
+    "departure_from_start": "16:10",
+    "arrival_at_current": "16:42",
+    "departure_from_current": "16:43",
+    "arrival_at_to_station": "09:27",
+    "arrival_at_end": "10:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Special Exp.",
+    "begin_station_name": "Sala Ya",
+    "end_station_name": "Ruso",
+    "begin_station_code": 4009,
+    "end_station_code": 4411
+  }
+]

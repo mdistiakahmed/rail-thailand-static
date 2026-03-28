@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "463",
+    "departure_from_start": "06:10",
+    "arrival_at_current": "07:13",
+    "departure_from_current": "07:14",
+    "arrival_at_to_station": "09:23",
+    "arrival_at_end": "12:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Khok Sai",
+    "end_station_name": "Ban Nikhom",
+    "begin_station_code": 4338,
+    "end_station_code": 4394
+  }
+]

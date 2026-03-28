@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "169",
+    "departure_from_start": "17:30",
+    "arrival_at_current": "00:33",
+    "departure_from_current": "00:34",
+    "arrival_at_to_station": "08:21",
+    "arrival_at_end": "11:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Map Ammarit",
+    "end_station_name": "Bang Kaeo",
+    "begin_station_code": 4175,
+    "end_station_code": 4331
+  },
+  {
+    "train_code": "985",
+    "departure_from_start": "11:00",
+    "arrival_at_current": "18:35",
+    "departure_from_current": "18:38",
+    "arrival_at_to_station": "04:10",
+    "arrival_at_end": "12:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Freight",
+    "begin_station_name": "Map Ammarit",
+    "end_station_name": "Bang Kaeo",
+    "begin_station_code": 4175,
+    "end_station_code": 4331
+  }
+]

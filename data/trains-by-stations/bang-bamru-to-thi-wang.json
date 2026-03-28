@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "167",
+    "departure_from_start": "20:30",
+    "arrival_at_current": "20:41",
+    "departure_from_current": "20:42",
+    "arrival_at_to_station": "10:00",
+    "arrival_at_end": "11:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Bang Bamru",
+    "end_station_name": "Thi Wang",
+    "begin_station_code": 4005,
+    "end_station_code": 4272
+  }
+]

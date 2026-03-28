@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "167",
+    "departure_from_start": "20:30",
+    "arrival_at_current": "02:18",
+    "departure_from_current": "02:19",
+    "arrival_at_to_station": "06:40",
+    "arrival_at_end": "11:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Thap Sakae",
+    "end_station_name": "Chaiya",
+    "begin_station_code": 4153,
+    "end_station_code": 4221
+  },
+  {
+    "train_code": "169",
+    "departure_from_start": "17:30",
+    "arrival_at_current": "23:22",
+    "departure_from_current": "23:23",
+    "arrival_at_to_station": "03:32",
+    "arrival_at_end": "11:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Thap Sakae",
+    "end_station_name": "Chaiya",
+    "begin_station_code": 4153,
+    "end_station_code": 4221
+  }
+]

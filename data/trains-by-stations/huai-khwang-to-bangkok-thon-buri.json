@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "254",
+    "departure_from_start": "06:30",
+    "arrival_at_current": "12:06",
+    "departure_from_current": "12:07",
+    "arrival_at_to_station": "17:25",
+    "arrival_at_end": "17:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Huai Khwang",
+    "end_station_name": "Bangkok (Thon Buri)",
+    "begin_station_code": 4125,
+    "end_station_code": 4002
+  }
+]

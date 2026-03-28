@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "280",
+    "departure_from_start": "06:58",
+    "arrival_at_current": "07:36",
+    "departure_from_current": "07:37",
+    "arrival_at_to_station": "09:03",
+    "arrival_at_end": "12:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Huai Chot",
+    "end_station_name": "Prachantakham",
+    "begin_station_code": 3092,
+    "end_station_code": 3070
+  },
+  {
+    "train_code": "276",
+    "departure_from_start": "14:50",
+    "arrival_at_current": "15:35",
+    "departure_from_current": "15:36",
+    "arrival_at_to_station": "17:20",
+    "arrival_at_end": "20:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Huai Chot",
+    "end_station_name": "Prachantakham",
+    "begin_station_code": 3092,
+    "end_station_code": 3070
+  }
+]

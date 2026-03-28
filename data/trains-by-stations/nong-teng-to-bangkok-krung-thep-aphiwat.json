@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "142",
+    "departure_from_start": "17:35",
+    "arrival_at_current": "20:38",
+    "departure_from_current": "20:39",
+    "arrival_at_to_station": "04:10",
+    "arrival_at_end": "04:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Nong Teng",
+    "end_station_name": "Bangkok (Krung Thep Aphiwat)",
+    "begin_station_code": 2244,
+    "end_station_code": 1000
+  }
+]

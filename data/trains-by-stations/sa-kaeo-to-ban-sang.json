@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "280",
+    "departure_from_start": "06:58",
+    "arrival_at_current": "07:55",
+    "departure_from_current": "07:56",
+    "arrival_at_to_station": "09:39",
+    "arrival_at_end": "12:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Sa Kaeo",
+    "end_station_name": "Ban Sang",
+    "begin_station_code": 3087,
+    "end_station_code": 3061
+  },
+  {
+    "train_code": "276",
+    "departure_from_start": "14:50",
+    "arrival_at_current": "15:57",
+    "departure_from_current": "15:58",
+    "arrival_at_to_station": "18:01",
+    "arrival_at_end": "20:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Sa Kaeo",
+    "end_station_name": "Ban Sang",
+    "begin_station_code": 3087,
+    "end_station_code": 3061
+  }
+]

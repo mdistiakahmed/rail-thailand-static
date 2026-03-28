@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "260",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "05:42",
+    "departure_from_current": "05:43",
+    "arrival_at_to_station": "06:21",
+    "arrival_at_end": "09:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Wang Pho",
+    "end_station_name": "Ban Pong Sieo",
+    "begin_station_code": 4073,
+    "end_station_code": 4065
+  },
+  {
+    "train_code": "486",
+    "departure_from_start": "15:30",
+    "arrival_at_current": "15:55",
+    "departure_from_current": "15:56",
+    "arrival_at_to_station": "16:40",
+    "arrival_at_end": "17:26",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Wang Pho",
+    "end_station_name": "Ban Pong Sieo",
+    "begin_station_code": 4073,
+    "end_station_code": 4065
+  }
+]

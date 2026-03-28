@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "234",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "07:49",
+    "departure_from_current": "07:50",
+    "arrival_at_to_station": "10:45",
+    "arrival_at_end": "14:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Phra Phut",
+    "end_station_name": "Muak Lek",
+    "begin_station_code": 2212,
+    "end_station_code": 2086
+  }
+]

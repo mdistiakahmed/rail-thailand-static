@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "85",
+    "departure_from_start": "19:50",
+    "arrival_at_current": "19:30",
+    "departure_from_current": "19:50",
+    "arrival_at_to_station": "09:55",
+    "arrival_at_end": "09:55",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Bangkok (Krung Thep Aphiwat)",
+    "end_station_name": "Nakhon Si Thammarat",
+    "begin_station_code": 1000,
+    "end_station_code": 4308
+  }
+]

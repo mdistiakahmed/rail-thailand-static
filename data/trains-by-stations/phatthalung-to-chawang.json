@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "170",
+    "departure_from_start": "16:30",
+    "arrival_at_current": "19:39",
+    "departure_from_current": "19:41",
+    "arrival_at_to_station": "22:06",
+    "arrival_at_end": "10:50",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Phatthalung",
+    "end_station_name": "Chawang",
+    "begin_station_code": 4325,
+    "end_station_code": 4262
+  }
+]

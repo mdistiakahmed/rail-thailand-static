@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "259",
+    "departure_from_start": "13:55",
+    "arrival_at_current": "14:08",
+    "departure_from_current": "14:09",
+    "arrival_at_to_station": "16:45",
+    "arrival_at_end": "18:15",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Taling Chan Junction",
+    "end_station_name": "Na Kan",
+    "begin_station_code": 4004,
+    "end_station_code": 4062
+  }
+]

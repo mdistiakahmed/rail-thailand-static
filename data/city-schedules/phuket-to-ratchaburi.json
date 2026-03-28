@@ -1,0 +1,116 @@
+{
+  "from_city": "phuket",
+  "to_city": "ratchaburi",
+  "schedules": [
+    {
+      "train_no": "986",
+      "train_name": "",
+      "train_type": "Freight",
+      "from_station": "Surat Thani",
+      "to_station": "Ratchaburi",
+      "depart_time": "00:32",
+      "arrive_time": "10:10",
+      "duration": "9h 38m"
+    },
+    {
+      "train_no": "40",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Surat Thani",
+      "to_station": "Ratchaburi",
+      "depart_time": "09:00",
+      "arrive_time": "16:06",
+      "duration": "7h 6m"
+    },
+    {
+      "train_no": "44",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Surat Thani",
+      "to_station": "Ratchaburi",
+      "depart_time": "18:25",
+      "arrive_time": "01:42",
+      "duration": "7h 17m"
+    },
+    {
+      "train_no": "168",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Surat Thani",
+      "to_station": "Ratchaburi",
+      "depart_time": "18:32",
+      "arrive_time": "03:06",
+      "duration": "8h 34m"
+    },
+    {
+      "train_no": "86",
+      "train_name": "",
+      "train_type": "Express",
+      "from_station": "Surat Thani",
+      "to_station": "Ratchaburi",
+      "depart_time": "19:31",
+      "arrive_time": "04:02",
+      "duration": "8h 31m"
+    },
+    {
+      "train_no": "84",
+      "train_name": "",
+      "train_type": "Express",
+      "from_station": "Surat Thani",
+      "to_station": "Ratchaburi",
+      "depart_time": "20:23",
+      "arrive_time": "04:45",
+      "duration": "8h 22m"
+    },
+    {
+      "train_no": "172",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Surat Thani",
+      "to_station": "Ratchaburi",
+      "depart_time": "20:55",
+      "arrive_time": "05:29",
+      "duration": "8h 34m"
+    },
+    {
+      "train_no": "32",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Surat Thani",
+      "to_station": "Ratchaburi",
+      "depart_time": "22:24",
+      "arrive_time": "06:05",
+      "duration": "7h 41m"
+    },
+    {
+      "train_no": "38",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Surat Thani",
+      "to_station": "Ratchaburi",
+      "depart_time": "22:50",
+      "arrive_time": "06:56",
+      "duration": "8h 6m"
+    },
+    {
+      "train_no": "46",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Surat Thani",
+      "to_station": "Ratchaburi",
+      "depart_time": "22:50",
+      "arrive_time": "06:56",
+      "duration": "8h 6m"
+    },
+    {
+      "train_no": "170",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Surat Thani",
+      "to_station": "Ratchaburi",
+      "depart_time": "23:28",
+      "arrive_time": "08:29",
+      "duration": "9h 1m"
+    }
+  ]
+}

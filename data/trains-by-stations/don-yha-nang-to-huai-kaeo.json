@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "209",
+    "departure_from_start": "11:15",
+    "arrival_at_current": "13:26",
+    "departure_from_current": "13:27",
+    "arrival_at_to_station": "14:55",
+    "arrival_at_end": "15:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Don Yha Nang",
+    "end_station_name": "Huai Kaeo",
+    "begin_station_code": 1224,
+    "end_station_code": 1059
+  },
+  {
+    "train_code": "207",
+    "departure_from_start": "14:20",
+    "arrival_at_current": "16:36",
+    "departure_from_current": "16:37",
+    "arrival_at_to_station": "18:00",
+    "arrival_at_end": "19:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Don Yha Nang",
+    "end_station_name": "Huai Kaeo",
+    "begin_station_code": 1224,
+    "end_station_code": 1059
+  }
+]

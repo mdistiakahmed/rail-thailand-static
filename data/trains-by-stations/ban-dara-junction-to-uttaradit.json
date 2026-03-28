@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "111",
+    "departure_from_start": "07:50",
+    "arrival_at_current": "15:12",
+    "departure_from_current": "15:13",
+    "arrival_at_to_station": "15:40",
+    "arrival_at_end": "16:50",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Ban Dara Junction",
+    "end_station_name": "Uttaradit",
+    "begin_station_code": 1137,
+    "end_station_code": 1150
+  },
+  {
+    "train_code": "109",
+    "departure_from_start": "14:15",
+    "arrival_at_current": "21:44",
+    "departure_from_current": "21:45",
+    "arrival_at_to_station": "22:20",
+    "arrival_at_end": "04:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Ban Dara Junction",
+    "end_station_name": "Uttaradit",
+    "begin_station_code": 1137,
+    "end_station_code": 1150
+  }
+]

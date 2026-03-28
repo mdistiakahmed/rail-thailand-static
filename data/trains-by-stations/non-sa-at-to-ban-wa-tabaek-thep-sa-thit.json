@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "76",
+    "departure_from_start": "07:45",
+    "arrival_at_current": "09:18",
+    "departure_from_current": "09:19",
+    "arrival_at_to_station": "12:59",
+    "arrival_at_end": "16:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Non Sa-at",
+    "end_station_name": "Ban Wa Tabaek (Thep Sa Thit)",
+    "begin_station_code": 2181,
+    "end_station_code": 2049
+  }
+]

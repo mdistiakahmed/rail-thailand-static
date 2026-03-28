@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "342",
+    "departure_from_start": "05:30",
+    "arrival_at_current": "05:35",
+    "departure_from_current": "05:36",
+    "arrival_at_to_station": "07:07",
+    "arrival_at_end": "08:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Nong Bua Junction",
+    "end_station_name": "Nava Nakhon",
+    "begin_station_code": 2009,
+    "end_station_code": 1023
+  }
+]

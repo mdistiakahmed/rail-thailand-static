@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "260",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "07:18",
+    "departure_from_current": "07:19",
+    "arrival_at_to_station": "08:08",
+    "arrival_at_end": "09:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Thung Thong",
+    "end_station_name": "Khlong Bang Tan",
+    "begin_station_code": 4052,
+    "end_station_code": 4019
+  },
+  {
+    "train_code": "258",
+    "departure_from_start": "13:00",
+    "arrival_at_current": "14:58",
+    "departure_from_current": "14:59",
+    "arrival_at_to_station": "15:58",
+    "arrival_at_end": "17:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Thung Thong",
+    "end_station_name": "Khlong Bang Tan",
+    "begin_station_code": 4052,
+    "end_station_code": 4019
+  }
+]

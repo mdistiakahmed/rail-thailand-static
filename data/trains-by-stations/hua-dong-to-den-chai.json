@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "111",
+    "departure_from_start": "07:50",
+    "arrival_at_current": "13:11",
+    "departure_from_current": "13:12",
+    "arrival_at_to_station": "16:50",
+    "arrival_at_end": "16:50",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Hua Dong",
+    "end_station_name": "Den Chai",
+    "begin_station_code": 1103,
+    "end_station_code": 1164
+  }
+]

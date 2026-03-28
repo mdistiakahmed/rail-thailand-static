@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "234",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "05:27",
+    "departure_from_current": "05:28",
+    "arrival_at_to_station": "09:52",
+    "arrival_at_end": "14:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Lam Chi",
+    "end_station_name": "Sap Muang",
+    "begin_station_code": 2246,
+    "end_station_code": 2095
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "234",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "05:27",
+    "departure_from_current": "05:28",
+    "arrival_at_to_station": "10:45",
+    "arrival_at_end": "14:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Lam Chi",
+    "end_station_name": "Muak Lek",
+    "begin_station_code": 2246,
+    "end_station_code": 2086
+  },
+  {
+    "train_code": "136",
+    "departure_from_start": "07:00",
+    "arrival_at_current": "09:47",
+    "departure_from_current": "09:48",
+    "arrival_at_to_station": "14:29",
+    "arrival_at_end": "18:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Lam Chi",
+    "end_station_name": "Muak Lek",
+    "begin_station_code": 2246,
+    "end_station_code": 2086
+  },
+  {
+    "train_code": "142",
+    "departure_from_start": "17:35",
+    "arrival_at_current": "20:30",
+    "departure_from_current": "20:31",
+    "arrival_at_to_station": "01:37",
+    "arrival_at_end": "04:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Lam Chi",
+    "end_station_name": "Muak Lek",
+    "begin_station_code": 2246,
+    "end_station_code": 2086
+  }
+]

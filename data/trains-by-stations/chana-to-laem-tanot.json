@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "456",
+    "departure_from_start": "06:35",
+    "arrival_at_current": "08:12",
+    "departure_from_current": "08:13",
+    "arrival_at_to_station": "11:20",
+    "arrival_at_end": "13:20",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Chana",
+    "end_station_name": "Laem Tanot",
+    "begin_station_code": 4384,
+    "end_station_code": 4319
+  },
+  {
+    "train_code": "170",
+    "departure_from_start": "16:30",
+    "arrival_at_current": "17:39",
+    "departure_from_current": "17:40",
+    "arrival_at_to_station": "20:04",
+    "arrival_at_end": "10:50",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Chana",
+    "end_station_name": "Laem Tanot",
+    "begin_station_code": 4384,
+    "end_station_code": 4319
+  }
+]

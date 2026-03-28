@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "255",
+    "departure_from_start": "07:20",
+    "arrival_at_current": "10:08",
+    "departure_from_current": "10:09",
+    "arrival_at_to_station": "12:16",
+    "arrival_at_end": "18:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Pak Tho",
+    "end_station_name": "Pran Buri",
+    "begin_station_code": 4093,
+    "end_station_code": 4124
+  },
+  {
+    "train_code": "251",
+    "departure_from_start": "13:10",
+    "arrival_at_current": "15:48",
+    "departure_from_current": "15:49",
+    "arrival_at_to_station": "18:00",
+    "arrival_at_end": "19:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Pak Tho",
+    "end_station_name": "Pran Buri",
+    "begin_station_code": 4093,
+    "end_station_code": 4124
+  },
+  {
+    "train_code": "169",
+    "departure_from_start": "17:30",
+    "arrival_at_current": "19:50",
+    "departure_from_current": "19:51",
+    "arrival_at_to_station": "21:50",
+    "arrival_at_end": "11:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Pak Tho",
+    "end_station_name": "Pran Buri",
+    "begin_station_code": 4093,
+    "end_station_code": 4124
+  }
+]

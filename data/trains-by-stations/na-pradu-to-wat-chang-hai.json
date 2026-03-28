@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "171",
+    "departure_from_start": "15:10",
+    "arrival_at_current": "07:47",
+    "departure_from_current": "07:48",
+    "arrival_at_to_station": "07:52",
+    "arrival_at_end": "10:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Na Pradu",
+    "end_station_name": "Wat Chang Hai",
+    "begin_station_code": 4397,
+    "end_station_code": 4437
+  },
+  {
+    "train_code": "463",
+    "departure_from_start": "06:10",
+    "arrival_at_current": "09:38",
+    "departure_from_current": "09:39",
+    "arrival_at_to_station": "09:43",
+    "arrival_at_end": "12:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Na Pradu",
+    "end_station_name": "Wat Chang Hai",
+    "begin_station_code": 4397,
+    "end_station_code": 4437
+  }
+]

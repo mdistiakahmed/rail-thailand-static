@@ -1,0 +1,56 @@
+{
+  "from_city": "chiang mai",
+  "to_city": "bangkok",
+  "schedules": [
+    {
+      "train_no": "102",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Chiang Mai",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "06:25",
+      "arrive_time": "20:05",
+      "duration": "13h 40m"
+    },
+    {
+      "train_no": "8",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Chiang Mai",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "07:30",
+      "arrive_time": "17:40",
+      "duration": "10h 10m"
+    },
+    {
+      "train_no": "52",
+      "train_name": "",
+      "train_type": "Express",
+      "from_station": "Chiang Mai",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "15:30",
+      "arrive_time": "05:10",
+      "duration": "13h 40m"
+    },
+    {
+      "train_no": "14",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Chiang Mai",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "17:05",
+      "arrive_time": "05:55",
+      "duration": "12h 50m"
+    },
+    {
+      "train_no": "10",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Chiang Mai",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "18:20",
+      "arrive_time": "06:30",
+      "duration": "12h 10m"
+    }
+  ]
+}

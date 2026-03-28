@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "252",
+    "departure_from_start": "04:40",
+    "arrival_at_current": "06:39",
+    "departure_from_current": "06:40",
+    "arrival_at_to_station": "07:23",
+    "arrival_at_end": "10:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Cha-am",
+    "end_station_name": "Bang Chak",
+    "begin_station_code": 4111,
+    "end_station_code": 4099
+  },
+  {
+    "train_code": "254",
+    "departure_from_start": "06:30",
+    "arrival_at_current": "13:12",
+    "departure_from_current": "13:13",
+    "arrival_at_to_station": "14:00",
+    "arrival_at_end": "17:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Cha-am",
+    "end_station_name": "Bang Chak",
+    "begin_station_code": 4111,
+    "end_station_code": 4099
+  }
+]

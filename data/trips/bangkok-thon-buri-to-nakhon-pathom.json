@@ -1,0 +1,70 @@
+{
+  "forward": [
+    {
+      "trainNo": "1123",
+      "trainTypeNameEn": "S. Commuter",
+      "departureTime": "06:15",
+      "arrivalTime": "07:20",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "1115",
+      "trainTypeNameEn": "S. Commuter",
+      "departureTime": "11:20",
+      "arrivalTime": "12:30",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "1117",
+      "trainTypeNameEn": "S. Commuter",
+      "departureTime": "14:15",
+      "arrivalTime": "15:20",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "1129",
+      "trainTypeNameEn": "S. Commuter",
+      "departureTime": "17:00",
+      "arrivalTime": "18:05",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ],
+  "backward": [
+    {
+      "trainNo": "1124",
+      "trainTypeNameEn": "S. Commuter",
+      "departureTime": "07:30",
+      "arrivalTime": "08:35",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "1116",
+      "trainTypeNameEn": "S. Commuter",
+      "departureTime": "12:45",
+      "arrivalTime": "13:50",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "1118",
+      "trainTypeNameEn": "S. Commuter",
+      "departureTime": "15:35",
+      "arrivalTime": "16:40",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "1132",
+      "trainTypeNameEn": "S. Commuter",
+      "departureTime": "20:30",
+      "arrivalTime": "21:35",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "207",
+    "departure_from_start": "14:20",
+    "arrival_at_current": "18:00",
+    "departure_from_current": "18:01",
+    "arrival_at_to_station": "19:30",
+    "arrival_at_end": "19:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Huai Kaeo",
+    "end_station_name": "Nakhon Sawan",
+    "begin_station_code": 1059,
+    "end_station_code": 1082
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "83",
+    "departure_from_start": "18:50",
+    "arrival_at_current": "20:08",
+    "departure_from_current": "20:09",
+    "arrival_at_to_station": "07:59",
+    "arrival_at_end": "08:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Ban Pong",
+    "end_station_name": "Huai Yot",
+    "begin_station_code": 4079,
+    "end_station_code": 4281
+  },
+  {
+    "train_code": "167",
+    "departure_from_start": "20:30",
+    "arrival_at_current": "21:53",
+    "departure_from_current": "21:54",
+    "arrival_at_to_station": "10:34",
+    "arrival_at_end": "11:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Ban Pong",
+    "end_station_name": "Huai Yot",
+    "begin_station_code": 4079,
+    "end_station_code": 4281
+  }
+]

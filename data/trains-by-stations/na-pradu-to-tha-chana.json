@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "172",
+    "departure_from_start": "12:10",
+    "arrival_at_current": "14:24",
+    "departure_from_current": "14:25",
+    "arrival_at_to_station": "21:46",
+    "arrival_at_end": "07:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Na Pradu",
+    "end_station_name": "Tha Chana",
+    "begin_station_code": 4397,
+    "end_station_code": 4215
+  }
+]

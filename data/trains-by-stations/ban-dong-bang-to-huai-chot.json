@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "275",
+    "departure_from_start": "05:55",
+    "arrival_at_current": "09:15",
+    "departure_from_current": "09:16",
+    "arrival_at_to_station": "10:37",
+    "arrival_at_end": "11:17",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Dong Bang",
+    "end_station_name": "Huai Chot",
+    "begin_station_code": 3072,
+    "end_station_code": 3092
+  },
+  {
+    "train_code": "279",
+    "departure_from_start": "13:05",
+    "arrival_at_current": "15:34",
+    "departure_from_current": "15:35",
+    "arrival_at_to_station": "16:48",
+    "arrival_at_end": "17:27",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Dong Bang",
+    "end_station_name": "Huai Chot",
+    "begin_station_code": 3072,
+    "end_station_code": 3092
+  }
+]

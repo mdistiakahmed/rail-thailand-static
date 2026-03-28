@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "136",
+    "departure_from_start": "07:00",
+    "arrival_at_current": "15:55",
+    "departure_from_current": "15:56",
+    "arrival_at_to_station": "18:00",
+    "arrival_at_end": "18:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Nong Saeng",
+    "end_station_name": "Bangkok (Krung Thep Aphiwat)",
+    "begin_station_code": 2002,
+    "end_station_code": 1000
+  }
+]

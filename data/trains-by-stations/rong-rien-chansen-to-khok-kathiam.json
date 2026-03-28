@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "212",
+    "departure_from_start": "05:45",
+    "arrival_at_current": "08:25",
+    "departure_from_current": "08:26",
+    "arrival_at_to_station": "08:52",
+    "arrival_at_end": "11:55",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Rong Rien Chansen",
+    "end_station_name": "Khok Kathiam",
+    "begin_station_code": 1229,
+    "end_station_code": 1053
+  }
+]

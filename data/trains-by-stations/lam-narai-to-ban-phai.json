@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "25",
+    "departure_from_start": "20:25",
+    "arrival_at_current": "23:58",
+    "departure_from_current": "00:03",
+    "arrival_at_to_station": "03:37",
+    "arrival_at_end": "06:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Special Exp.",
+    "begin_station_name": "Lam Narai",
+    "end_station_name": "Ban Phai",
+    "begin_station_code": 2033,
+    "end_station_code": 2152
+  },
+  {
+    "train_code": "133",
+    "departure_from_start": "21:25",
+    "arrival_at_current": "00:37",
+    "departure_from_current": "00:40",
+    "arrival_at_to_station": "04:32",
+    "arrival_at_end": "09:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Lam Narai",
+    "end_station_name": "Ban Phai",
+    "begin_station_code": 2033,
+    "end_station_code": 2152
+  },
+  {
+    "train_code": "75",
+    "departure_from_start": "08:45",
+    "arrival_at_current": "11:41",
+    "departure_from_current": "11:44",
+    "arrival_at_to_station": "15:00",
+    "arrival_at_end": "17:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Lam Narai",
+    "end_station_name": "Ban Phai",
+    "begin_station_code": 2033,
+    "end_station_code": 2152
+  }
+]

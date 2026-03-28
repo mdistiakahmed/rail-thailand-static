@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "283",
+    "departure_from_start": "06:55",
+    "arrival_at_current": "09:03",
+    "departure_from_current": "09:04",
+    "arrival_at_to_station": "10:44",
+    "arrival_at_end": "11:45",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Paet Riu",
+    "end_station_name": "Talat Nam 4 Phak",
+    "begin_station_code": 3025,
+    "end_station_code": 3124
+  }
+]

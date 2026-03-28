@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "4381",
+    "departure_from_start": "07:30",
+    "arrival_at_current": "08:07",
+    "departure_from_current": "08:08",
+    "arrival_at_to_station": "08:19",
+    "arrival_at_end": "08:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Ban Na Khwang",
+    "end_station_name": "Lad Yai",
+    "begin_station_code": 5027,
+    "end_station_code": 5030
+  },
+  {
+    "train_code": "4383",
+    "departure_from_start": "10:10",
+    "arrival_at_current": "10:43",
+    "departure_from_current": "10:44",
+    "arrival_at_to_station": "10:59",
+    "arrival_at_end": "11:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Ban Na Khwang",
+    "end_station_name": "Lad Yai",
+    "begin_station_code": 5027,
+    "end_station_code": 5030
+  },
+  {
+    "train_code": "4385",
+    "departure_from_start": "13:30",
+    "arrival_at_current": "14:03",
+    "departure_from_current": "14:04",
+    "arrival_at_to_station": "14:19",
+    "arrival_at_end": "14:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Ban Na Khwang",
+    "end_station_name": "Lad Yai",
+    "begin_station_code": 5027,
+    "end_station_code": 5030
+  },
+  {
+    "train_code": "4387",
+    "departure_from_start": "16:40",
+    "arrival_at_current": "17:13",
+    "departure_from_current": "17:14",
+    "arrival_at_to_station": "17:29",
+    "arrival_at_end": "17:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Ban Na Khwang",
+    "end_station_name": "Lad Yai",
+    "begin_station_code": 5027,
+    "end_station_code": 5030
+  }
+]

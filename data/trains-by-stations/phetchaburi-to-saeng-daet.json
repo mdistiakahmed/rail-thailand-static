@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "255",
+    "departure_from_start": "07:20",
+    "arrival_at_current": "10:39",
+    "departure_from_current": "10:41",
+    "arrival_at_to_station": "16:55",
+    "arrival_at_end": "18:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Phetchaburi",
+    "end_station_name": "Saeng Daet",
+    "begin_station_code": 4101,
+    "end_station_code": 4187
+  }
+]

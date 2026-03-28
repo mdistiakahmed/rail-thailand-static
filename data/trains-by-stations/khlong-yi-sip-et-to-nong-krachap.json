@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "281",
+    "departure_from_start": "08:00",
+    "arrival_at_current": "10:05",
+    "departure_from_current": "10:06",
+    "arrival_at_to_station": "10:51",
+    "arrival_at_end": "11:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khlong Yi Sip Et",
+    "end_station_name": "Nong Krachap",
+    "begin_station_code": 3058,
+    "end_station_code": 3067
+  },
+  {
+    "train_code": "277",
+    "departure_from_start": "15:25",
+    "arrival_at_current": "17:08",
+    "departure_from_current": "17:09",
+    "arrival_at_to_station": "17:45",
+    "arrival_at_end": "18:20",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khlong Yi Sip Et",
+    "end_station_name": "Nong Krachap",
+    "begin_station_code": 3058,
+    "end_station_code": 3067
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "252",
+    "departure_from_start": "04:40",
+    "arrival_at_current": "N/A",
+    "departure_from_current": "04:40",
+    "arrival_at_to_station": "10:27",
+    "arrival_at_end": "10:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Prachuap Khiri Khan",
+    "end_station_name": "Jaran Sanitwong",
+    "begin_station_code": 4142,
+    "end_station_code": 4434
+  },
+  {
+    "train_code": "254",
+    "departure_from_start": "06:30",
+    "arrival_at_current": "11:01",
+    "departure_from_current": "11:02",
+    "arrival_at_to_station": "17:21",
+    "arrival_at_end": "17:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Prachuap Khiri Khan",
+    "end_station_name": "Jaran Sanitwong",
+    "begin_station_code": 4142,
+    "end_station_code": 4434
+  }
+]

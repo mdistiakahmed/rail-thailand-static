@@ -1,0 +1,38 @@
+{
+  "forward": [
+    {
+      "trainNo": "997",
+      "trainTypeNameEn": "Special",
+      "departureTime": "06:45",
+      "arrivalTime": "10:10",
+      "operatingDays": "Saturday, Sunday",
+      "offDay": "Monday, Tuesday, Wednesday, Thursday, Friday"
+    },
+    {
+      "trainNo": "283",
+      "trainTypeNameEn": "Ordinary",
+      "departureTime": "06:55",
+      "arrivalTime": "11:45",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ],
+  "backward": [
+    {
+      "trainNo": "284",
+      "trainTypeNameEn": "Ordinary",
+      "departureTime": "13:05",
+      "arrivalTime": "18:15",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "998",
+      "trainTypeNameEn": "Special",
+      "departureTime": "15:30",
+      "arrivalTime": "18:55",
+      "operatingDays": "Saturday, Sunday",
+      "offDay": "Monday, Tuesday, Wednesday, Thursday, Friday"
+    }
+  ]
+}

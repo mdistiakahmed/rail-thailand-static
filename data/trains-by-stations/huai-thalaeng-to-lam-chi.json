@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "141",
+    "departure_from_start": "23:05",
+    "arrival_at_current": "05:31",
+    "departure_from_current": "05:32",
+    "arrival_at_to_station": "07:11",
+    "arrival_at_end": "10:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Huai Thalaeng",
+    "end_station_name": "Lam Chi",
+    "begin_station_code": 2224,
+    "end_station_code": 2246
+  },
+  {
+    "train_code": "135",
+    "departure_from_start": "07:10",
+    "arrival_at_current": "13:29",
+    "departure_from_current": "13:30",
+    "arrival_at_to_station": "14:58",
+    "arrival_at_end": "18:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Huai Thalaeng",
+    "end_station_name": "Lam Chi",
+    "begin_station_code": 2224,
+    "end_station_code": 2246
+  },
+  {
+    "train_code": "233",
+    "departure_from_start": "12:00",
+    "arrival_at_current": "18:47",
+    "departure_from_current": "18:48",
+    "arrival_at_to_station": "20:22",
+    "arrival_at_end": "20:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Huai Thalaeng",
+    "end_station_name": "Lam Chi",
+    "begin_station_code": 2224,
+    "end_station_code": 2246
+  }
+]

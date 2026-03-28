@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "171",
+    "departure_from_start": "15:10",
+    "arrival_at_current": "07:52",
+    "departure_from_current": "07:53",
+    "arrival_at_to_station": "09:24",
+    "arrival_at_end": "10:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Wat Chang Hai",
+    "end_station_name": "Tanyong Mat",
+    "begin_station_code": 4437,
+    "end_station_code": 4419
+  },
+  {
+    "train_code": "463",
+    "departure_from_start": "06:10",
+    "arrival_at_current": "09:43",
+    "departure_from_current": "09:44",
+    "arrival_at_to_station": "11:19",
+    "arrival_at_end": "12:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Wat Chang Hai",
+    "end_station_name": "Tanyong Mat",
+    "begin_station_code": 4437,
+    "end_station_code": 4419
+  }
+]

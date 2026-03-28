@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "722",
+    "departure_from_start": "02:00",
+    "arrival_at_current": "04:56",
+    "departure_from_current": "05:03",
+    "arrival_at_to_station": "05:46",
+    "arrival_at_end": "05:46",
+    "weekly_offday": "Monday, Tuesday, Wednesday, Thursday, Saturday",
+    "operating_days": "Friday, Sunday",
+    "train_type": "Freight",
+    "begin_station_name": "Ban Tun",
+    "end_station_name": "Thung Song Junction",
+    "begin_station_code": 4312,
+    "end_station_code": 4270
+  }
+]

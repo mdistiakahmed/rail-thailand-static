@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "909",
+    "departure_from_start": "06:30",
+    "arrival_at_current": "06:50",
+    "departure_from_current": "06:51",
+    "arrival_at_to_station": "09:43",
+    "arrival_at_end": "11:30",
+    "weekly_offday": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "operating_days": "Saturday, Sunday",
+    "train_type": "Excursion",
+    "begin_station_name": "Bang Sue Junction",
+    "end_station_name": "Saphan Kwae Yai",
+    "begin_station_code": 1007,
+    "end_station_code": 4058
+  }
+]

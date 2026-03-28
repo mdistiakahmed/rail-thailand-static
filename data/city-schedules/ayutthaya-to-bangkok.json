@@ -1,0 +1,276 @@
+{
+  "from_city": "ayutthaya",
+  "to_city": "bangkok",
+  "schedules": [
+    {
+      "train_no": "142",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "03:07",
+      "arrive_time": "04:10",
+      "duration": "1h 3m"
+    },
+    {
+      "train_no": "108",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "03:25",
+      "arrive_time": "04:30",
+      "duration": "1h 5m"
+    },
+    {
+      "train_no": "24",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "03:42",
+      "arrive_time": "04:50",
+      "duration": "1h 8m"
+    },
+    {
+      "train_no": "52",
+      "train_name": "",
+      "train_type": "Express",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "04:01",
+      "arrive_time": "05:10",
+      "duration": "1h 9m"
+    },
+    {
+      "train_no": "26",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "04:24",
+      "arrive_time": "05:30",
+      "duration": "1h 6m"
+    },
+    {
+      "train_no": "14",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "04:48",
+      "arrive_time": "05:55",
+      "duration": "1h 7m"
+    },
+    {
+      "train_no": "314",
+      "train_name": "",
+      "train_type": "Commuter",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Hua Lamphong)",
+      "depart_time": "05:07",
+      "arrive_time": "06:50",
+      "duration": "1h 43m"
+    },
+    {
+      "train_no": "10",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "05:25",
+      "arrive_time": "06:30",
+      "duration": "1h 5m"
+    },
+    {
+      "train_no": "140",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "05:36",
+      "arrive_time": "06:50",
+      "duration": "1h 14m"
+    },
+    {
+      "train_no": "302",
+      "train_name": "",
+      "train_type": "Commuter",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Hua Lamphong)",
+      "depart_time": "05:46",
+      "arrive_time": "07:35",
+      "duration": "1h 49m"
+    },
+    {
+      "train_no": "134",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "06:21",
+      "arrive_time": "07:30",
+      "duration": "1h 9m"
+    },
+    {
+      "train_no": "342",
+      "train_name": "",
+      "train_type": "Commuter",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Hua Lamphong)",
+      "depart_time": "06:38",
+      "arrive_time": "08:30",
+      "duration": "1h 52m"
+    },
+    {
+      "train_no": "318",
+      "train_name": "",
+      "train_type": "Commuter",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Hua Lamphong)",
+      "depart_time": "07:10",
+      "arrive_time": "08:50",
+      "duration": "1h 40m"
+    },
+    {
+      "train_no": "208",
+      "train_name": "",
+      "train_type": "Ordinary",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Hua Lamphong)",
+      "depart_time": "08:18",
+      "arrive_time": "10:10",
+      "duration": "1h 52m"
+    },
+    {
+      "train_no": "304",
+      "train_name": "",
+      "train_type": "Commuter",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Hua Lamphong)",
+      "depart_time": "09:00",
+      "arrive_time": "10:30",
+      "duration": "1h 30m"
+    },
+    {
+      "train_no": "340",
+      "train_name": "",
+      "train_type": "Commuter",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Hua Lamphong)",
+      "depart_time": "09:41",
+      "arrive_time": "11:10",
+      "duration": "1h 29m"
+    },
+    {
+      "train_no": "212",
+      "train_name": "",
+      "train_type": "Ordinary",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Hua Lamphong)",
+      "depart_time": "10:11",
+      "arrive_time": "11:55",
+      "duration": "1h 44m"
+    },
+    {
+      "train_no": "202",
+      "train_name": "",
+      "train_type": "Ordinary",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Hua Lamphong)",
+      "depart_time": "11:55",
+      "arrive_time": "13:45",
+      "duration": "1h 50m"
+    },
+    {
+      "train_no": "234",
+      "train_name": "",
+      "train_type": "Ordinary",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Hua Lamphong)",
+      "depart_time": "12:35",
+      "arrive_time": "14:25",
+      "duration": "1h 50m"
+    },
+    {
+      "train_no": "72",
+      "train_name": "",
+      "train_type": "Express",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "13:08",
+      "arrive_time": "14:10",
+      "duration": "1h 2m"
+    },
+    {
+      "train_no": "76",
+      "train_name": "",
+      "train_type": "Express",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "15:39",
+      "arrive_time": "16:35",
+      "duration": "0h 56m"
+    },
+    {
+      "train_no": "112",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "16:04",
+      "arrive_time": "17:10",
+      "duration": "1h 6m"
+    },
+    {
+      "train_no": "136",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "16:41",
+      "arrive_time": "18:00",
+      "duration": "1h 19m"
+    },
+    {
+      "train_no": "8",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "16:50",
+      "arrive_time": "17:40",
+      "duration": "0h 50m"
+    },
+    {
+      "train_no": "210",
+      "train_name": "",
+      "train_type": "Ordinary",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Hua Lamphong)",
+      "depart_time": "18:21",
+      "arrive_time": "20:05",
+      "duration": "1h 44m"
+    },
+    {
+      "train_no": "102",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "18:59",
+      "arrive_time": "20:05",
+      "duration": "1h 6m"
+    },
+    {
+      "train_no": "22",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Ayutthaya",
+      "to_station": "Bangkok (Krung Thep Aphiwat)",
+      "depart_time": "21:22",
+      "arrive_time": "22:15",
+      "duration": "0h 53m"
+    }
+  ]
+}

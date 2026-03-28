@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "4317",
+    "departure_from_start": "15:25",
+    "arrival_at_current": "15:28",
+    "departure_from_current": "15:29",
+    "arrival_at_to_station": "15:49",
+    "arrival_at_end": "16:27",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Talat Phlu",
+    "end_station_name": "Rang Sakae",
+    "begin_station_code": 5003,
+    "end_station_code": 5011
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "4340",
+    "departure_from_start": "06:25",
+    "arrival_at_current": "06:58",
+    "departure_from_current": "06:59",
+    "arrival_at_to_station": "07:04",
+    "arrival_at_end": "07:29",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Rang Sakae",
+    "end_station_name": "Bang Bon",
+    "begin_station_code": 5011,
+    "end_station_code": 5009
+  },
+  {
+    "train_code": "4312",
+    "departure_from_start": "08:00",
+    "arrival_at_current": "08:36",
+    "departure_from_current": "08:37",
+    "arrival_at_to_station": "08:41",
+    "arrival_at_end": "09:03",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Rang Sakae",
+    "end_station_name": "Bang Bon",
+    "begin_station_code": 5011,
+    "end_station_code": 5009
+  }
+]

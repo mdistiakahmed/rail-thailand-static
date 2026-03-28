@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "233",
+    "departure_from_start": "12:00",
+    "arrival_at_current": "14:32",
+    "departure_from_current": "14:33",
+    "arrival_at_to_station": "18:37",
+    "arrival_at_end": "20:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Bua Junction",
+    "end_station_name": "Hin Dat",
+    "begin_station_code": 2009,
+    "end_station_code": 2222
+  }
+]

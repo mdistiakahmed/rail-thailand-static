@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "172",
+    "departure_from_start": "12:10",
+    "arrival_at_current": "12:51",
+    "departure_from_current": "12:52",
+    "arrival_at_to_station": "01:22",
+    "arrival_at_end": "07:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Tanyong Mat",
+    "end_station_name": "Bang Saphan Yai",
+    "begin_station_code": 4419,
+    "end_station_code": 4163
+  },
+  {
+    "train_code": "986",
+    "departure_from_start": "13:25",
+    "arrival_at_current": "14:18",
+    "departure_from_current": "14:21",
+    "arrival_at_to_station": "05:55",
+    "arrival_at_end": "13:15",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Freight",
+    "begin_station_name": "Tanyong Mat",
+    "end_station_name": "Bang Saphan Yai",
+    "begin_station_code": 4419,
+    "end_station_code": 4163
+  },
+  {
+    "train_code": "38",
+    "departure_from_start": "14:15",
+    "arrival_at_current": "14:54",
+    "departure_from_current": "14:56",
+    "arrival_at_to_station": "02:50",
+    "arrival_at_end": "09:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Special Exp.",
+    "begin_station_name": "Tanyong Mat",
+    "end_station_name": "Bang Saphan Yai",
+    "begin_station_code": 4419,
+    "end_station_code": 4163
+  }
+]

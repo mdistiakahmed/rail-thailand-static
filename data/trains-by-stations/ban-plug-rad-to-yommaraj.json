@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "302",
+    "departure_from_start": "04:30",
+    "arrival_at_current": "05:07",
+    "departure_from_current": "05:08",
+    "arrival_at_to_station": "07:29",
+    "arrival_at_end": "07:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Ban Plug Rad",
+    "end_station_name": "Yommaraj",
+    "begin_station_code": 1038,
+    "end_station_code": 1002
+  },
+  {
+    "train_code": "318",
+    "departure_from_start": "06:00",
+    "arrival_at_current": "06:33",
+    "departure_from_current": "06:34",
+    "arrival_at_to_station": "08:43",
+    "arrival_at_end": "08:50",
+    "weekly_offday": "Saturday, Sunday",
+    "operating_days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "train_type": "Commuter",
+    "begin_station_name": "Ban Plug Rad",
+    "end_station_name": "Yommaraj",
+    "begin_station_code": 1038,
+    "end_station_code": 1002
+  }
+]

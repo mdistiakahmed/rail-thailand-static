@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "251",
+    "departure_from_start": "13:10",
+    "arrival_at_current": "14:48",
+    "departure_from_current": "14:49",
+    "arrival_at_to_station": "15:38",
+    "arrival_at_end": "19:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nakhon Chum",
+    "end_station_name": "Bo Takhro",
+    "begin_station_code": 4081,
+    "end_station_code": 4091
+  }
+]

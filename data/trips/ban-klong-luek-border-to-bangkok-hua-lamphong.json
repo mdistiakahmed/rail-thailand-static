@@ -1,0 +1,38 @@
+{
+  "forward": [
+    {
+      "trainNo": "275",
+      "trainTypeNameEn": "Ordinary",
+      "departureTime": "05:55",
+      "arrivalTime": "11:17",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "279",
+      "trainTypeNameEn": "Ordinary",
+      "departureTime": "13:05",
+      "arrivalTime": "17:27",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ],
+  "backward": [
+    {
+      "trainNo": "280",
+      "trainTypeNameEn": "Ordinary",
+      "departureTime": "06:58",
+      "arrivalTime": "12:05",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "276",
+      "trainTypeNameEn": "Ordinary",
+      "departureTime": "14:50",
+      "arrivalTime": "20:25",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ]
+}

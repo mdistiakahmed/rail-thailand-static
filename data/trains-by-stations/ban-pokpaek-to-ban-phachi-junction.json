@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "342",
+    "departure_from_start": "05:30",
+    "arrival_at_current": "05:49",
+    "departure_from_current": "05:50",
+    "arrival_at_to_station": "06:11",
+    "arrival_at_end": "08:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Ban Pokpaek",
+    "end_station_name": "Ban Phachi Junction",
+    "begin_station_code": 2005,
+    "end_station_code": 1036
+  },
+  {
+    "train_code": "340",
+    "departure_from_start": "08:45",
+    "arrival_at_current": "09:04",
+    "departure_from_current": "09:05",
+    "arrival_at_to_station": "09:23",
+    "arrival_at_end": "11:10",
+    "weekly_offday": "Saturday, Sunday",
+    "operating_days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "train_type": "Commuter",
+    "begin_station_name": "Ban Pokpaek",
+    "end_station_name": "Ban Phachi Junction",
+    "begin_station_code": 2005,
+    "end_station_code": 1036
+  },
+  {
+    "train_code": "234",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "11:40",
+    "departure_from_current": "11:41",
+    "arrival_at_to_station": "12:05",
+    "arrival_at_end": "14:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Pokpaek",
+    "end_station_name": "Ban Phachi Junction",
+    "begin_station_code": 2005,
+    "end_station_code": 1036
+  }
+]

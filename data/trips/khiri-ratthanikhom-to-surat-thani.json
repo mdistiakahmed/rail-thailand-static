@@ -1,0 +1,22 @@
+{
+  "forward": [
+    {
+      "trainNo": "490",
+      "trainTypeNameEn": "Local",
+      "departureTime": "06:05",
+      "arrivalTime": "07:00",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ],
+  "backward": [
+    {
+      "trainNo": "489",
+      "trainTypeNameEn": "Local",
+      "departureTime": "16:55",
+      "arrivalTime": "17:40",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ]
+}

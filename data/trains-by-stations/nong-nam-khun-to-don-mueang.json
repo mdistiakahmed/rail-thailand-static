@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "234",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "09:08",
+    "departure_from_current": "09:09",
+    "arrival_at_to_station": "13:35",
+    "arrival_at_end": "14:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Nam Khun",
+    "end_station_name": "Don Mueang",
+    "begin_station_code": 2103,
+    "end_station_code": 1017
+  }
+]

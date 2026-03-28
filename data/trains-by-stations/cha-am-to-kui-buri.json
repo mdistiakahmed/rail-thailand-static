@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "255",
+    "departure_from_start": "07:20",
+    "arrival_at_current": "11:20",
+    "departure_from_current": "11:21",
+    "arrival_at_to_station": "12:54",
+    "arrival_at_end": "18:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Cha-am",
+    "end_station_name": "Kui Buri",
+    "begin_station_code": 4111,
+    "end_station_code": 4133
+  },
+  {
+    "train_code": "251",
+    "departure_from_start": "13:10",
+    "arrival_at_current": "17:05",
+    "departure_from_current": "17:06",
+    "arrival_at_to_station": "18:36",
+    "arrival_at_end": "19:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Cha-am",
+    "end_station_name": "Kui Buri",
+    "begin_station_code": 4111,
+    "end_station_code": 4133
+  },
+  {
+    "train_code": "167",
+    "departure_from_start": "20:30",
+    "arrival_at_current": "23:56",
+    "departure_from_current": "23:57",
+    "arrival_at_to_station": "01:16",
+    "arrival_at_end": "11:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Cha-am",
+    "end_station_name": "Kui Buri",
+    "begin_station_code": 4111,
+    "end_station_code": 4133
+  }
+]

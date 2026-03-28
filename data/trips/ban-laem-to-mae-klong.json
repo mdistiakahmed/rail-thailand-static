@@ -1,0 +1,70 @@
+{
+  "forward": [
+    {
+      "trainNo": "4381",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "07:30",
+      "arrivalTime": "08:30",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4383",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "10:10",
+      "arrivalTime": "11:10",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4385",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "13:30",
+      "arrivalTime": "14:30",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4387",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "16:40",
+      "arrivalTime": "17:40",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ],
+  "backward": [
+    {
+      "trainNo": "4380",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "06:20",
+      "arrivalTime": "07:19",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4382",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "09:00",
+      "arrivalTime": "10:00",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4384",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "11:30",
+      "arrivalTime": "12:30",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "4386",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "15:30",
+      "arrivalTime": "16:30",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "202",
+    "departure_from_start": "06:05",
+    "arrival_at_current": "06:24",
+    "departure_from_current": "06:25",
+    "arrival_at_to_station": "10:08",
+    "arrival_at_end": "13:45",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Mae Thiap",
+    "end_station_name": "Ban Mi",
+    "begin_station_code": 1112,
+    "end_station_code": 1058
+  }
+]

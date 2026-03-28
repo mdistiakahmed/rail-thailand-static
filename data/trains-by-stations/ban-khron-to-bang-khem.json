@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "254",
+    "departure_from_start": "06:30",
+    "arrival_at_current": "07:17",
+    "departure_from_current": "07:18",
+    "arrival_at_to_station": "14:20",
+    "arrival_at_end": "17:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Khron",
+    "end_station_name": "Bang Khem",
+    "begin_station_code": 4192,
+    "end_station_code": 4095
+  }
+]

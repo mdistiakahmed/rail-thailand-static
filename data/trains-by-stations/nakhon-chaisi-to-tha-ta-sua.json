@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "259",
+    "departure_from_start": "13:55",
+    "arrival_at_current": "14:47",
+    "departure_from_current": "14:48",
+    "arrival_at_to_station": "17:19",
+    "arrival_at_end": "18:15",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nakhon Chaisi",
+    "end_station_name": "Tha Ta Sua",
+    "begin_station_code": 4013,
+    "end_station_code": 4067
+  }
+]

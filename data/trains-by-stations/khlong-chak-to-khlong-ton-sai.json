@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "4340",
+    "departure_from_start": "06:25",
+    "arrival_at_current": "06:28",
+    "departure_from_current": "06:29",
+    "arrival_at_to_station": "07:21",
+    "arrival_at_end": "07:29",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Khlong Chak",
+    "end_station_name": "Khlong Ton Sai",
+    "begin_station_code": 5033,
+    "end_station_code": 5004
+  },
+  {
+    "train_code": "4304",
+    "departure_from_start": "07:00",
+    "arrival_at_current": "07:03",
+    "departure_from_current": "07:04",
+    "arrival_at_to_station": "07:49",
+    "arrival_at_end": "07:58",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Khlong Chak",
+    "end_station_name": "Khlong Ton Sai",
+    "begin_station_code": 5033,
+    "end_station_code": 5004
+  }
+]

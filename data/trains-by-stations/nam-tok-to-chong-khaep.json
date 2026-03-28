@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "260",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "N/A",
+    "departure_from_current": "05:20",
+    "arrival_at_to_station": "05:31",
+    "arrival_at_end": "09:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nam Tok",
+    "end_station_name": "Chong Khaep",
+    "begin_station_code": 4077,
+    "end_station_code": 4075
+  },
+  {
+    "train_code": "486",
+    "departure_from_start": "15:30",
+    "arrival_at_current": "N/A",
+    "departure_from_current": "15:30",
+    "arrival_at_to_station": "15:44",
+    "arrival_at_end": "17:26",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Nam Tok",
+    "end_station_name": "Chong Khaep",
+    "begin_station_code": 4077,
+    "end_station_code": 4075
+  }
+]

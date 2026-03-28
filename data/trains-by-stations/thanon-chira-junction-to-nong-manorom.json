@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "233",
+    "departure_from_start": "12:00",
+    "arrival_at_current": "17:37",
+    "departure_from_current": "17:38",
+    "arrival_at_to_station": "18:06",
+    "arrival_at_end": "20:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Thanon Chira Junction",
+    "end_station_name": "Nong Manorom",
+    "begin_station_code": 2115,
+    "end_station_code": 2215
+  }
+]

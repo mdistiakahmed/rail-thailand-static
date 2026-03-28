@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "254",
+    "departure_from_start": "06:30",
+    "arrival_at_current": "10:53",
+    "departure_from_current": "10:54",
+    "arrival_at_to_station": "15:22",
+    "arrival_at_end": "17:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Hin",
+    "end_station_name": "Khlong Ta Khot",
+    "begin_station_code": 4144,
+    "end_station_code": 4082
+  }
+]

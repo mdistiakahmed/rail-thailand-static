@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "463",
+    "departure_from_start": "06:10",
+    "arrival_at_current": "09:10",
+    "departure_from_current": "09:19",
+    "arrival_at_to_station": "09:30",
+    "arrival_at_end": "12:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Ta Paet",
+    "end_station_name": "Pattani",
+    "begin_station_code": 4393,
+    "end_station_code": 4395
+  }
+]

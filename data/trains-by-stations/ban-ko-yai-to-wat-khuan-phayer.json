@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "464",
+    "departure_from_start": "12:40",
+    "arrival_at_current": "17:20",
+    "departure_from_current": "17:21",
+    "arrival_at_to_station": "17:38",
+    "arrival_at_end": "18:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Ban Ko Yai",
+    "end_station_name": "Wat Khuan Phayer",
+    "begin_station_code": 4342,
+    "end_station_code": 4337
+  }
+]

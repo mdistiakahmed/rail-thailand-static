@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "254",
+    "departure_from_start": "06:30",
+    "arrival_at_current": "09:29",
+    "departure_from_current": "09:30",
+    "arrival_at_to_station": "09:56",
+    "arrival_at_end": "17:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Hin Gong",
+    "end_station_name": "Ban Krut",
+    "begin_station_code": 4164,
+    "end_station_code": 4158
+  }
+]

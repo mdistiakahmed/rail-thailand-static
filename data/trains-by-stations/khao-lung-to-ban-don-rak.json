@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "490",
+    "departure_from_start": "06:05",
+    "arrival_at_current": "06:15",
+    "departure_from_current": "06:16",
+    "arrival_at_to_station": "06:46",
+    "arrival_at_end": "07:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Khao Lung",
+    "end_station_name": "Ban Don Rak",
+    "begin_station_code": 4236,
+    "end_station_code": 4230
+  }
+]

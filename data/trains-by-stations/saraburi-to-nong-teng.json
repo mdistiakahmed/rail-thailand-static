@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "141",
+    "departure_from_start": "23:05",
+    "arrival_at_current": "00:58",
+    "departure_from_current": "00:59",
+    "arrival_at_to_station": "07:03",
+    "arrival_at_end": "10:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Saraburi",
+    "end_station_name": "Nong Teng",
+    "begin_station_code": 2007,
+    "end_station_code": 2244
+  },
+  {
+    "train_code": "233",
+    "departure_from_start": "12:00",
+    "arrival_at_current": "14:25",
+    "departure_from_current": "14:26",
+    "arrival_at_to_station": "20:16",
+    "arrival_at_end": "20:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Saraburi",
+    "end_station_name": "Nong Teng",
+    "begin_station_code": 2007,
+    "end_station_code": 2244
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "356",
+    "departure_from_start": "04:15",
+    "arrival_at_current": "05:24",
+    "departure_from_current": "05:25",
+    "arrival_at_to_station": "07:02",
+    "arrival_at_end": "08:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Rong Rien Kanbin",
+    "end_station_name": "Wat Suwan",
+    "begin_station_code": 4028,
+    "end_station_code": 4010
+  }
+]

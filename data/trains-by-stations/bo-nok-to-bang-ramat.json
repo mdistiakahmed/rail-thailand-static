@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "252",
+    "departure_from_start": "04:40",
+    "arrival_at_current": "05:02",
+    "departure_from_current": "05:03",
+    "arrival_at_to_station": "10:22",
+    "arrival_at_end": "10:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Bo Nok",
+    "end_station_name": "Bang Ramat",
+    "begin_station_code": 4135,
+    "end_station_code": 4003
+  },
+  {
+    "train_code": "254",
+    "departure_from_start": "06:30",
+    "arrival_at_current": "11:26",
+    "departure_from_current": "11:27",
+    "arrival_at_to_station": "17:15",
+    "arrival_at_end": "17:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Bo Nok",
+    "end_station_name": "Bang Ramat",
+    "begin_station_code": 4135,
+    "end_station_code": 4003
+  }
+]

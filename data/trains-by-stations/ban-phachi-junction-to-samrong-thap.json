@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "141",
+    "departure_from_start": "23:05",
+    "arrival_at_current": "00:35",
+    "departure_from_current": "00:36",
+    "arrival_at_to_station": "08:24",
+    "arrival_at_end": "10:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Ban Phachi Junction",
+    "end_station_name": "Samrong Thap",
+    "begin_station_code": 1036,
+    "end_station_code": 2261
+  },
+  {
+    "train_code": "135",
+    "departure_from_start": "07:10",
+    "arrival_at_current": "08:50",
+    "departure_from_current": "08:51",
+    "arrival_at_to_station": "15:59",
+    "arrival_at_end": "18:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Ban Phachi Junction",
+    "end_station_name": "Samrong Thap",
+    "begin_station_code": 1036,
+    "end_station_code": 2261
+  },
+  {
+    "train_code": "71",
+    "departure_from_start": "10:35",
+    "arrival_at_current": "11:46",
+    "departure_from_current": "11:47",
+    "arrival_at_to_station": "17:56",
+    "arrival_at_end": "19:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Ban Phachi Junction",
+    "end_station_name": "Samrong Thap",
+    "begin_station_code": 1036,
+    "end_station_code": 2261
+  },
+  {
+    "train_code": "139",
+    "departure_from_start": "19:25",
+    "arrival_at_current": "20:47",
+    "departure_from_current": "20:48",
+    "arrival_at_to_station": "04:17",
+    "arrival_at_end": "06:15",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Ban Phachi Junction",
+    "end_station_name": "Samrong Thap",
+    "begin_station_code": 1036,
+    "end_station_code": 2261
+  }
+]

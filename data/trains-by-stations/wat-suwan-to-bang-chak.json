@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "251",
+    "departure_from_start": "13:10",
+    "arrival_at_current": "13:45",
+    "departure_from_current": "13:46",
+    "arrival_at_to_station": "16:18",
+    "arrival_at_end": "19:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Wat Suwan",
+    "end_station_name": "Bang Chak",
+    "begin_station_code": 4010,
+    "end_station_code": 4099
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "255",
+    "departure_from_start": "07:20",
+    "arrival_at_current": "08:46",
+    "departure_from_current": "08:47",
+    "arrival_at_to_station": "14:39",
+    "arrival_at_end": "18:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Phrong Madua",
+    "end_station_name": "Nong Mongkhon",
+    "begin_station_code": 4018,
+    "end_station_code": 4159
+  }
+]

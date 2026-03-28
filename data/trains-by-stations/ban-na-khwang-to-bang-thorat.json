@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "4380",
+    "departure_from_start": "06:20",
+    "arrival_at_current": "06:46",
+    "departure_from_current": "06:47",
+    "arrival_at_to_station": "06:55",
+    "arrival_at_end": "07:19",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Ban Na Khwang",
+    "end_station_name": "Bang Thorat",
+    "begin_station_code": 5027,
+    "end_station_code": 5025
+  },
+  {
+    "train_code": "4382",
+    "departure_from_start": "09:00",
+    "arrival_at_current": "09:26",
+    "departure_from_current": "09:27",
+    "arrival_at_to_station": "09:35",
+    "arrival_at_end": "10:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Ban Na Khwang",
+    "end_station_name": "Bang Thorat",
+    "begin_station_code": 5027,
+    "end_station_code": 5025
+  },
+  {
+    "train_code": "4384",
+    "departure_from_start": "11:30",
+    "arrival_at_current": "11:56",
+    "departure_from_current": "11:57",
+    "arrival_at_to_station": "12:05",
+    "arrival_at_end": "12:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Ban Na Khwang",
+    "end_station_name": "Bang Thorat",
+    "begin_station_code": 5027,
+    "end_station_code": 5025
+  },
+  {
+    "train_code": "4386",
+    "departure_from_start": "15:30",
+    "arrival_at_current": "15:56",
+    "departure_from_current": "15:57",
+    "arrival_at_to_station": "16:05",
+    "arrival_at_end": "16:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Ban Na Khwang",
+    "end_station_name": "Bang Thorat",
+    "begin_station_code": 5027,
+    "end_station_code": 5025
+  }
+]

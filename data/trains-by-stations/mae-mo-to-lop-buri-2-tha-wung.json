@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "102",
+    "departure_from_start": "06:25",
+    "arrival_at_current": "09:13",
+    "departure_from_current": "09:14",
+    "arrival_at_to_station": "17:48",
+    "arrival_at_end": "20:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Mae Mo",
+    "end_station_name": "Lop Buri 2 (Tha Wung)",
+    "begin_station_code": 1184,
+    "end_station_code": 1049
+  },
+  {
+    "train_code": "52",
+    "departure_from_start": "15:30",
+    "arrival_at_current": "18:34",
+    "departure_from_current": "18:35",
+    "arrival_at_to_station": "02:53",
+    "arrival_at_end": "05:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Mae Mo",
+    "end_station_name": "Lop Buri 2 (Tha Wung)",
+    "begin_station_code": 1184,
+    "end_station_code": 1049
+  }
+]

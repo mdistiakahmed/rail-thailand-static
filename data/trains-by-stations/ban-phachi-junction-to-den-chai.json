@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "111",
+    "departure_from_start": "07:50",
+    "arrival_at_current": "09:17",
+    "departure_from_current": "09:18",
+    "arrival_at_to_station": "16:50",
+    "arrival_at_end": "16:50",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Ban Phachi Junction",
+    "end_station_name": "Den Chai",
+    "begin_station_code": 1036,
+    "end_station_code": 1164
+  },
+  {
+    "train_code": "109",
+    "departure_from_start": "14:15",
+    "arrival_at_current": "15:38",
+    "departure_from_current": "15:39",
+    "arrival_at_to_station": "23:40",
+    "arrival_at_end": "04:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Ban Phachi Junction",
+    "end_station_name": "Den Chai",
+    "begin_station_code": 1036,
+    "end_station_code": 1164
+  },
+  {
+    "train_code": "107",
+    "departure_from_start": "20:45",
+    "arrival_at_current": "22:07",
+    "departure_from_current": "22:08",
+    "arrival_at_to_station": "05:25",
+    "arrival_at_end": "05:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Ban Phachi Junction",
+    "end_station_name": "Den Chai",
+    "begin_station_code": 1036,
+    "end_station_code": 1164
+  }
+]

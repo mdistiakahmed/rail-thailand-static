@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "111",
+    "departure_from_start": "07:50",
+    "arrival_at_current": "09:46",
+    "departure_from_current": "09:47",
+    "arrival_at_to_station": "12:10",
+    "arrival_at_end": "16:50",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Nong Don",
+    "end_station_name": "Thap Krit",
+    "begin_station_code": 1045,
+    "end_station_code": 1084
+  },
+  {
+    "train_code": "201",
+    "departure_from_start": "10:15",
+    "arrival_at_current": "13:03",
+    "departure_from_current": "13:04",
+    "arrival_at_to_station": "15:46",
+    "arrival_at_end": "17:55",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Don",
+    "end_station_name": "Thap Krit",
+    "begin_station_code": 1045,
+    "end_station_code": 1084
+  },
+  {
+    "train_code": "211",
+    "departure_from_start": "12:55",
+    "arrival_at_current": "15:23",
+    "departure_from_current": "15:24",
+    "arrival_at_to_station": "18:02",
+    "arrival_at_end": "19:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Don",
+    "end_station_name": "Thap Krit",
+    "begin_station_code": 1045,
+    "end_station_code": 1084
+  }
+]

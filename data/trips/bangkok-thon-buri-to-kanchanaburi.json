@@ -1,0 +1,46 @@
+{
+  "forward": [
+    {
+      "trainNo": "257",
+      "trainTypeNameEn": "Ordinary",
+      "departureTime": "07:45",
+      "arrivalTime": "10:20",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day",
+      "isSegment": true,
+      "fullRoute": "Bangkok (Thon Buri) - Nam Tok"
+    },
+    {
+      "trainNo": "259",
+      "trainTypeNameEn": "Ordinary",
+      "departureTime": "13:55",
+      "arrivalTime": "16:19",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day",
+      "isSegment": true,
+      "fullRoute": "Bangkok (Thon Buri) - Nam Tok"
+    }
+  ],
+  "backward": [
+    {
+      "trainNo": "260",
+      "trainTypeNameEn": "Ordinary",
+      "departureTime": "07:05",
+      "arrivalTime": "09:35",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day",
+      "isSegment": true,
+      "fullRoute": "Nam Tok - Bangkok (Thon Buri)"
+    },
+    {
+      "trainNo": "258",
+      "trainTypeNameEn": "Ordinary",
+      "departureTime": "14:43",
+      "arrivalTime": "17:40",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day",
+      "isSegment": true,
+      "fullRoute": "Nam Tok - Bangkok (Thon Buri)"
+    }
+  ]
+}

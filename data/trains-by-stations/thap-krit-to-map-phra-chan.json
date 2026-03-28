@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "202",
+    "departure_from_start": "06:05",
+    "arrival_at_current": "08:12",
+    "departure_from_current": "08:13",
+    "arrival_at_to_station": "11:44",
+    "arrival_at_end": "13:45",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Thap Krit",
+    "end_station_name": "Map Phra Chan",
+    "begin_station_code": 1084,
+    "end_station_code": 1033
+  },
+  {
+    "train_code": "112",
+    "departure_from_start": "08:00",
+    "arrival_at_current": "12:41",
+    "departure_from_current": "12:42",
+    "arrival_at_to_station": "15:54",
+    "arrival_at_end": "17:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Thap Krit",
+    "end_station_name": "Map Phra Chan",
+    "begin_station_code": 1084,
+    "end_station_code": 1033
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "40",
+    "departure_from_start": "09:00",
+    "arrival_at_current": "N/A",
+    "departure_from_current": "09:00",
+    "arrival_at_to_station": "13:04",
+    "arrival_at_end": "18:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Special Exp.",
+    "begin_station_name": "Surat Thani",
+    "end_station_name": "Huai Yang",
+    "begin_station_code": 4239,
+    "end_station_code": 4149
+  }
+]

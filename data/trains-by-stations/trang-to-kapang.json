@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "168",
+    "departure_from_start": "14:15",
+    "arrival_at_current": "14:40",
+    "departure_from_current": "14:45",
+    "arrival_at_to_station": "15:35",
+    "arrival_at_end": "05:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Trang",
+    "end_station_name": "Kapang",
+    "begin_station_code": 4289,
+    "end_station_code": 4275
+  }
+]

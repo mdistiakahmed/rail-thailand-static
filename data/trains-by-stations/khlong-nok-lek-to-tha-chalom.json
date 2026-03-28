@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "4380",
+    "departure_from_start": "06:20",
+    "arrival_at_current": "07:10",
+    "departure_from_current": "07:11",
+    "arrival_at_to_station": "07:17",
+    "arrival_at_end": "07:19",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Khlong Nok Lek",
+    "end_station_name": "Tha Chalom",
+    "begin_station_code": 5035,
+    "end_station_code": 5020
+  },
+  {
+    "train_code": "4382",
+    "departure_from_start": "09:00",
+    "arrival_at_current": "09:50",
+    "departure_from_current": "09:51",
+    "arrival_at_to_station": "09:57",
+    "arrival_at_end": "10:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Khlong Nok Lek",
+    "end_station_name": "Tha Chalom",
+    "begin_station_code": 5035,
+    "end_station_code": 5020
+  },
+  {
+    "train_code": "4384",
+    "departure_from_start": "11:30",
+    "arrival_at_current": "12:19",
+    "departure_from_current": "12:20",
+    "arrival_at_to_station": "12:27",
+    "arrival_at_end": "12:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Khlong Nok Lek",
+    "end_station_name": "Tha Chalom",
+    "begin_station_code": 5035,
+    "end_station_code": 5020
+  },
+  {
+    "train_code": "4386",
+    "departure_from_start": "15:30",
+    "arrival_at_current": "16:19",
+    "departure_from_current": "16:20",
+    "arrival_at_to_station": "16:27",
+    "arrival_at_end": "16:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Khlong Nok Lek",
+    "end_station_name": "Tha Chalom",
+    "begin_station_code": 5035,
+    "end_station_code": 5020
+  }
+]

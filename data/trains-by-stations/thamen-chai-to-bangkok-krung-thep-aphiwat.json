@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "136",
+    "departure_from_start": "07:00",
+    "arrival_at_current": "10:45",
+    "departure_from_current": "10:46",
+    "arrival_at_to_station": "18:00",
+    "arrival_at_end": "18:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Thamen Chai",
+    "end_station_name": "Bangkok (Krung Thep Aphiwat)",
+    "begin_station_code": 2231,
+    "end_station_code": 1000
+  }
+]

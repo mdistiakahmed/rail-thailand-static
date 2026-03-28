@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "135",
+    "departure_from_start": "07:10",
+    "arrival_at_current": "07:49",
+    "departure_from_current": "07:50",
+    "arrival_at_to_station": "14:44",
+    "arrival_at_end": "18:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Chiang Rak",
+    "end_station_name": "Krasang",
+    "begin_station_code": 1022,
+    "end_station_code": 2243
+  }
+]

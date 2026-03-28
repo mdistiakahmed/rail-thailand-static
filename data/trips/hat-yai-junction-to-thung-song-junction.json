@@ -1,0 +1,22 @@
+{
+  "forward": [
+    {
+      "trainNo": "722",
+      "trainTypeNameEn": "Freight",
+      "departureTime": "02:00",
+      "arrivalTime": "05:46",
+      "operatingDays": "Friday, Sunday",
+      "offDay": "Monday, Tuesday, Wednesday, Thursday, Saturday"
+    }
+  ],
+  "backward": [
+    {
+      "trainNo": "721",
+      "trainTypeNameEn": "Freight",
+      "departureTime": "16:18",
+      "arrivalTime": "20:30",
+      "operatingDays": "Friday, Sunday",
+      "offDay": "Monday, Tuesday, Wednesday, Thursday, Saturday"
+    }
+  ]
+}

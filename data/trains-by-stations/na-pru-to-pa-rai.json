@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "463",
+    "departure_from_start": "06:10",
+    "arrival_at_current": "06:13",
+    "departure_from_current": "06:14",
+    "arrival_at_to_station": "09:46",
+    "arrival_at_end": "12:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Na Pru",
+    "end_station_name": "Pa Rai",
+    "begin_station_code": 4326,
+    "end_station_code": 4398
+  }
+]

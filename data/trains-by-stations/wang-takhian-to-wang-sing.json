@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "485",
+    "departure_from_start": "06:02",
+    "arrival_at_current": "06:41",
+    "departure_from_current": "06:42",
+    "arrival_at_to_station": "07:14",
+    "arrival_at_end": "08:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Wang Takhian",
+    "end_station_name": "Wang Sing",
+    "begin_station_code": 4064,
+    "end_station_code": 4070
+  },
+  {
+    "train_code": "259",
+    "departure_from_start": "13:55",
+    "arrival_at_current": "17:00",
+    "departure_from_current": "17:01",
+    "arrival_at_to_station": "17:33",
+    "arrival_at_end": "18:15",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Wang Takhian",
+    "end_station_name": "Wang Sing",
+    "begin_station_code": 4064,
+    "end_station_code": 4070
+  }
+]

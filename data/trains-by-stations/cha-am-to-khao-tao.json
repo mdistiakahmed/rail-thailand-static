@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "251",
+    "departure_from_start": "13:10",
+    "arrival_at_current": "17:05",
+    "departure_from_current": "17:06",
+    "arrival_at_to_station": "17:47",
+    "arrival_at_end": "19:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Cha-am",
+    "end_station_name": "Khao Tao",
+    "begin_station_code": 4111,
+    "end_station_code": 4121
+  }
+]

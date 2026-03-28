@@ -1,0 +1,86 @@
+{
+  "forward": [
+    {
+      "trainNo": "367",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "10:10",
+      "arrivalTime": "11:45",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "389",
+      "trainTypeNameEn": "S. Commuter",
+      "departureTime": "12:10",
+      "arrivalTime": "13:30",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "379",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "16:35",
+      "arrivalTime": "18:05",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "391",
+      "trainTypeNameEn": "S. Commuter",
+      "departureTime": "16:55",
+      "arrivalTime": "18:25",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "383",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "18:50",
+      "arrivalTime": "20:35",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ],
+  "backward": [
+    {
+      "trainNo": "384",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "05:20",
+      "arrivalTime": "07:10",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "380",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "05:45",
+      "arrivalTime": "07:45",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "388",
+      "trainTypeNameEn": "S. Commuter",
+      "departureTime": "07:05",
+      "arrivalTime": "08:35",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "368",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "12:35",
+      "arrivalTime": "14:10",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "390",
+      "trainTypeNameEn": "S. Commuter",
+      "departureTime": "14:05",
+      "arrivalTime": "15:25",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ]
+}

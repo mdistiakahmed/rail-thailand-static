@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "75",
+    "departure_from_start": "08:45",
+    "arrival_at_current": "11:12",
+    "departure_from_current": "11:13",
+    "arrival_at_to_station": "13:01",
+    "arrival_at_end": "17:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Khok Salung",
+    "end_station_name": "Bamnet Narong",
+    "begin_station_code": 2024,
+    "end_station_code": 2057
+  }
+]

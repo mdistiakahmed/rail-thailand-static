@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "255",
+    "departure_from_start": "07:20",
+    "arrival_at_current": "12:11",
+    "departure_from_current": "12:12",
+    "arrival_at_to_station": "12:16",
+    "arrival_at_end": "18:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Wang Phong",
+    "end_station_name": "Pran Buri",
+    "begin_station_code": 4123,
+    "end_station_code": 4124
+  },
+  {
+    "train_code": "985",
+    "departure_from_start": "11:00",
+    "arrival_at_current": "15:46",
+    "departure_from_current": "15:47",
+    "arrival_at_to_station": "15:50",
+    "arrival_at_end": "12:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Freight",
+    "begin_station_name": "Wang Phong",
+    "end_station_name": "Pran Buri",
+    "begin_station_code": 4123,
+    "end_station_code": 4124
+  },
+  {
+    "train_code": "251",
+    "departure_from_start": "13:10",
+    "arrival_at_current": "17:55",
+    "departure_from_current": "17:56",
+    "arrival_at_to_station": "18:00",
+    "arrival_at_end": "19:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Wang Phong",
+    "end_station_name": "Pran Buri",
+    "begin_station_code": 4123,
+    "end_station_code": 4124
+  },
+  {
+    "train_code": "169",
+    "departure_from_start": "17:30",
+    "arrival_at_current": "21:45",
+    "departure_from_current": "21:46",
+    "arrival_at_to_station": "21:50",
+    "arrival_at_end": "11:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Wang Phong",
+    "end_station_name": "Pran Buri",
+    "begin_station_code": 4123,
+    "end_station_code": 4124
+  }
+]

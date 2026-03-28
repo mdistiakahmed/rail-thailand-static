@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "489",
+    "departure_from_start": "16:55",
+    "arrival_at_current": "17:27",
+    "departure_from_current": "17:28",
+    "arrival_at_to_station": "17:35",
+    "arrival_at_end": "17:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Khlong Yan",
+    "end_station_name": "Ban Yang",
+    "begin_station_code": 4235,
+    "end_station_code": 4237
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "209",
+    "departure_from_start": "11:15",
+    "arrival_at_current": "15:24",
+    "departure_from_current": "15:25",
+    "arrival_at_to_station": "15:30",
+    "arrival_at_end": "15:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Phon Thong",
+    "end_station_name": "Ban Takhli",
+    "begin_station_code": 1066,
+    "end_station_code": 1067
+  },
+  {
+    "train_code": "211",
+    "departure_from_start": "12:55",
+    "arrival_at_current": "16:39",
+    "departure_from_current": "16:40",
+    "arrival_at_to_station": "16:45",
+    "arrival_at_end": "19:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Phon Thong",
+    "end_station_name": "Ban Takhli",
+    "begin_station_code": 1066,
+    "end_station_code": 1067
+  },
+  {
+    "train_code": "207",
+    "departure_from_start": "14:20",
+    "arrival_at_current": "18:29",
+    "departure_from_current": "18:30",
+    "arrival_at_to_station": "18:35",
+    "arrival_at_end": "19:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Phon Thong",
+    "end_station_name": "Ban Takhli",
+    "begin_station_code": 1066,
+    "end_station_code": 1067
+  }
+]

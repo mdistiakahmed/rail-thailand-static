@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "102",
+    "departure_from_start": "06:25",
+    "arrival_at_current": "10:10",
+    "departure_from_current": "10:11",
+    "arrival_at_to_station": "10:43",
+    "arrival_at_end": "20:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Ban Pin",
+    "end_station_name": "Den Chai",
+    "begin_station_code": 1172,
+    "end_station_code": 1164
+  },
+  {
+    "train_code": "8",
+    "departure_from_start": "07:30",
+    "arrival_at_current": "10:56",
+    "departure_from_current": "10:57",
+    "arrival_at_to_station": "11:27",
+    "arrival_at_end": "17:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Special Exp.",
+    "begin_station_name": "Ban Pin",
+    "end_station_name": "Den Chai",
+    "begin_station_code": 1172,
+    "end_station_code": 1164
+  },
+  {
+    "train_code": "52",
+    "departure_from_start": "15:30",
+    "arrival_at_current": "19:38",
+    "departure_from_current": "19:39",
+    "arrival_at_to_station": "20:15",
+    "arrival_at_end": "05:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Ban Pin",
+    "end_station_name": "Den Chai",
+    "begin_station_code": 1172,
+    "end_station_code": 1164
+  },
+  {
+    "train_code": "14",
+    "departure_from_start": "17:05",
+    "arrival_at_current": "20:56",
+    "departure_from_current": "20:57",
+    "arrival_at_to_station": "21:32",
+    "arrival_at_end": "05:55",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Special Exp.",
+    "begin_station_name": "Ban Pin",
+    "end_station_name": "Den Chai",
+    "begin_station_code": 1172,
+    "end_station_code": 1164
+  }
+]

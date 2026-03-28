@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "257",
+    "departure_from_start": "07:45",
+    "arrival_at_current": "07:56",
+    "departure_from_current": "07:57",
+    "arrival_at_to_station": "09:39",
+    "arrival_at_end": "12:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Taling Chan Junction",
+    "end_station_name": "Luk Kae",
+    "begin_station_code": 4004,
+    "end_station_code": 4045
+  },
+  {
+    "train_code": "259",
+    "departure_from_start": "13:55",
+    "arrival_at_current": "14:08",
+    "departure_from_current": "14:09",
+    "arrival_at_to_station": "15:39",
+    "arrival_at_end": "18:15",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Taling Chan Junction",
+    "end_station_name": "Luk Kae",
+    "begin_station_code": 4004,
+    "end_station_code": 4045
+  }
+]

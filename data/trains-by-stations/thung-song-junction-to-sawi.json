@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "168",
+    "departure_from_start": "14:15",
+    "arrival_at_current": "16:01",
+    "departure_from_current": "16:11",
+    "arrival_at_to_station": "20:38",
+    "arrival_at_end": "05:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Thung Song Junction",
+    "end_station_name": "Sawi",
+    "begin_station_code": 4270,
+    "end_station_code": 4194
+  },
+  {
+    "train_code": "172",
+    "departure_from_start": "12:10",
+    "arrival_at_current": "18:52",
+    "departure_from_current": "19:02",
+    "arrival_at_to_station": "22:57",
+    "arrival_at_end": "07:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Thung Song Junction",
+    "end_station_name": "Sawi",
+    "begin_station_code": 4270,
+    "end_station_code": 4194
+  },
+  {
+    "train_code": "986",
+    "departure_from_start": "13:25",
+    "arrival_at_current": "21:57",
+    "departure_from_current": "22:07",
+    "arrival_at_to_station": "03:31",
+    "arrival_at_end": "13:15",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Freight",
+    "begin_station_name": "Thung Song Junction",
+    "end_station_name": "Sawi",
+    "begin_station_code": 4270,
+    "end_station_code": 4194
+  }
+]

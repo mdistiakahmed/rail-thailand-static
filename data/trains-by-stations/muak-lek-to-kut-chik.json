@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "141",
+    "departure_from_start": "23:05",
+    "arrival_at_current": "01:46",
+    "departure_from_current": "01:49",
+    "arrival_at_to_station": "03:47",
+    "arrival_at_end": "10:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Muak Lek",
+    "end_station_name": "Kut Chik",
+    "begin_station_code": 2086,
+    "end_station_code": 2109
+  },
+  {
+    "train_code": "233",
+    "departure_from_start": "12:00",
+    "arrival_at_current": "15:11",
+    "departure_from_current": "15:12",
+    "arrival_at_to_station": "17:02",
+    "arrival_at_end": "20:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Muak Lek",
+    "end_station_name": "Kut Chik",
+    "begin_station_code": 2086,
+    "end_station_code": 2109
+  }
+]

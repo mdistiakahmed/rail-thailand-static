@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "142",
+    "departure_from_start": "17:35",
+    "arrival_at_current": "00:05",
+    "departure_from_current": "00:06",
+    "arrival_at_to_station": "04:10",
+    "arrival_at_end": "04:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Sikhiu",
+    "end_station_name": "Bangkok (Krung Thep Aphiwat)",
+    "begin_station_code": 2105,
+    "end_station_code": 1000
+  },
+  {
+    "train_code": "136",
+    "departure_from_start": "07:00",
+    "arrival_at_current": "13:07",
+    "departure_from_current": "13:08",
+    "arrival_at_to_station": "18:00",
+    "arrival_at_end": "18:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Sikhiu",
+    "end_station_name": "Bangkok (Krung Thep Aphiwat)",
+    "begin_station_code": 2105,
+    "end_station_code": 1000
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "280",
+    "departure_from_start": "06:58",
+    "arrival_at_current": "08:25",
+    "departure_from_current": "08:26",
+    "arrival_at_to_station": "11:28",
+    "arrival_at_end": "12:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Sang",
+    "end_station_name": "Hua Mak",
+    "begin_station_code": 3078,
+    "end_station_code": 3010
+  },
+  {
+    "train_code": "276",
+    "departure_from_start": "14:50",
+    "arrival_at_current": "16:35",
+    "departure_from_current": "16:36",
+    "arrival_at_to_station": "19:53",
+    "arrival_at_end": "20:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Sang",
+    "end_station_name": "Hua Mak",
+    "begin_station_code": 3078,
+    "end_station_code": 3010
+  }
+]

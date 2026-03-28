@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "255",
+    "departure_from_start": "07:20",
+    "arrival_at_current": "07:57",
+    "departure_from_current": "07:58",
+    "arrival_at_to_station": "09:07",
+    "arrival_at_end": "18:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Wat Suwan",
+    "end_station_name": "Ban Pong",
+    "begin_station_code": 4010,
+    "end_station_code": 4079
+  },
+  {
+    "train_code": "261",
+    "departure_from_start": "09:20",
+    "arrival_at_current": "10:25",
+    "departure_from_current": "10:26",
+    "arrival_at_to_station": "11:23",
+    "arrival_at_end": "14:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Wat Suwan",
+    "end_station_name": "Ban Pong",
+    "begin_station_code": 4010,
+    "end_station_code": 4079
+  },
+  {
+    "train_code": "251",
+    "departure_from_start": "13:10",
+    "arrival_at_current": "13:45",
+    "departure_from_current": "13:46",
+    "arrival_at_to_station": "14:42",
+    "arrival_at_end": "19:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Wat Suwan",
+    "end_station_name": "Ban Pong",
+    "begin_station_code": 4010,
+    "end_station_code": 4079
+  },
+  {
+    "train_code": "351",
+    "departure_from_start": "18:15",
+    "arrival_at_current": "18:53",
+    "departure_from_current": "18:54",
+    "arrival_at_to_station": "19:48",
+    "arrival_at_end": "20:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Wat Suwan",
+    "end_station_name": "Ban Pong",
+    "begin_station_code": 4010,
+    "end_station_code": 4079
+  }
+]

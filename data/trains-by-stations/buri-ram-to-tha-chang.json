@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "234",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "06:05",
+    "departure_from_current": "06:07",
+    "arrival_at_to_station": "07:43",
+    "arrival_at_end": "14:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Buri Ram",
+    "end_station_name": "Tha Chang",
+    "begin_station_code": 2236,
+    "end_station_code": 2213
+  },
+  {
+    "train_code": "136",
+    "departure_from_start": "07:00",
+    "arrival_at_current": "10:23",
+    "departure_from_current": "10:27",
+    "arrival_at_to_station": "11:57",
+    "arrival_at_end": "18:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Buri Ram",
+    "end_station_name": "Tha Chang",
+    "begin_station_code": 2236,
+    "end_station_code": 2213
+  }
+]

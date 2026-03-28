@@ -1,0 +1,116 @@
+{
+  "from_city": "phuket",
+  "to_city": "hua hin",
+  "schedules": [
+    {
+      "train_no": "986",
+      "train_name": "",
+      "train_type": "Freight",
+      "from_station": "Surat Thani",
+      "to_station": "Hua Hin",
+      "depart_time": "00:32",
+      "arrive_time": "08:28",
+      "duration": "7h 56m"
+    },
+    {
+      "train_no": "40",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Surat Thani",
+      "to_station": "Hua Hin",
+      "depart_time": "09:00",
+      "arrive_time": "14:31",
+      "duration": "5h 31m"
+    },
+    {
+      "train_no": "44",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Surat Thani",
+      "to_station": "Hua Hin",
+      "depart_time": "18:25",
+      "arrive_time": "00:09",
+      "duration": "5h 44m"
+    },
+    {
+      "train_no": "168",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Surat Thani",
+      "to_station": "Hua Hin",
+      "depart_time": "18:32",
+      "arrive_time": "01:21",
+      "duration": "6h 49m"
+    },
+    {
+      "train_no": "86",
+      "train_name": "",
+      "train_type": "Express",
+      "from_station": "Surat Thani",
+      "to_station": "Hua Hin",
+      "depart_time": "19:31",
+      "arrive_time": "02:15",
+      "duration": "6h 44m"
+    },
+    {
+      "train_no": "84",
+      "train_name": "",
+      "train_type": "Express",
+      "from_station": "Surat Thani",
+      "to_station": "Hua Hin",
+      "depart_time": "20:23",
+      "arrive_time": "03:02",
+      "duration": "6h 39m"
+    },
+    {
+      "train_no": "172",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Surat Thani",
+      "to_station": "Hua Hin",
+      "depart_time": "20:55",
+      "arrive_time": "03:46",
+      "duration": "6h 51m"
+    },
+    {
+      "train_no": "32",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Surat Thani",
+      "to_station": "Hua Hin",
+      "depart_time": "22:24",
+      "arrive_time": "04:22",
+      "duration": "5h 58m"
+    },
+    {
+      "train_no": "38",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Surat Thani",
+      "to_station": "Hua Hin",
+      "depart_time": "22:50",
+      "arrive_time": "05:12",
+      "duration": "6h 22m"
+    },
+    {
+      "train_no": "46",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Surat Thani",
+      "to_station": "Hua Hin",
+      "depart_time": "22:50",
+      "arrive_time": "05:12",
+      "duration": "6h 22m"
+    },
+    {
+      "train_no": "170",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Surat Thani",
+      "to_station": "Hua Hin",
+      "depart_time": "23:28",
+      "arrive_time": "06:35",
+      "duration": "7h 7m"
+    }
+  ]
+}

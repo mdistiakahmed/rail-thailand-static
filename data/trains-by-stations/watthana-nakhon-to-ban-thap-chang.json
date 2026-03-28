@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "280",
+    "departure_from_start": "06:58",
+    "arrival_at_current": "07:27",
+    "departure_from_current": "07:28",
+    "arrival_at_to_station": "11:21",
+    "arrival_at_end": "12:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Watthana Nakhon",
+    "end_station_name": "Ban Thap Chang",
+    "begin_station_code": 3094,
+    "end_station_code": 3012
+  },
+  {
+    "train_code": "276",
+    "departure_from_start": "14:50",
+    "arrival_at_current": "15:24",
+    "departure_from_current": "15:25",
+    "arrival_at_to_station": "19:46",
+    "arrival_at_end": "20:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Watthana Nakhon",
+    "end_station_name": "Ban Thap Chang",
+    "begin_station_code": 3094,
+    "end_station_code": 3012
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "167",
+    "departure_from_start": "20:30",
+    "arrival_at_current": "05:23",
+    "departure_from_current": "05:24",
+    "arrival_at_to_station": "08:40",
+    "arrival_at_end": "11:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Pak Tako",
+    "end_station_name": "Krabiat",
+    "begin_station_code": 4199,
+    "end_station_code": 4259
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "112",
+    "departure_from_start": "08:00",
+    "arrival_at_current": "14:19",
+    "departure_from_current": "14:20",
+    "arrival_at_to_station": "14:49",
+    "arrival_at_end": "17:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Ban Mi",
+    "end_station_name": "Lop Buri 2 (Tha Wung)",
+    "begin_station_code": 1058,
+    "end_station_code": 1049
+  },
+  {
+    "train_code": "102",
+    "departure_from_start": "06:25",
+    "arrival_at_current": "17:17",
+    "departure_from_current": "17:18",
+    "arrival_at_to_station": "17:48",
+    "arrival_at_end": "20:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Ban Mi",
+    "end_station_name": "Lop Buri 2 (Tha Wung)",
+    "begin_station_code": 1058,
+    "end_station_code": 1049
+  }
+]

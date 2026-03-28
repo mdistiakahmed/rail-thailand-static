@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "260",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "07:50",
+    "departure_from_current": "07:51",
+    "arrival_at_to_station": "08:28",
+    "arrival_at_end": "09:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Sa Kosi Narai",
+    "end_station_name": "Ton Samrong",
+    "begin_station_code": 4044,
+    "end_station_code": 4015
+  },
+  {
+    "train_code": "258",
+    "departure_from_start": "13:00",
+    "arrival_at_current": "15:31",
+    "departure_from_current": "15:35",
+    "arrival_at_to_station": "16:28",
+    "arrival_at_end": "17:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Sa Kosi Narai",
+    "end_station_name": "Ton Samrong",
+    "begin_station_code": 4044,
+    "end_station_code": 4015
+  }
+]

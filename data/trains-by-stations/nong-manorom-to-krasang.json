@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "233",
+    "departure_from_start": "12:00",
+    "arrival_at_current": "18:06",
+    "departure_from_current": "18:12",
+    "arrival_at_to_station": "20:08",
+    "arrival_at_end": "20:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Manorom",
+    "end_station_name": "Krasang",
+    "begin_station_code": 2215,
+    "end_station_code": 2243
+  }
+]

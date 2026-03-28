@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "171",
+    "departure_from_start": "15:10",
+    "arrival_at_current": "00:18",
+    "departure_from_current": "00:22",
+    "arrival_at_to_station": "07:52",
+    "arrival_at_end": "10:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Tha Chana",
+    "end_station_name": "Wat Chang Hai",
+    "begin_station_code": 4215,
+    "end_station_code": 4437
+  }
+]

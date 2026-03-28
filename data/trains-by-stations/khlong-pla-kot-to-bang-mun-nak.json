@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "201",
+    "departure_from_start": "10:15",
+    "arrival_at_current": "15:53",
+    "departure_from_current": "15:54",
+    "arrival_at_to_station": "16:18",
+    "arrival_at_end": "17:55",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khlong Pla Kot",
+    "end_station_name": "Bang Mun Nak",
+    "begin_station_code": 1086,
+    "end_station_code": 1093
+  },
+  {
+    "train_code": "211",
+    "departure_from_start": "12:55",
+    "arrival_at_current": "18:10",
+    "departure_from_current": "18:11",
+    "arrival_at_to_station": "18:36",
+    "arrival_at_end": "19:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khlong Pla Kot",
+    "end_station_name": "Bang Mun Nak",
+    "begin_station_code": 1086,
+    "end_station_code": 1093
+  }
+]

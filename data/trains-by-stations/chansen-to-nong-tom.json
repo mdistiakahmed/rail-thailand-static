@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "111",
+    "departure_from_start": "07:50",
+    "arrival_at_current": "10:47",
+    "departure_from_current": "10:48",
+    "arrival_at_to_station": "14:40",
+    "arrival_at_end": "16:50",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Chansen",
+    "end_station_name": "Nong Tom",
+    "begin_station_code": 1061,
+    "end_station_code": 1127
+  },
+  {
+    "train_code": "109",
+    "departure_from_start": "14:15",
+    "arrival_at_current": "17:10",
+    "departure_from_current": "17:11",
+    "arrival_at_to_station": "21:10",
+    "arrival_at_end": "04:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Chansen",
+    "end_station_name": "Nong Tom",
+    "begin_station_code": 1061,
+    "end_station_code": 1127
+  }
+]

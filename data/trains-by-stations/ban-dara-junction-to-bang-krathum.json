@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "112",
+    "departure_from_start": "08:00",
+    "arrival_at_current": "09:34",
+    "departure_from_current": "09:35",
+    "arrival_at_to_station": "11:06",
+    "arrival_at_end": "17:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Ban Dara Junction",
+    "end_station_name": "Bang Krathum",
+    "begin_station_code": 1137,
+    "end_station_code": 1111
+  },
+  {
+    "train_code": "102",
+    "departure_from_start": "06:25",
+    "arrival_at_current": "12:19",
+    "departure_from_current": "12:20",
+    "arrival_at_to_station": "14:07",
+    "arrival_at_end": "20:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Ban Dara Junction",
+    "end_station_name": "Bang Krathum",
+    "begin_station_code": 1137,
+    "end_station_code": 1111
+  },
+  {
+    "train_code": "108",
+    "departure_from_start": "19:10",
+    "arrival_at_current": "20:48",
+    "departure_from_current": "20:49",
+    "arrival_at_to_station": "22:31",
+    "arrival_at_end": "04:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Ban Dara Junction",
+    "end_station_name": "Bang Krathum",
+    "begin_station_code": 1137,
+    "end_station_code": 1111
+  }
+]

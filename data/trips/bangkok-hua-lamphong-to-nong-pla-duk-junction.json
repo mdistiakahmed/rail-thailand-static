@@ -1,0 +1,13 @@
+{
+  "forward": [
+    {
+      "trainNo": "355",
+      "trainTypeNameEn": "Commuter",
+      "departureTime": "16:40",
+      "arrivalTime": "18:32",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ],
+  "backward": []
+}

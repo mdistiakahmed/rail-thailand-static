@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "463",
+    "departure_from_start": "06:10",
+    "arrival_at_current": "11:25",
+    "departure_from_current": "11:26",
+    "arrival_at_to_station": "11:48",
+    "arrival_at_end": "12:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Pa Phai",
+    "end_station_name": "To Deng",
+    "begin_station_code": 4421,
+    "end_station_code": 4427
+  }
+]

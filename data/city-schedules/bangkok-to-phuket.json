@@ -1,0 +1,116 @@
+{
+  "from_city": "bangkok",
+  "to_city": "phuket",
+  "schedules": [
+    {
+      "train_no": "43",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Bangkok (Krung Thep Aphiwat)",
+      "to_station": "Surat Thani",
+      "depart_time": "07:30",
+      "arrive_time": "16:20",
+      "duration": "8h 50m"
+    },
+    {
+      "train_no": "985",
+      "train_name": "",
+      "train_type": "Freight",
+      "from_station": "Bangkok (Hua Lamphong)",
+      "to_station": "Surat Thani",
+      "depart_time": "11:00",
+      "arrive_time": "23:13",
+      "duration": "12h 13m"
+    },
+    {
+      "train_no": "171",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Bangkok (Krung Thep Aphiwat)",
+      "to_station": "Surat Thani",
+      "depart_time": "15:10",
+      "arrive_time": "01:11",
+      "duration": "10h 1m"
+    },
+    {
+      "train_no": "37",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Bangkok (Krung Thep Aphiwat)",
+      "to_station": "Surat Thani",
+      "depart_time": "16:10",
+      "arrive_time": "01:49",
+      "duration": "9h 39m"
+    },
+    {
+      "train_no": "45",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Bangkok (Krung Thep Aphiwat)",
+      "to_station": "Surat Thani",
+      "depart_time": "16:10",
+      "arrive_time": "01:49",
+      "duration": "9h 39m"
+    },
+    {
+      "train_no": "31",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Bangkok (Krung Thep Aphiwat)",
+      "to_station": "Surat Thani",
+      "depart_time": "16:50",
+      "arrive_time": "02:20",
+      "duration": "9h 30m"
+    },
+    {
+      "train_no": "169",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Bangkok (Krung Thep Aphiwat)",
+      "to_station": "Surat Thani",
+      "depart_time": "17:30",
+      "arrive_time": "04:06",
+      "duration": "10h 36m"
+    },
+    {
+      "train_no": "83",
+      "train_name": "",
+      "train_type": "Express",
+      "from_station": "Bangkok (Krung Thep Aphiwat)",
+      "to_station": "Surat Thani",
+      "depart_time": "18:50",
+      "arrive_time": "04:58",
+      "duration": "10h 8m"
+    },
+    {
+      "train_no": "85",
+      "train_name": "",
+      "train_type": "Express",
+      "from_station": "Bangkok (Krung Thep Aphiwat)",
+      "to_station": "Surat Thani",
+      "depart_time": "19:50",
+      "arrive_time": "06:23",
+      "duration": "10h 33m"
+    },
+    {
+      "train_no": "167",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Bangkok (Krung Thep Aphiwat)",
+      "to_station": "Surat Thani",
+      "depart_time": "20:30",
+      "arrive_time": "07:16",
+      "duration": "10h 46m"
+    },
+    {
+      "train_no": "39",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Bangkok (Krung Thep Aphiwat)",
+      "to_station": "Surat Thani",
+      "depart_time": "22:50",
+      "arrive_time": "07:50",
+      "duration": "9h"
+    }
+  ]
+}

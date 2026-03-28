@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "464",
+    "departure_from_start": "12:40",
+    "arrival_at_current": "12:52",
+    "departure_from_current": "12:53",
+    "arrival_at_to_station": "17:34",
+    "arrival_at_end": "18:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Local",
+    "begin_station_name": "Su-Ngai Padi",
+    "end_station_name": "Khok Sai",
+    "begin_station_code": 4428,
+    "end_station_code": 4338
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "forward": [
+    {
+      "trainNo": "233",
+      "trainTypeNameEn": "Ordinary",
+      "departureTime": "12:00",
+      "arrivalTime": "20:40",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ],
+  "backward": [
+    {
+      "trainNo": "234",
+      "trainTypeNameEn": "Ordinary",
+      "departureTime": "05:20",
+      "arrivalTime": "14:25",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ]
+}

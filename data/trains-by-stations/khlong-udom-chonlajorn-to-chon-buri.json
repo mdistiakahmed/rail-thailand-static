@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "283",
+    "departure_from_start": "06:55",
+    "arrival_at_current": "08:28",
+    "departure_from_current": "08:29",
+    "arrival_at_to_station": "09:48",
+    "arrival_at_end": "11:45",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Khlong Udom Chonlajorn",
+    "end_station_name": "Chon Buri",
+    "begin_station_code": 3018,
+    "end_station_code": 3032
+  }
+]

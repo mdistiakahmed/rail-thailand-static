@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "4380",
+    "departure_from_start": "06:20",
+    "arrival_at_current": "06:30",
+    "departure_from_current": "06:31",
+    "arrival_at_to_station": "06:50",
+    "arrival_at_end": "07:19",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Lad Yai",
+    "end_station_name": "Ban Ka Long",
+    "begin_station_code": 5030,
+    "end_station_code": 5026
+  },
+  {
+    "train_code": "4382",
+    "departure_from_start": "09:00",
+    "arrival_at_current": "09:10",
+    "departure_from_current": "09:11",
+    "arrival_at_to_station": "09:30",
+    "arrival_at_end": "10:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Lad Yai",
+    "end_station_name": "Ban Ka Long",
+    "begin_station_code": 5030,
+    "end_station_code": 5026
+  },
+  {
+    "train_code": "4384",
+    "departure_from_start": "11:30",
+    "arrival_at_current": "11:40",
+    "departure_from_current": "11:41",
+    "arrival_at_to_station": "12:00",
+    "arrival_at_end": "12:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Lad Yai",
+    "end_station_name": "Ban Ka Long",
+    "begin_station_code": 5030,
+    "end_station_code": 5026
+  },
+  {
+    "train_code": "4386",
+    "departure_from_start": "15:30",
+    "arrival_at_current": "15:40",
+    "departure_from_current": "15:41",
+    "arrival_at_to_station": "16:00",
+    "arrival_at_end": "16:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Lad Yai",
+    "end_station_name": "Ban Ka Long",
+    "begin_station_code": 5030,
+    "end_station_code": 5026
+  }
+]

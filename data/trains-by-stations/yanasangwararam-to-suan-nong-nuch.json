@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "997",
+    "departure_from_start": "06:45",
+    "arrival_at_current": "09:33",
+    "departure_from_current": "09:34",
+    "arrival_at_to_station": "09:38",
+    "arrival_at_end": "10:10",
+    "weekly_offday": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "operating_days": "Saturday, Sunday",
+    "train_type": "Special",
+    "begin_station_name": "Yanasangwararam",
+    "end_station_name": "Suan Nong Nuch",
+    "begin_station_code": 3123,
+    "end_station_code": 3044
+  },
+  {
+    "train_code": "283",
+    "departure_from_start": "06:55",
+    "arrival_at_current": "10:56",
+    "departure_from_current": "10:57",
+    "arrival_at_to_station": "11:03",
+    "arrival_at_end": "11:45",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Yanasangwararam",
+    "end_station_name": "Suan Nong Nuch",
+    "begin_station_code": 3123,
+    "end_station_code": 3044
+  }
+]

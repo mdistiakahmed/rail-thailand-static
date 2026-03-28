@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "233",
+    "departure_from_start": "12:00",
+    "arrival_at_current": "15:24",
+    "departure_from_current": "15:25",
+    "arrival_at_to_station": "16:16",
+    "arrival_at_end": "20:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Klang Dong",
+    "end_station_name": "Khlong Khanan Chit",
+    "begin_station_code": 2088,
+    "end_station_code": 2097
+  }
+]

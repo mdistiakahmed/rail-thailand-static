@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "134",
+    "departure_from_start": "18:25",
+    "arrival_at_current": "01:09",
+    "departure_from_current": "01:10",
+    "arrival_at_to_station": "02:03",
+    "arrival_at_end": "07:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Ban Luam",
+    "end_station_name": "Bamnet Narong",
+    "begin_station_code": 2072,
+    "end_station_code": 2057
+  },
+  {
+    "train_code": "76",
+    "departure_from_start": "07:45",
+    "arrival_at_current": "11:56",
+    "departure_from_current": "11:57",
+    "arrival_at_to_station": "12:34",
+    "arrival_at_end": "16:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Express",
+    "begin_station_name": "Ban Luam",
+    "end_station_name": "Bamnet Narong",
+    "begin_station_code": 2072,
+    "end_station_code": 2057
+  }
+]

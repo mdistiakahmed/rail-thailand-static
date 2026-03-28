@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "208",
+    "departure_from_start": "05:00",
+    "arrival_at_current": "05:32",
+    "departure_from_current": "05:33",
+    "arrival_at_to_station": "08:09",
+    "arrival_at_end": "10:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Pho",
+    "end_station_name": "Map Phra Chan",
+    "begin_station_code": 1072,
+    "end_station_code": 1033
+  },
+  {
+    "train_code": "202",
+    "departure_from_start": "06:05",
+    "arrival_at_current": "09:08",
+    "departure_from_current": "09:09",
+    "arrival_at_to_station": "11:44",
+    "arrival_at_end": "13:45",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Pho",
+    "end_station_name": "Map Phra Chan",
+    "begin_station_code": 1072,
+    "end_station_code": 1033
+  },
+  {
+    "train_code": "112",
+    "departure_from_start": "08:00",
+    "arrival_at_current": "13:31",
+    "departure_from_current": "13:32",
+    "arrival_at_to_station": "15:54",
+    "arrival_at_end": "17:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Nong Pho",
+    "end_station_name": "Map Phra Chan",
+    "begin_station_code": 1072,
+    "end_station_code": 1033
+  }
+]

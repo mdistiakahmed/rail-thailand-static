@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "202",
+    "departure_from_start": "06:05",
+    "arrival_at_current": "08:19",
+    "departure_from_current": "08:20",
+    "arrival_at_to_station": "10:48",
+    "arrival_at_end": "13:45",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Bung Borapret",
+    "end_station_name": "Ban Pa Wai",
+    "begin_station_code": 1226,
+    "end_station_code": 1048
+  }
+]

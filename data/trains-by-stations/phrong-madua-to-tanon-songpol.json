@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "257",
+    "departure_from_start": "07:45",
+    "arrival_at_current": "09:05",
+    "departure_from_current": "09:06",
+    "arrival_at_to_station": "09:26",
+    "arrival_at_end": "12:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Phrong Madua",
+    "end_station_name": "Tanon Songpol",
+    "begin_station_code": 4018,
+    "end_station_code": 4043
+  },
+  {
+    "train_code": "259",
+    "departure_from_start": "13:55",
+    "arrival_at_current": "15:10",
+    "departure_from_current": "15:11",
+    "arrival_at_to_station": "15:26",
+    "arrival_at_end": "18:15",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Phrong Madua",
+    "end_station_name": "Tanon Songpol",
+    "begin_station_code": 4018,
+    "end_station_code": 4043
+  }
+]

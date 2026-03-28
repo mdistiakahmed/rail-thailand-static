@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "260",
+    "departure_from_start": "05:20",
+    "arrival_at_current": "06:21",
+    "departure_from_current": "06:22",
+    "arrival_at_to_station": "09:35",
+    "arrival_at_end": "09:35",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Pong Sieo",
+    "end_station_name": "Bangkok (Thon Buri)",
+    "begin_station_code": 4065,
+    "end_station_code": 4002
+  }
+]

@@ -1,0 +1,86 @@
+{
+  "forward": [
+    {
+      "trainNo": "7",
+      "trainTypeNameEn": "Special Exp.",
+      "departureTime": "07:30",
+      "arrivalTime": "17:50",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "109",
+      "trainTypeNameEn": "Rapid",
+      "departureTime": "14:15",
+      "arrivalTime": "04:00",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "9",
+      "trainTypeNameEn": "Special Exp.",
+      "departureTime": "18:40",
+      "arrivalTime": "07:15",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "13",
+      "trainTypeNameEn": "Special Exp.",
+      "departureTime": "20:05",
+      "arrivalTime": "08:45",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "51",
+      "trainTypeNameEn": "Express",
+      "departureTime": "22:30",
+      "arrivalTime": "11:40",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ],
+  "backward": [
+    {
+      "trainNo": "102",
+      "trainTypeNameEn": "Rapid",
+      "departureTime": "06:25",
+      "arrivalTime": "20:05",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "8",
+      "trainTypeNameEn": "Special Exp.",
+      "departureTime": "07:30",
+      "arrivalTime": "17:40",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "52",
+      "trainTypeNameEn": "Express",
+      "departureTime": "15:30",
+      "arrivalTime": "05:10",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "14",
+      "trainTypeNameEn": "Special Exp.",
+      "departureTime": "17:05",
+      "arrivalTime": "05:55",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    },
+    {
+      "trainNo": "10",
+      "trainTypeNameEn": "Special Exp.",
+      "departureTime": "18:20",
+      "arrivalTime": "06:30",
+      "operatingDays": "Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+      "offDay": "No off day"
+    }
+  ]
+}

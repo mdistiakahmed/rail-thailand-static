@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "339",
+    "departure_from_start": "05:05",
+    "arrival_at_current": "07:29",
+    "departure_from_current": "07:30",
+    "arrival_at_to_station": "07:33",
+    "arrival_at_end": "08:05",
+    "weekly_offday": "Saturday, Sunday",
+    "operating_days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "train_type": "Commuter",
+    "begin_station_name": "Nong Kuai",
+    "end_station_name": "Nong Saeng",
+    "begin_station_code": 2001,
+    "end_station_code": 2002
+  },
+  {
+    "train_code": "233",
+    "departure_from_start": "12:00",
+    "arrival_at_current": "14:03",
+    "departure_from_current": "14:04",
+    "arrival_at_to_station": "14:07",
+    "arrival_at_end": "20:40",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Kuai",
+    "end_station_name": "Nong Saeng",
+    "begin_station_code": 2001,
+    "end_station_code": 2002
+  },
+  {
+    "train_code": "341",
+    "departure_from_start": "17:00",
+    "arrival_at_current": "19:24",
+    "departure_from_current": "19:25",
+    "arrival_at_to_station": "19:29",
+    "arrival_at_end": "20:00",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Commuter",
+    "begin_station_name": "Nong Kuai",
+    "end_station_name": "Nong Saeng",
+    "begin_station_code": 2001,
+    "end_station_code": 2002
+  }
+]

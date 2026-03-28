@@ -1,0 +1,47 @@
+[
+  {
+    "train_code": "278",
+    "departure_from_start": "06:30",
+    "arrival_at_current": "06:36",
+    "departure_from_current": "06:37",
+    "arrival_at_to_station": "08:29",
+    "arrival_at_end": "10:15",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Ko Daeng",
+    "end_station_name": "Chachoengsao Junction",
+    "begin_station_code": 3074,
+    "end_station_code": 3023
+  },
+  {
+    "train_code": "282",
+    "departure_from_start": "13:25",
+    "arrival_at_current": "13:30",
+    "departure_from_current": "13:31",
+    "arrival_at_to_station": "15:32",
+    "arrival_at_end": "17:15",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Ko Daeng",
+    "end_station_name": "Chachoengsao Junction",
+    "begin_station_code": 3074,
+    "end_station_code": 3023
+  },
+  {
+    "train_code": "276",
+    "departure_from_start": "14:50",
+    "arrival_at_current": "16:55",
+    "departure_from_current": "16:56",
+    "arrival_at_to_station": "18:47",
+    "arrival_at_end": "20:25",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Ban Ko Daeng",
+    "end_station_name": "Chachoengsao Junction",
+    "begin_station_code": 3074,
+    "end_station_code": 3023
+  }
+]

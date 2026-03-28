@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "201",
+    "departure_from_start": "10:15",
+    "arrival_at_current": "13:42",
+    "departure_from_current": "13:43",
+    "arrival_at_to_station": "15:22",
+    "arrival_at_end": "17:55",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Tao",
+    "end_station_name": "Nakhon Sawan",
+    "begin_station_code": 1055,
+    "end_station_code": 1082
+  },
+  {
+    "train_code": "207",
+    "departure_from_start": "14:20",
+    "arrival_at_current": "17:41",
+    "departure_from_current": "17:42",
+    "arrival_at_to_station": "19:30",
+    "arrival_at_end": "19:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Nong Tao",
+    "end_station_name": "Nakhon Sawan",
+    "begin_station_code": 1055,
+    "end_station_code": 1082
+  }
+]

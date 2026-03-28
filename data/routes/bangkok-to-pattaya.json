@@ -1,0 +1,22 @@
+{
+  "forward": [
+    {
+      "trainNo": "997",
+      "trainTypeNameEn": "RAPID",
+      "departureTime": "06:45",
+      "arrivalTime": "09:13",
+      "operatingDays": "Saturday, Sunday",
+      "offDay": "Monday, Tuesday, Wednesday, Thursday, Friday"
+    }
+  ],
+  "backward": [
+    {
+      "trainNo": "998",
+      "trainTypeNameEn": "RAPID",
+      "departureTime": "16:26",
+      "arrivalTime": "18:55",
+      "operatingDays": "Saturday, Sunday",
+      "offDay": "Monday, Tuesday, Wednesday, Thursday, Friday"
+    }
+  ]
+}

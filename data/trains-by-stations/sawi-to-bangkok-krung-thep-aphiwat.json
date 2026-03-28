@@ -1,0 +1,62 @@
+[
+  {
+    "train_code": "40",
+    "departure_from_start": "09:00",
+    "arrival_at_current": "10:39",
+    "departure_from_current": "10:40",
+    "arrival_at_to_station": "18:05",
+    "arrival_at_end": "18:05",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Special Exp.",
+    "begin_station_name": "Sawi",
+    "end_station_name": "Bangkok (Krung Thep Aphiwat)",
+    "begin_station_code": 4194,
+    "end_station_code": 1000
+  },
+  {
+    "train_code": "44",
+    "departure_from_start": "18:25",
+    "arrival_at_current": "20:10",
+    "departure_from_current": "20:11",
+    "arrival_at_to_station": "03:45",
+    "arrival_at_end": "03:45",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Special Exp.",
+    "begin_station_name": "Sawi",
+    "end_station_name": "Bangkok (Krung Thep Aphiwat)",
+    "begin_station_code": 4194,
+    "end_station_code": 1000
+  },
+  {
+    "train_code": "168",
+    "departure_from_start": "14:15",
+    "arrival_at_current": "20:38",
+    "departure_from_current": "20:39",
+    "arrival_at_to_station": "05:10",
+    "arrival_at_end": "05:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Sawi",
+    "end_station_name": "Bangkok (Krung Thep Aphiwat)",
+    "begin_station_code": 4194,
+    "end_station_code": 1000
+  },
+  {
+    "train_code": "172",
+    "departure_from_start": "12:10",
+    "arrival_at_current": "22:57",
+    "departure_from_current": "23:01",
+    "arrival_at_to_station": "07:30",
+    "arrival_at_end": "07:30",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Sawi",
+    "end_station_name": "Bangkok (Krung Thep Aphiwat)",
+    "begin_station_code": 4194,
+    "end_station_code": 1000
+  }
+]

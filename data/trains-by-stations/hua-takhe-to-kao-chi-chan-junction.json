@@ -1,0 +1,17 @@
+[
+  {
+    "train_code": "283",
+    "departure_from_start": "06:55",
+    "arrival_at_current": "08:13",
+    "departure_from_current": "08:14",
+    "arrival_at_to_station": "11:12",
+    "arrival_at_end": "11:45",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Ordinary",
+    "begin_station_name": "Hua Takhe",
+    "end_station_name": "Kao Chi Chan Junction",
+    "begin_station_code": 3015,
+    "end_station_code": 3045
+  }
+]

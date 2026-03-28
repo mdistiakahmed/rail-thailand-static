@@ -1,0 +1,156 @@
+{
+  "from_city": "hua hin",
+  "to_city": "ratchaburi",
+  "schedules": [
+    {
+      "train_no": "44",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Hua Hin",
+      "to_station": "Ratchaburi",
+      "depart_time": "00:14",
+      "arrive_time": "01:42",
+      "duration": "1h 28m"
+    },
+    {
+      "train_no": "168",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Hua Hin",
+      "to_station": "Ratchaburi",
+      "depart_time": "01:26",
+      "arrive_time": "03:06",
+      "duration": "1h 40m"
+    },
+    {
+      "train_no": "86",
+      "train_name": "",
+      "train_type": "Express",
+      "from_station": "Hua Hin",
+      "to_station": "Ratchaburi",
+      "depart_time": "02:20",
+      "arrive_time": "04:02",
+      "duration": "1h 42m"
+    },
+    {
+      "train_no": "84",
+      "train_name": "",
+      "train_type": "Express",
+      "from_station": "Hua Hin",
+      "to_station": "Ratchaburi",
+      "depart_time": "03:07",
+      "arrive_time": "04:45",
+      "duration": "1h 38m"
+    },
+    {
+      "train_no": "172",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Hua Hin",
+      "to_station": "Ratchaburi",
+      "depart_time": "03:51",
+      "arrive_time": "05:29",
+      "duration": "1h 38m"
+    },
+    {
+      "train_no": "32",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Hua Hin",
+      "to_station": "Ratchaburi",
+      "depart_time": "04:27",
+      "arrive_time": "06:05",
+      "duration": "1h 38m"
+    },
+    {
+      "train_no": "38",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Hua Hin",
+      "to_station": "Ratchaburi",
+      "depart_time": "05:17",
+      "arrive_time": "06:56",
+      "duration": "1h 39m"
+    },
+    {
+      "train_no": "46",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Hua Hin",
+      "to_station": "Ratchaburi",
+      "depart_time": "05:17",
+      "arrive_time": "06:56",
+      "duration": "1h 39m"
+    },
+    {
+      "train_no": "252",
+      "train_name": "",
+      "train_type": "Ordinary",
+      "from_station": "Hua Hin",
+      "to_station": "Ratchaburi",
+      "depart_time": "06:14",
+      "arrive_time": "08:13",
+      "duration": "1h 59m"
+    },
+    {
+      "train_no": "170",
+      "train_name": "",
+      "train_type": "Rapid",
+      "from_station": "Hua Hin",
+      "to_station": "Ratchaburi",
+      "depart_time": "06:40",
+      "arrive_time": "08:29",
+      "duration": "1h 49m"
+    },
+    {
+      "train_no": "986",
+      "train_name": "",
+      "train_type": "Freight",
+      "from_station": "Hua Hin",
+      "to_station": "Ratchaburi",
+      "depart_time": "08:31",
+      "arrive_time": "10:10",
+      "duration": "1h 39m"
+    },
+    {
+      "train_no": "254",
+      "train_name": "",
+      "train_type": "Ordinary",
+      "from_station": "Hua Hin",
+      "to_station": "Ratchaburi",
+      "depart_time": "12:47",
+      "arrive_time": "14:50",
+      "duration": "2h 3m"
+    },
+    {
+      "train_no": "40",
+      "train_name": "",
+      "train_type": "Special Exp.",
+      "from_station": "Hua Hin",
+      "to_station": "Ratchaburi",
+      "depart_time": "14:36",
+      "arrive_time": "16:06",
+      "duration": "1h 30m"
+    },
+    {
+      "train_no": "262",
+      "train_name": "",
+      "train_type": "Ordinary",
+      "from_station": "Hua Hin",
+      "to_station": "Ratchaburi",
+      "depart_time": "14:56",
+      "arrive_time": "16:30",
+      "duration": "1h 34m"
+    },
+    {
+      "train_no": "912",
+      "train_name": "",
+      "train_type": "Excursion",
+      "from_station": "Hua Hin",
+      "to_station": "Ratchaburi",
+      "depart_time": "16:38",
+      "arrive_time": "18:08",
+      "duration": "1h 30m"
+    }
+  ]
+}

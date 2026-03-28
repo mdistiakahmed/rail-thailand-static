@@ -1,0 +1,32 @@
+[
+  {
+    "train_code": "142",
+    "departure_from_start": "17:35",
+    "arrival_at_current": "19:28",
+    "departure_from_current": "19:29",
+    "arrival_at_to_station": "03:18",
+    "arrival_at_end": "04:10",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Samrong Thap",
+    "end_station_name": "Bang Pa-in",
+    "begin_station_code": 2261,
+    "end_station_code": 1028
+  },
+  {
+    "train_code": "140",
+    "departure_from_start": "20:30",
+    "arrival_at_current": "22:06",
+    "departure_from_current": "22:07",
+    "arrival_at_to_station": "05:50",
+    "arrival_at_end": "06:50",
+    "weekly_offday": "None",
+    "operating_days": "Daily",
+    "train_type": "Rapid",
+    "begin_station_name": "Samrong Thap",
+    "end_station_name": "Bang Pa-in",
+    "begin_station_code": 2261,
+    "end_station_code": 1028
+  }
+]
