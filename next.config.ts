@@ -5,8 +5,6 @@ const nextConfig = {
   images: {
     domains: ["cdn.sanity.io"],
   },
-  trailingSlash: true,
-  skipTrailingSlashRedirect: true,
-}
+};
 
 export default nextConfig;
